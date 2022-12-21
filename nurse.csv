@@ -1,0 +1,290 @@
+nurse_id,name,gender,doc_id,hosp_name
+11,Mary Haynes,M,42,American Mission Hospital
+12,Patricia Camacho,M,71,Al-Hilal Hospital
+13,Duane Mathis,M,260,St Thomas Hospital London
+14,Peter Hansen,F,58,King Faisal Specialist Hospital & Research Centre
+15,Christopher Davis,F,65,Mayo Clinic
+16,Brian Johnson,M,11,American Mission Hospital
+17,Danielle Williams,F,203,St Thomas Hospital London
+18,Susan Lloyd,M,70,St Thomas Hospital London
+19,George Johns,M,181,King Hamad University Hospital
+20,Randy Kennedy,M,91,American Mission Hospital
+21,Joseph Santana,M,211,St Thomas Hospital London
+22,Jeffery Harris,M,23,King Hamad University Hospital
+23,Nicole Tate,M,139,Al-Hilal Hospital
+24,Ebony Butler,M,286,Al-Hilal Hospital
+25,Julie Allen,F,14,Al-Hilal Hospital
+26,Brittany Evans,M,228,American Mission Hospital
+27,Kimberly Fuller,M,270,King Hamad University Hospital
+28,Meagan Evans,M,195,Salamaniya Hospital
+29,Lynn Boone,M,179,Mayo Clinic
+30,Debbie Bennett,F,76,Salamaniya Hospital
+31,Gregory Cook,M,75,King Faisal Specialist Hospital & Research Centre
+32,Kathleen Garcia,F,130,King Hamad University Hospital
+33,Sean Richard,M,79,St Thomas Hospital London
+34,Steven Perez,F,59,St Thomas Hospital London
+35,Alexander Wong,M,198,Salamaniya Hospital
+36,Lynn Adams,M,66,Salamaniya Hospital
+37,Tracy Davis,M,51,Emirates Hospital
+38,Kenneth Campbell,M,171,King Faisal Specialist Hospital & Research Centre
+39,Curtis Sherman,M,230,King Faisal Specialist Hospital & Research Centre
+40,Scott Barnes,M,165,King Hamad University Hospital
+41,Mary Braun,M,296,American Mission Hospital
+42,Paul Garza,F,287,King Hamad University Hospital
+43,Phyllis Wong,M,32,Al-Hilal Hospital
+44,Benjamin Harris,F,143,Bahrain Defence Force Hospital
+45,Timothy Jones,M,294,Dar Al Shifa Hospital
+46,Timothy Leonard,M,204,Salamaniya Hospital
+47,Michael Martinez,M,112,King Faisal Specialist Hospital & Research Centre
+48,Zachary Hatfield,F,200,Mayo Clinic
+49,Megan Rogers,M,110,King Hamad University Hospital
+50,Laura Burke,M,257,American Mission Hospital
+51,Brittany Brooks,M,163,King Hamad University Hospital
+52,Lauren Miller,M,255,Al-Hilal Hospital
+53,Paul Hubbard,M,224,King Hamad University Hospital
+54,Michael Wilson,M,284,Bahrain Defence Force Hospital
+55,Tiffany Smith,M,35,Al-Hilal Hospital
+56,Dylan Parker,F,219,Dar Al Shifa Hospital
+57,Jackson Perez,F,127,Dar Al Shifa Hospital
+58,George Herring,M,268,Emirates Hospital
+59,Ryan Vincent,M,120,Mayo Clinic
+60,Brenda Gray,M,48,Emirates Hospital
+61,William Wood,M,173,Emirates Hospital
+62,Daniel Obrien,M,94,St Thomas Hospital London
+63,Dennis Walsh,M,226,King Hamad University Hospital
+64,Peter Brown,F,216,American Mission Hospital
+65,Colleen Fletcher,M,82,Dar Al Shifa Hospital
+66,Courtney Lopez,M,18,St Thomas Hospital London
+67,Joshua Keller,M,238,St Thomas Hospital London
+68,Jay Lewis,F,89,Emirates Hospital
+69,John Hill,M,199,American Mission Hospital
+70,Nathan Ramirez,F,152,American Mission Hospital
+71,Michael Clark,M,30,American Mission Hospital
+72,Billy Zuniga Jr.,M,24,St Thomas Hospital London
+73,Mitchell Thomas,F,33,American Mission Hospital
+74,James Sullivan,M,184,Mayo Clinic
+75,James Thompson,M,169,Al-Hilal Hospital
+76,Eric Sanchez,M,121,Mayo Clinic
+77,Marvin Fowler,M,176,Dar Al Shifa Hospital
+78,Caleb Hill,F,175,Dar Al Shifa Hospital
+79,Brian Phillips,M,263,American Mission Hospital
+80,Ryan Riley,M,60,King Faisal Specialist Hospital & Research Centre
+81,Carla Rowland,M,212,Al-Hilal Hospital
+82,Steven Guzman,F,293,Mayo Clinic
+83,Tamara Leonard,M,43,Al-Hilal Hospital
+84,Katherine Contreras,M,114,Bahrain Defence Force Hospital
+85,Melissa Elliott,M,235,Al-Hilal Hospital
+86,Brandon Carpenter,M,162,Bahrain Defence Force Hospital
+87,Elizabeth Meyers,F,249,King Hamad University Hospital
+88,Tanner Wells,M,183,St Thomas Hospital London
+89,Ashley Parker,M,92,St Thomas Hospital London
+90,Cameron Buchanan,M,63,St Thomas Hospital London
+91,Patrick Nunez,M,252,King Faisal Specialist Hospital & Research Centre
+92,Tracie Gregory,M,180,American Mission Hospital
+93,Kurt Franco,M,253,Dar Al Shifa Hospital
+94,Tracy Tanner,M,233,St Thomas Hospital London
+95,Jose Chapman,M,128,Bahrain Defence Force Hospital
+96,Kristy Morris,F,246,American Mission Hospital
+97,Connie Townsend,M,194,King Hamad University Hospital
+98,Michelle Edwards,M,280,Salamaniya Hospital
+99,Robert Moon,M,147,Mayo Clinic
+100,Jennifer Griffin,M,223,Emirates Hospital
+101,Mark Nelson,M,205,Mayo Clinic
+102,James Burns,M,213,St Thomas Hospital London
+103,Richard Kelley,M,148,Mayo Clinic
+104,Brandon Green,M,87,St Thomas Hospital London
+105,Alexandra Cannon,M,61,American Mission Hospital
+106,Robert Gonzales,M,57,Mayo Clinic
+107,Miss Kristine Johnson,M,271,St Thomas Hospital London
+108,Jodi Porter,M,126,St Thomas Hospital London
+109,Michael Gonzales,M,145,King Faisal Specialist Hospital & Research Centre
+110,Heather Wells,M,100,Mayo Clinic
+111,Jason Macias,M,196,Emirates Hospital
+112,Mr. James Hall,M,289,American Mission Hospital
+113,Raymond Carroll,M,265,King Hamad University Hospital
+114,Troy Villa,M,138,Salamaniya Hospital
+115,Russell Curry,M,178,Bahrain Defence Force Hospital
+116,Kristina Brown,M,96,Bahrain Defence Force Hospital
+117,Daniel Leblanc,M,136,King Faisal Specialist Hospital & Research Centre
+118,Christopher Bush,M,153,Mayo Clinic
+119,Kristie Smith,F,272,Bahrain Defence Force Hospital
+120,Brian Choi,M,137,Al-Hilal Hospital
+121,Christine Osborne,F,215,Bahrain Defence Force Hospital
+122,Michelle Moody,M,107,St Thomas Hospital London
+123,Steven Maxwell,M,20,Emirates Hospital
+124,Brianna Harrison,M,295,King Faisal Specialist Hospital & Research Centre
+125,Joseph Richardson,F,250,Bahrain Defence Force Hospital
+126,Angela Scott,M,106,Dar Al Shifa Hospital
+127,Diane Drake,M,248,King Hamad University Hospital
+128,Heather Phillips,M,227,King Hamad University Hospital
+129,Megan Chapman,M,88,American Mission Hospital
+130,Jeffrey Meyer,M,197,Mayo Clinic
+131,Matthew Lawson,M,267,Mayo Clinic
+132,Tracy Barry,M,240,Emirates Hospital
+133,Fernando Klein,M,281,Mayo Clinic
+134,Elizabeth Howard,F,244,Emirates Hospital
+135,Heather Wood,M,86,King Hamad University Hospital
+136,Brad Smith,M,37,Emirates Hospital
+137,Cindy Craig,F,243,American Mission Hospital
+138,Denise Dougherty,F,241,Emirates Hospital
+139,Natalie Miller,M,185,King Hamad University Hospital
+140,Sonia Wright,M,74,Bahrain Defence Force Hospital
+141,Karen Walker,F,207,King Faisal Specialist Hospital & Research Centre
+142,Karl Walker,M,38,King Hamad University Hospital
+143,David Ramsey,M,154,St Thomas Hospital London
+144,Christopher Brown MD,M,177,Bahrain Defence Force Hospital
+145,Jesse Johnson,M,276,Al-Hilal Hospital
+146,Dr. James Steele,M,46,Mayo Clinic
+147,Joshua Adams,M,104,St Thomas Hospital London
+148,Kimberly Hanson,M,242,Salamaniya Hospital
+149,Jeffrey Alexander,M,29,Emirates Hospital
+150,Christian Smith,M,21,American Mission Hospital
+151,Christine Hatfield,F,72,Al-Hilal Hospital
+152,John Hall,M,189,King Faisal Specialist Hospital & Research Centre
+153,David Fischer,M,25,Al-Hilal Hospital
+154,Christina Stone,M,39,American Mission Hospital
+155,Mary Lawrence,M,239,King Faisal Specialist Hospital & Research Centre
+156,Michelle Williams,M,41,St Thomas Hospital London
+157,James Mayo,M,251,Mayo Clinic
+158,Daniel Bradshaw,F,81,Bahrain Defence Force Hospital
+159,Ryan Martin,M,17,Dar Al Shifa Hospital
+160,Raymond Taylor,M,53,Dar Al Shifa Hospital
+161,Joshua Washington,M,188,Mayo Clinic
+162,Tyler Bass,M,84,Salamaniya Hospital
+163,Heather Bradley,M,299,Al-Hilal Hospital
+164,Amanda Fischer,M,259,Al-Hilal Hospital
+165,Phillip Clark,M,119,Mayo Clinic
+166,Erin Mccarty,M,28,Dar Al Shifa Hospital
+167,Zachary Love,F,64,Salamaniya Hospital
+168,Rebecca Gonzalez,M,111,American Mission Hospital
+169,Gary Griffin,M,186,King Hamad University Hospital
+170,Dana Johnson DVM,M,31,American Mission Hospital
+171,Brandon Preston,F,298,American Mission Hospital
+172,Daniel Shepherd,M,208,Mayo Clinic
+173,Raymond Perry,M,125,Bahrain Defence Force Hospital
+174,Kelly Glenn,M,78,Dar Al Shifa Hospital
+175,Leah Dillon,F,115,Emirates Hospital
+176,Tiffany Freeman,F,202,Mayo Clinic
+177,Erin Serrano,M,220,Salamaniya Hospital
+178,Brian Hudson,M,47,King Hamad University Hospital
+179,John Hart,F,191,Bahrain Defence Force Hospital
+180,Deborah Jones,M,105,Emirates Hospital
+181,Nicole Kelly DDS,F,221,Bahrain Defence Force Hospital
+182,Mike Beasley,M,256,Mayo Clinic
+183,John Schroeder,M,245,Salamaniya Hospital
+184,Gregory Simmons,M,222,American Mission Hospital
+185,Tammy Gomez,M,49,King Hamad University Hospital
+186,Thomas Rodriguez,F,34,American Mission Hospital
+187,Teresa Cox,M,277,Dar Al Shifa Hospital
+188,Mrs. Karen Jenkins DDS,M,101,Dar Al Shifa Hospital
+189,Thomas Carter,M,210,King Hamad University Hospital
+190,Jeffrey Hill,M,149,Al-Hilal Hospital
+191,Matthew Johnson,M,67,Emirates Hospital
+192,Stephanie Martin,M,258,King Hamad University Hospital
+193,Jennifer Michael,M,174,Dar Al Shifa Hospital
+194,Ashley Jimenez,M,292,Al-Hilal Hospital
+195,Kevin Stewart,F,102,Al-Hilal Hospital
+196,Sandra Robbins,M,155,Mayo Clinic
+197,Sarah Peterson,M,167,Mayo Clinic
+198,Adam Galloway,M,116,American Mission Hospital
+199,David Smith,M,172,Dar Al Shifa Hospital
+200,Kenneth Matthews,M,201,St Thomas Hospital London
+201,Julie Allen,M,166,St Thomas Hospital London
+202,Craig Jones,F,52,American Mission Hospital
+203,Isaac Mathis,M,266,Mayo Clinic
+204,Lisa Ho,M,141,Al-Hilal Hospital
+205,Tabitha Jacobs,M,237,Al-Hilal Hospital
+206,Jason Hansen,M,44,Al-Hilal Hospital
+207,Heather Brady,M,193,King Hamad University Hospital
+208,Michael Cuevas,F,40,King Hamad University Hospital
+209,Destiny Moses,M,108,Salamaniya Hospital
+210,Michael Hughes,F,54,Emirates Hospital
+211,Connie Carrillo,M,254,Dar Al Shifa Hospital
+212,Megan Wilson MD,M,15,King Hamad University Hospital
+213,Dr. Michelle Martinez,M,206,Mayo Clinic
+214,Sara Tucker,M,22,Mayo Clinic
+215,Chad Wyatt,M,231,American Mission Hospital
+216,Lauren Bates,M,16,Emirates Hospital
+217,Mark Shaw,M,187,Emirates Hospital
+218,Kenneth Howard,M,134,Al-Hilal Hospital
+219,Gary Wood,M,269,Emirates Hospital
+220,Anne White,M,142,Al-Hilal Hospital
+221,Richard Robbins,M,144,Salamaniya Hospital
+222,Christine Salas,M,113,Dar Al Shifa Hospital
+223,Danielle Juarez,M,131,Dar Al Shifa Hospital
+224,Jesse Robinson,M,282,Emirates Hospital
+225,Melissa Francis,M,117,American Mission Hospital
+226,Cory Gonzalez,M,290,American Mission Hospital
+227,Aaron Payne,M,123,Salamaniya Hospital
+228,Rebecca Mendez,M,90,King Hamad University Hospital
+229,Ryan Chen,M,291,Emirates Hospital
+230,Phyllis Watson,M,26,Emirates Hospital
+231,Mark Wilson,M,150,Bahrain Defence Force Hospital
+232,Lisa Yoder,F,80,Salamaniya Hospital
+233,Christopher Gates,M,279,Salamaniya Hospital
+234,Peter Baxter,M,140,King Hamad University Hospital
+235,Patrick French DVM,M,12,Salamaniya Hospital
+236,Katherine Gonzalez,M,236,King Hamad University Hospital
+237,Steven Dawson,M,283,Al-Hilal Hospital
+238,Kristopher Gonzalez,M,118,Salamaniya Hospital
+239,Latoya Austin,F,225,St Thomas Hospital London
+240,Michelle Berg,M,69,Emirates Hospital
+241,Melanie Chang,M,209,King Faisal Specialist Hospital & Research Centre
+242,Samuel Christensen,M,97,Bahrain Defence Force Hospital
+243,Travis Smith,M,146,St Thomas Hospital London
+244,Joseph Perez,M,161,King Hamad University Hospital
+245,Andrew Liu,M,62,Al-Hilal Hospital
+246,Mrs. Kara Ward,M,95,King Hamad University Hospital
+247,Amber Mitchell,F,151,Mayo Clinic
+248,Alexandra Wells,M,297,King Faisal Specialist Hospital & Research Centre
+249,Dillon Rice,M,124,King Hamad University Hospital
+250,Denise Snow,M,132,Salamaniya Hospital
+251,Donald Phillips,F,133,King Hamad University Hospital
+252,Joseph Carter,M,83,Dar Al Shifa Hospital
+253,Ann Harper,F,278,Bahrain Defence Force Hospital
+254,Charles Jones,M,56,Emirates Hospital
+255,Christopher Dunn,M,285,Emirates Hospital
+256,Ellen Weaver,F,157,Al-Hilal Hospital
+257,Tina Price,M,160,St Thomas Hospital London
+258,John Norman,F,247,Emirates Hospital
+259,Sandra White,F,85,Mayo Clinic
+260,Reginald Walsh,M,93,Dar Al Shifa Hospital
+261,Richard Sanchez,M,274,Al-Hilal Hospital
+262,Kathy King,M,170,King Hamad University Hospital
+263,Amanda Day,M,261,Al-Hilal Hospital
+264,Megan Rose,M,229,King Hamad University Hospital
+265,Sheryl Leonard,M,45,Dar Al Shifa Hospital
+266,Amanda Gibson,M,73,American Mission Hospital
+267,Linda Chambers,M,135,American Mission Hospital
+268,Renee Lopez,M,182,Mayo Clinic
+269,Sheri Walters,M,68,Bahrain Defence Force Hospital
+270,Michael Black,F,55,Salamaniya Hospital
+271,Kristi Santiago,M,168,Mayo Clinic
+272,Stephen Lucas,M,275,Emirates Hospital
+273,Kyle Luna,M,288,King Hamad University Hospital
+274,Brett Smith,M,262,King Faisal Specialist Hospital & Research Centre
+275,Kristy Banks,F,159,King Faisal Specialist Hospital & Research Centre
+276,Troy Miller,M,129,Mayo Clinic
+277,Mark Miller,M,232,King Hamad University Hospital
+278,Brenda Ramirez,M,164,Salamaniya Hospital
+279,Susan Saunders,F,156,Mayo Clinic
+280,Matthew Aguilar,M,19,Bahrain Defence Force Hospital
+281,Cindy Garcia,F,192,Emirates Hospital
+282,Ryan Acevedo,M,36,Dar Al Shifa Hospital
+283,Debra Cook,F,27,Dar Al Shifa Hospital
+284,Eric Riley,M,98,Emirates Hospital
+285,Autumn Thomas,M,50,Mayo Clinic
+286,Lori White,M,158,Bahrain Defence Force Hospital
+287,Catherine Krueger,M,103,St Thomas Hospital London
+288,Bobby Hernandez,M,99,Al-Hilal Hospital
+289,John Parker,M,264,King Faisal Specialist Hospital & Research Centre
+290,Kenneth Ingram,M,13,King Faisal Specialist Hospital & Research Centre
+291,Brian Hart,F,214,King Faisal Specialist Hospital & Research Centre
+292,Michael Harris,M,273,Dar Al Shifa Hospital
+293,Emily French,M,234,Mayo Clinic
+294,David Long,M,217,Salamaniya Hospital
+295,Lisa Dougherty,M,218,King Hamad University Hospital
+296,James Gregory,F,122,American Mission Hospital
+297,Jose Fischer,M,109,St Thomas Hospital London
+298,Heather Morales,F,190,American Mission Hospital
+299,Victor Floyd,M,77,St Thomas Hospital London

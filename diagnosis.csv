@@ -1,0 +1,2990 @@
+diagnos_no,issue_date,treatment,remarks,nurse_id,doc_id
+41,2022/5/10,Phototherapy,Once a week,64,216
+42,2022/11/6,Physiotherapy,Once a month,125,250
+43,2022/11/14,Cyrotherapy,Once a month,273,288
+44,2022/1/3,Immunotherapy,Once a week,67,238
+45,2022/8/16,Radiotherapy,Twice a month,156,41
+46,2022/2/8,Oxygen therapy,Twice a week,217,187
+47,2022/5/25,Aromatherapy,Once in 3 months,283,27
+48,2022/11/11,Aromatherapy,Once a month,83,43
+49,2022/5/9,Immunotherapy,Once in 3 months,115,178
+50,2022/4/10,Phototherapy,Once a month,151,72
+51,2022/9/18,Monotherapy,Once a month,169,186
+52,2022/1/5,Phototherapy,Once a week,254,56
+53,2022/3/14,Cyrotherapy,Once a month,221,144
+54,2022/9/26,Physiotherapy,Once a week,240,69
+55,2022/10/21,Pharmacotherapy,Once a month,244,161
+56,2022/4/24,Pharmacotherapy,Once a week,47,112
+57,2022/5/27,Radiotherapy,Twice a month,243,146
+58,2022/5/7,Immunotherapy,Once a month,153,25
+59,2022/2/9,Phototherapy,Once a month,46,204
+60,2022/6/27,Monotherapy,Once in 3 months,292,273
+61,2022/8/8,Aromatherapy,Once in 3 months,49,110
+62,2022/6/27,Physiotherapy,Once in 3 months,187,277
+63,2022/8/22,Cyrotherapy,Once a month,11,42
+64,2022/6/10,Gene therapy,Once a month,82,293
+65,2022/1/26,Cyrotherapy,Once a week,76,121
+66,2022/3/27,Radiotherapy,Once in 3 months,206,44
+67,2022/10/16,Pharmacotherapy,Twice a week,165,119
+68,2022/3/23,Gene therapy,Once a month,290,13
+69,2022/3/26,Pharmacotherapy,Once a month,213,206
+70,2022/7/24,Radiotherapy,Once a month,82,293
+71,2022/11/18,Oxygen therapy,Once a month,34,59
+72,2022/10/23,Monotherapy,Once a month,136,37
+73,2022/6/13,Pharmacotherapy,Once a week,131,267
+74,2022/9/1,Pharmacotherapy,Once a month,237,283
+75,2022/2/24,Radiotherapy,Once a month,17,203
+76,2022/6/24,Aromatherapy,Once in 3 months,123,20
+77,2022/8/10,Monotherapy,Once a month,232,80
+78,2022/5/11,Immunotherapy,Once a month,258,247
+79,2022/3/12,Oxygen therapy,Twice a week,152,189
+80,2022/4/26,Gene therapy,Twice a month,14,58
+81,2022/7/27,Gene therapy,Once a month,244,161
+82,2022/1/19,Aromatherapy,Once a month,140,74
+83,2022/3/17,Physiotherapy,Once a month,91,252
+84,2022/10/23,Physiotherapy,Once a month,126,106
+85,2022/3/24,Radiotherapy,Once a month,13,260
+86,2022/3/24,Gene therapy,Once a week,173,125
+87,2022/1/25,Pharmacotherapy,Once a month,83,43
+88,2022/6/16,Oxygen therapy,Once a month,40,165
+89,2022/5/20,Monotherapy,Once a month,154,39
+90,2022/9/22,Cyrotherapy,Once a month,252,83
+91,2022/8/1,Radiotherapy,Once in 3 months,54,284
+92,2022/8/13,Phototherapy,Once a month,286,158
+93,2022/1/14,Gene therapy,Once a month,267,135
+94,2022/4/13,Cyrotherapy,Once a month,180,105
+95,2022/11/7,Physiotherapy,Once a month,231,150
+96,2022/11/17,Gene therapy,Once a month,12,71
+97,2022/4/19,Pharmacotherapy,Once a month,260,93
+98,2022/8/23,Immunotherapy,Once a month,229,291
+99,2022/2/21,Aromatherapy,Once a month,235,12
+100,2022/7/19,Oxygen therapy,Once a month,271,168
+101,2022/2/19,Physiotherapy,Twice a month,130,197
+102,2022/1/14,Immunotherapy,Once a week,180,105
+103,2022/2/26,Aromatherapy,Once in 3 months,56,219
+104,2022/6/18,Gene therapy,Once a week,218,134
+105,2022/2/11,Radiotherapy,Once a month,56,219
+106,2022/3/16,Phototherapy,Once in 3 months,63,226
+107,2022/7/10,Oxygen therapy,Once a month,131,267
+108,2022/6/14,Physiotherapy,Once a month,58,268
+109,2022/9/23,Radiotherapy,Twice a week,93,253
+110,2022/1/9,Monotherapy,Once a month,78,175
+111,2022/6/16,Radiotherapy,Once a month,165,119
+112,2022/9/25,Gene therapy,Once a month,176,202
+113,2022/1/13,Phototherapy,Once a month,203,266
+114,2022/3/21,Aromatherapy,Once a month,149,29
+115,2022/11/13,Aromatherapy,Once a month,127,248
+116,2022/1/15,Phototherapy,Once in 3 months,218,134
+117,2022/5/13,Radiotherapy,Once in 3 months,108,126
+118,2022/7/4,Phototherapy,Once a month,233,279
+119,2022/6/26,Aromatherapy,Once a month,245,62
+120,2022/4/19,Oxygen therapy,Once a month,136,37
+121,2022/5/25,Cyrotherapy,Once in 3 months,251,133
+122,2022/10/17,Radiotherapy,Once a month,214,22
+123,2022/4/9,Cyrotherapy,Once in 3 months,78,175
+124,2022/6/9,Oxygen therapy,Once a month,152,189
+125,2022/8/4,Aromatherapy,Once a month,36,66
+126,2022/6/26,Pharmacotherapy,Once a month,218,134
+127,2022/2/9,Pharmacotherapy,Once in 3 months,292,273
+128,2022/1/10,Radiotherapy,Once a month,232,80
+129,2022/6/24,Pharmacotherapy,Once a week,138,241
+130,2022/10/11,Physiotherapy,Once a month,219,269
+131,2022/3/5,Oxygen therapy,Once a month,175,115
+132,2022/9/3,Monotherapy,Once a month,98,280
+133,2022/8/19,Cyrotherapy,Twice a month,85,235
+134,2022/11/5,Monotherapy,Once a week,164,259
+135,2022/8/10,Phototherapy,Once in 3 months,90,63
+136,2022/4/23,Cyrotherapy,Once a month,244,161
+137,2022/11/5,Pharmacotherapy,Once a week,63,226
+138,2022/11/8,Phototherapy,Once a month,179,191
+139,2022/4/7,Pharmacotherapy,Once a month,151,72
+140,2022/2/16,Oxygen therapy,Once a week,139,185
+141,2022/1/14,Phototherapy,Once a month,209,108
+142,2022/8/3,Immunotherapy,Once a month,147,104
+143,2022/9/21,Cyrotherapy,Once a month,259,85
+144,2022/1/13,Immunotherapy,Twice a month,152,189
+145,2022/1/10,Pharmacotherapy,Once a month,242,97
+146,2022/11/14,Physiotherapy,Twice a week,226,290
+147,2022/1/16,Monotherapy,Twice a month,237,283
+148,2022/7/25,Immunotherapy,Twice a week,65,82
+149,2022/10/2,Gene therapy,Once a month,126,106
+150,2022/5/23,Pharmacotherapy,Once a month,266,73
+151,2022/6/10,Gene therapy,Once a month,107,271
+152,2022/2/12,Pharmacotherapy,Once a month,162,84
+153,2022/11/3,Oxygen therapy,Once a month,38,171
+154,2022/6/7,Physiotherapy,Once a month,34,59
+155,2022/10/27,Aromatherapy,Once a month,167,64
+156,2022/11/22,Monotherapy,Once a month,239,225
+157,2022/1/21,Aromatherapy,Once a month,117,136
+158,2022/8/21,Aromatherapy,Once a month,172,208
+159,2022/6/12,Cyrotherapy,Once a month,43,32
+160,2022/10/3,Monotherapy,Once a month,87,249
+161,2022/6/25,Immunotherapy,Once a week,170,31
+162,2022/9/5,Cyrotherapy,Once a month,67,238
+163,2022/9/25,Monotherapy,Once a month,186,34
+164,2022/6/15,Oxygen therapy,Twice a week,70,152
+165,2022/6/12,Cyrotherapy,Once a week,240,69
+166,2022/11/17,Monotherapy,Twice a month,233,279
+167,2022/3/8,Phototherapy,Once a month,85,235
+168,2022/8/27,Phototherapy,Once a week,286,158
+169,2022/6/10,Immunotherapy,Once a week,38,171
+170,2022/6/12,Gene therapy,Once in 3 months,131,267
+171,2022/2/27,Radiotherapy,Once a month,40,165
+172,2022/10/22,Physiotherapy,Once a month,181,221
+173,2022/7/10,Pharmacotherapy,Once a month,55,35
+174,2022/7/19,Monotherapy,Twice a month,277,232
+175,2022/9/25,Pharmacotherapy,Once a month,20,91
+176,2022/6/21,Oxygen therapy,Once a month,105,61
+177,2022/7/26,Monotherapy,Once a month,223,131
+178,2022/7/24,Immunotherapy,Once a month,39,230
+179,2022/3/11,Aromatherapy,Once a month,289,264
+180,2022/5/24,Cyrotherapy,Once a month,81,212
+181,2022/4/13,Aromatherapy,Once a month,84,114
+182,2022/11/10,Cyrotherapy,Once a month,177,220
+183,2022/7/10,Monotherapy,Once a month,189,210
+184,2022/11/22,Radiotherapy,Once a month,276,129
+185,2022/2/16,Monotherapy,Once a month,212,15
+186,2022/2/3,Oxygen therapy,Twice a month,141,207
+187,2022/10/19,Pharmacotherapy,Once a month,183,245
+188,2022/8/14,Cyrotherapy,Once a month,257,160
+189,2022/1/22,Phototherapy,Once a month,257,160
+190,2022/1/1,Gene therapy,Once a month,183,245
+191,2022/11/8,Physiotherapy,Once a month,113,265
+192,2022/3/6,Monotherapy,Once a month,269,68
+193,2022/11/2,Pharmacotherapy,Once a week,185,49
+194,2022/7/19,Physiotherapy,Once a month,158,81
+195,2022/8/20,Monotherapy,Once a month,85,235
+196,2022/9/22,Immunotherapy,Once a week,85,235
+197,2022/7/16,Physiotherapy,Once a month,217,187
+198,2022/2/21,Oxygen therapy,Once a month,57,127
+199,2022/4/18,Phototherapy,Twice a week,109,145
+200,2022/9/26,Oxygen therapy,Once a month,186,34
+201,2022/9/19,Monotherapy,Once a month,286,158
+202,2022/2/18,Immunotherapy,Once a month,167,64
+203,2022/8/15,Cyrotherapy,Once a month,169,186
+204,2022/3/10,Aromatherapy,Once a month,168,111
+205,2022/8/3,Gene therapy,Once a month,154,39
+206,2022/3/26,Cyrotherapy,Twice a week,291,214
+207,2022/5/12,Pharmacotherapy,Once a month,124,295
+208,2022/6/26,Monotherapy,Twice a month,210,54
+209,2022/7/16,Cyrotherapy,Once a month,210,54
+210,2022/8/17,Cyrotherapy,Once a month,156,41
+211,2022/9/9,Cyrotherapy,Once a month,196,155
+212,2022/7/17,Immunotherapy,Once a month,120,137
+213,2022/6/17,Monotherapy,Twice a week,284,98
+214,2022/5/11,Radiotherapy,Once a month,149,29
+215,2022/9/6,Pharmacotherapy,Once a month,45,294
+216,2022/8/2,Physiotherapy,Once a month,261,274
+217,2022/8/26,Gene therapy,Once a month,231,150
+218,2022/2/16,Pharmacotherapy,Once in 3 months,219,269
+219,2022/5/27,Phototherapy,Once a month,75,169
+220,2022/10/16,Oxygen therapy,Once a month,216,16
+221,2022/2/25,Radiotherapy,Once a month,184,222
+222,2022/8/13,Cyrotherapy,Once a month,291,214
+223,2022/8/26,Gene therapy,Once a month,91,252
+224,2022/5/23,Gene therapy,Once a month,134,244
+225,2022/3/24,Radiotherapy,Once a month,161,188
+226,2022/2/17,Gene therapy,Once a month,146,46
+227,2022/1/23,Gene therapy,Twice a week,41,296
+228,2022/8/4,Cyrotherapy,Once a month,297,109
+229,2022/1/13,Aromatherapy,Once a month,214,22
+230,2022/9/7,Pharmacotherapy,Once a month,165,119
+231,2022/2/18,Immunotherapy,Twice a month,263,261
+232,2022/9/19,Pharmacotherapy,Once in 3 months,165,119
+233,2022/2/12,Phototherapy,Once a week,167,64
+234,2022/11/12,Immunotherapy,Once in 3 months,133,281
+235,2022/10/3,Gene therapy,Once in 3 months,184,222
+236,2022/11/26,Physiotherapy,Once a month,186,34
+237,2022/11/15,Physiotherapy,Once a month,206,44
+238,2022/5/23,Oxygen therapy,Once a month,266,73
+239,2022/8/27,Gene therapy,Twice a month,233,279
+240,2022/4/24,Monotherapy,Once a month,72,24
+241,2022/8/7,Radiotherapy,Once a month,101,205
+242,2022/3/3,Monotherapy,Once a month,164,259
+243,2022/9/19,Cyrotherapy,Twice a week,173,125
+244,2022/6/3,Radiotherapy,Once a month,205,237
+245,2022/2/8,Physiotherapy,Once a month,39,230
+246,2022/7/17,Radiotherapy,Once a month,46,204
+247,2022/1/20,Physiotherapy,Once in 3 months,81,212
+248,2022/9/26,Gene therapy,Once a month,56,219
+249,2022/6/24,Radiotherapy,Twice a month,134,244
+250,2022/4/5,Pharmacotherapy,Once a month,175,115
+251,2022/4/4,Cyrotherapy,Twice a month,259,85
+252,2022/10/24,Phototherapy,Once a month,268,182
+253,2022/4/19,Oxygen therapy,Once in 3 months,250,132
+254,2022/8/12,Aromatherapy,Once a month,134,244
+255,2022/8/25,Aromatherapy,Once a month,252,83
+256,2022/6/24,Cyrotherapy,Once a month,104,87
+257,2022/4/1,Gene therapy,Once a month,284,98
+258,2022/1/18,Pharmacotherapy,Once a month,265,45
+259,2022/11/26,Physiotherapy,Twice a week,232,80
+260,2022/11/25,Phototherapy,Once a month,125,250
+261,2022/3/5,Radiotherapy,Once a month,36,66
+262,2022/7/3,Physiotherapy,Once a week,248,297
+263,2022/6/17,Phototherapy,Once a month,197,167
+264,2022/1/27,Gene therapy,Once a month,259,85
+265,2022/8/5,Cyrotherapy,Once a month,257,160
+266,2022/11/12,Immunotherapy,Twice a month,230,26
+267,2022/6/16,Pharmacotherapy,Once a month,50,257
+268,2022/7/19,Cyrotherapy,Once a week,27,270
+269,2022/5/1,Aromatherapy,Twice a week,21,211
+270,2022/3/7,Monotherapy,Twice a month,78,175
+271,2022/9/14,Cyrotherapy,Once a month,65,82
+272,2022/9/6,Cyrotherapy,Twice a month,138,241
+273,2022/5/10,Gene therapy,Once a week,179,191
+274,2022/6/3,Pharmacotherapy,Once a month,243,146
+275,2022/11/10,Aromatherapy,Once a month,20,91
+276,2022/8/26,Aromatherapy,Once a month,146,46
+277,2022/9/27,Physiotherapy,Once a month,219,269
+278,2022/4/5,Phototherapy,Once a month,137,243
+279,2022/10/6,Aromatherapy,Once in 3 months,126,106
+280,2022/10/22,Monotherapy,Once a week,17,203
+281,2022/1/23,Monotherapy,Twice a month,92,180
+282,2022/10/12,Aromatherapy,Twice a month,113,265
+283,2022/7/27,Oxygen therapy,Twice a month,228,90
+284,2022/7/20,Immunotherapy,Once a month,74,184
+285,2022/4/9,Oxygen therapy,Twice a week,60,48
+286,2022/10/24,Physiotherapy,Once a month,207,193
+287,2022/9/24,Aromatherapy,Once a month,160,53
+288,2022/8/18,Oxygen therapy,Once a month,51,163
+289,2022/10/26,Monotherapy,Twice a week,287,103
+290,2022/2/21,Phototherapy,Once a month,191,67
+291,2022/5/10,Pharmacotherapy,Once a month,31,75
+292,2022/5/4,Pharmacotherapy,Once a week,182,256
+293,2022/2/18,Pharmacotherapy,Once a month,27,270
+294,2022/5/20,Oxygen therapy,Once a month,157,251
+295,2022/11/5,Physiotherapy,Once in 3 months,58,268
+296,2022/5/26,Physiotherapy,Once a month,116,96
+297,2022/10/20,Oxygen therapy,Twice a week,119,272
+298,2022/5/20,Aromatherapy,Once a month,57,127
+299,2022/11/3,Gene therapy,Twice a month,235,12
+300,2022/4/8,Phototherapy,Once a month,38,171
+301,2022/5/6,Phototherapy,Once in 3 months,294,217
+302,2022/7/5,Cyrotherapy,Once a month,239,225
+303,2022/5/10,Gene therapy,Twice a month,276,129
+304,2022/5/6,Phototherapy,Twice a week,284,98
+305,2022/10/16,Immunotherapy,Once a month,166,28
+306,2022/6/13,Monotherapy,Once a month,101,205
+307,2022/11/12,Pharmacotherapy,Once a month,33,79
+308,2022/8/26,Radiotherapy,Twice a month,268,182
+309,2022/9/14,Physiotherapy,Once a month,163,299
+310,2022/6/21,Cyrotherapy,Once a month,277,232
+311,2022/4/12,Immunotherapy,Once a month,195,102
+312,2022/7/20,Phototherapy,Once a week,62,94
+313,2022/7/20,Oxygen therapy,Once a month,192,258
+314,2022/6/1,Radiotherapy,Once a month,278,164
+315,2022/5/3,Monotherapy,Once a month,60,48
+316,2022/1/18,Monotherapy,Twice a week,202,52
+317,2022/11/25,Radiotherapy,Once in 3 months,243,146
+318,2022/3/1,Cyrotherapy,Once a month,169,186
+319,2022/1/11,Aromatherapy,Once a month,200,201
+320,2022/1/13,Phototherapy,Once a month,209,108
+321,2022/8/9,Radiotherapy,Once a month,138,241
+322,2022/5/6,Gene therapy,Once a month,260,93
+323,2022/8/12,Radiotherapy,Once a month,120,137
+324,2022/3/15,Phototherapy,Once a month,21,211
+325,2022/5/16,Monotherapy,Once in 3 months,54,284
+326,2022/5/7,Monotherapy,Twice a week,34,59
+327,2022/5/26,Physiotherapy,Once a month,134,244
+328,2022/7/21,Monotherapy,Once a week,119,272
+329,2022/5/18,Immunotherapy,Once a month,76,121
+330,2022/6/16,Gene therapy,Twice a week,243,146
+331,2022/4/26,Gene therapy,Twice a month,111,196
+332,2022/1/11,Aromatherapy,Twice a month,36,66
+333,2022/8/16,Immunotherapy,Once a week,285,50
+334,2022/5/19,Aromatherapy,Once a week,59,120
+335,2022/2/10,Immunotherapy,Once a month,16,11
+336,2022/2/2,Gene therapy,Once a week,153,25
+337,2022/3/10,Phototherapy,Once in 3 months,178,47
+338,2022/10/23,Cyrotherapy,Once a month,51,163
+339,2022/3/19,Aromatherapy,Once a month,145,276
+340,2022/4/13,Radiotherapy,Once a month,45,294
+341,2022/11/2,Phototherapy,Once in 3 months,64,216
+342,2022/2/1,Radiotherapy,Once a month,84,114
+343,2022/7/18,Aromatherapy,Once a month,88,183
+344,2022/11/8,Radiotherapy,Once in 3 months,83,43
+345,2022/4/19,Monotherapy,Once a week,213,206
+346,2022/5/3,Physiotherapy,Once a month,126,106
+347,2022/8/13,Gene therapy,Once a month,96,246
+348,2022/8/27,Aromatherapy,Once a month,202,52
+349,2022/9/26,Cyrotherapy,Once a month,80,60
+350,2022/10/22,Monotherapy,Twice a month,202,52
+351,2022/11/9,Pharmacotherapy,Once a week,263,261
+352,2022/1/12,Pharmacotherapy,Once a week,51,163
+353,2022/4/12,Aromatherapy,Once a month,19,181
+354,2022/5/6,Cyrotherapy,Once a month,15,65
+355,2022/10/10,Immunotherapy,Once a month,258,247
+356,2022/4/8,Gene therapy,Once a week,183,245
+357,2022/8/16,Gene therapy,Twice a week,288,99
+358,2022/5/2,Gene therapy,Twice a week,61,173
+359,2022/5/8,Monotherapy,Once a week,42,287
+360,2022/1/21,Oxygen therapy,Once in 3 months,215,231
+361,2022/10/13,Physiotherapy,Once a month,230,26
+362,2022/5/6,Oxygen therapy,Once a month,149,29
+363,2022/3/19,Physiotherapy,Once a month,201,166
+364,2022/3/1,Immunotherapy,Twice a week,26,228
+365,2022/10/16,Physiotherapy,Once a month,55,35
+366,2022/2/7,Gene therapy,Once a month,105,61
+367,2022/8/11,Cyrotherapy,Once a month,33,79
+368,2022/5/25,Gene therapy,Once a week,158,81
+369,2022/10/18,Pharmacotherapy,Once a month,30,76
+370,2022/9/2,Physiotherapy,Once a month,240,69
+371,2022/2/25,Cyrotherapy,Twice a month,89,92
+372,2022/7/6,Pharmacotherapy,Once a month,30,76
+373,2022/6/18,Cyrotherapy,Twice a week,107,271
+374,2022/1/20,Monotherapy,Once a week,218,134
+375,2022/9/8,Immunotherapy,Twice a week,160,53
+376,2022/9/7,Immunotherapy,Twice a month,42,287
+377,2022/6/22,Immunotherapy,Once a month,107,271
+378,2022/11/18,Pharmacotherapy,Once a month,156,41
+379,2022/5/22,Phototherapy,Twice a week,283,27
+380,2022/3/25,Pharmacotherapy,Once a month,299,77
+381,2022/2/16,Aromatherapy,Once a month,47,112
+382,2022/5/14,Gene therapy,Once a month,26,228
+383,2022/2/2,Oxygen therapy,Once a month,21,211
+384,2022/11/18,Pharmacotherapy,Once a month,239,225
+385,2022/4/10,Pharmacotherapy,Twice a week,275,159
+386,2022/11/15,Aromatherapy,Once a month,224,282
+387,2022/5/22,Cyrotherapy,Once a month,24,286
+388,2022/5/7,Phototherapy,Once a month,160,53
+389,2022/2/10,Phototherapy,Once a month,102,213
+390,2022/5/18,Physiotherapy,Once a month,123,20
+391,2022/11/16,Physiotherapy,Twice a week,77,176
+392,2022/4/9,Pharmacotherapy,Twice a week,99,147
+393,2022/11/22,Phototherapy,Once a week,185,49
+394,2022/8/4,Oxygen therapy,Once a month,76,121
+395,2022/10/22,Radiotherapy,Once a month,225,117
+396,2022/3/2,Gene therapy,Once a month,252,83
+397,2022/10/11,Pharmacotherapy,Once a month,42,287
+398,2022/2/16,Gene therapy,Once a month,50,257
+399,2022/2/2,Immunotherapy,Once a month,35,198
+400,2022/8/15,Monotherapy,Once a month,39,230
+401,2022/4/16,Physiotherapy,Once a week,220,142
+402,2022/7/27,Oxygen therapy,Once a month,38,171
+403,2022/5/1,Pharmacotherapy,Once a week,230,26
+404,2022/2/26,Oxygen therapy,Once a week,233,279
+405,2022/2/26,Aromatherapy,Once a month,172,208
+406,2022/1/20,Oxygen therapy,Once a week,63,226
+407,2022/6/24,Immunotherapy,Once a month,201,166
+408,2022/11/18,Immunotherapy,Once a month,57,127
+409,2022/7/12,Monotherapy,Once a week,125,250
+410,2022/10/13,Monotherapy,Once a month,48,200
+411,2022/6/19,Monotherapy,Twice a month,78,175
+412,2022/11/10,Physiotherapy,Twice a week,256,157
+413,2022/1/15,Gene therapy,Twice a week,152,189
+414,2022/6/23,Aromatherapy,Once a month,107,271
+415,2022/6/12,Radiotherapy,Twice a week,295,218
+416,2022/7/24,Cyrotherapy,Once a month,106,57
+417,2022/6/22,Gene therapy,Once a month,284,98
+418,2022/3/22,Pharmacotherapy,Once a week,240,69
+419,2022/5/9,Immunotherapy,Once a month,134,244
+420,2022/7/26,Aromatherapy,Once a month,236,236
+421,2022/4/5,Monotherapy,Twice a month,147,104
+422,2022/1/13,Monotherapy,Once a month,253,278
+423,2022/10/23,Oxygen therapy,Once a month,96,246
+424,2022/9/15,Gene therapy,Once a month,204,141
+425,2022/11/17,Cyrotherapy,Once in 3 months,290,13
+426,2022/10/18,Physiotherapy,Twice a week,161,188
+427,2022/4/26,Pharmacotherapy,Once a month,175,115
+428,2022/2/1,Gene therapy,Once a month,29,179
+429,2022/7/7,Oxygen therapy,Twice a week,239,225
+430,2022/7/16,Aromatherapy,Once in 3 months,24,286
+431,2022/2/4,Pharmacotherapy,Twice a month,180,105
+432,2022/9/26,Phototherapy,Once a month,114,138
+433,2022/1/7,Phototherapy,Once a month,204,141
+434,2022/8/23,Radiotherapy,Once a month,44,143
+435,2022/9/9,Pharmacotherapy,Twice a week,296,122
+436,2022/4/23,Immunotherapy,Once a month,53,224
+437,2022/5/18,Monotherapy,Once a month,226,290
+438,2022/10/1,Immunotherapy,Once a month,58,268
+439,2022/11/24,Phototherapy,Twice a month,292,273
+440,2022/1/21,Phototherapy,Once a month,44,143
+441,2022/11/8,Pharmacotherapy,Once a month,94,233
+442,2022/8/22,Oxygen therapy,Once a month,141,207
+443,2022/3/4,Phototherapy,Twice a month,61,173
+444,2022/6/15,Phototherapy,Once a month,165,119
+445,2022/10/6,Aromatherapy,Once a week,138,241
+446,2022/3/24,Pharmacotherapy,Once a month,21,211
+447,2022/9/21,Pharmacotherapy,Twice a week,91,252
+448,2022/8/9,Immunotherapy,Once a week,152,189
+449,2022/9/21,Pharmacotherapy,Once in 3 months,159,17
+450,2022/4/6,Monotherapy,Once a month,299,77
+451,2022/8/5,Monotherapy,Once a month,24,286
+452,2022/4/13,Gene therapy,Once a month,74,184
+453,2022/2/21,Monotherapy,Once in 3 months,209,108
+454,2022/5/10,Radiotherapy,Once a month,112,289
+455,2022/3/27,Physiotherapy,Once a week,37,51
+456,2022/9/23,Oxygen therapy,Once a month,214,22
+457,2022/11/23,Radiotherapy,Once a month,131,267
+458,2022/10/11,Immunotherapy,Once in 3 months,250,132
+459,2022/10/9,Immunotherapy,Once a month,298,190
+460,2022/10/24,Aromatherapy,Once a month,120,137
+461,2022/8/8,Oxygen therapy,Once a month,145,276
+462,2022/2/19,Radiotherapy,Once a month,253,278
+463,2022/7/27,Aromatherapy,Once a month,108,126
+464,2022/2/5,Monotherapy,Twice a week,101,205
+465,2022/9/10,Cyrotherapy,Once in 3 months,270,55
+466,2022/7/3,Radiotherapy,Once a month,32,130
+467,2022/4/27,Radiotherapy,Twice a week,147,104
+468,2022/1/13,Monotherapy,Once a month,269,68
+469,2022/3/10,Immunotherapy,Twice a month,272,275
+470,2022/2/14,Phototherapy,Once a month,224,282
+471,2022/7/27,Aromatherapy,Once a month,266,73
+472,2022/3/4,Physiotherapy,Twice a week,267,135
+473,2022/9/15,Cyrotherapy,Twice a month,127,248
+474,2022/7/11,Aromatherapy,Once a week,259,85
+475,2022/6/19,Oxygen therapy,Once in 3 months,258,247
+476,2022/1/17,Cyrotherapy,Once in 3 months,176,202
+477,2022/2/10,Oxygen therapy,Twice a week,137,243
+478,2022/1/11,Pharmacotherapy,Once a week,92,180
+479,2022/6/25,Immunotherapy,Once a month,15,65
+480,2022/6/16,Pharmacotherapy,Once a month,125,250
+481,2022/2/14,Cyrotherapy,Once a month,206,44
+482,2022/9/5,Physiotherapy,Twice a week,230,26
+483,2022/4/27,Phototherapy,Once a week,285,50
+484,2022/3/19,Pharmacotherapy,Once a month,13,260
+485,2022/5/15,Pharmacotherapy,Twice a month,55,35
+486,2022/8/9,Phototherapy,Once a month,183,245
+487,2022/2/6,Oxygen therapy,Once a month,229,291
+488,2022/6/7,Phototherapy,Once a month,166,28
+489,2022/11/19,Radiotherapy,Twice a week,107,271
+490,2022/10/22,Immunotherapy,Twice a month,213,206
+491,2022/3/17,Phototherapy,Twice a month,14,58
+492,2022/9/25,Immunotherapy,Twice a month,39,230
+493,2022/8/17,Immunotherapy,Once a week,231,150
+494,2022/8/16,Pharmacotherapy,Twice a month,65,82
+495,2022/3/17,Monotherapy,Once a month,101,205
+496,2022/10/1,Immunotherapy,Once a month,166,28
+497,2022/8/25,Gene therapy,Once a month,43,32
+498,2022/7/24,Aromatherapy,Once in 3 months,266,73
+499,2022/6/27,Cyrotherapy,Once a month,43,32
+500,2022/6/18,Phototherapy,Once a month,29,179
+501,2022/3/1,Immunotherapy,Once a month,212,15
+502,2022/9/16,Phototherapy,Once a month,33,79
+503,2022/2/10,Cyrotherapy,Once a month,280,19
+504,2022/2/10,Oxygen therapy,Once a month,204,141
+505,2022/7/4,Aromatherapy,Once a month,93,253
+506,2022/5/22,Gene therapy,Once a month,297,109
+507,2022/11/19,Monotherapy,Once a month,23,139
+508,2022/4/2,Phototherapy,Once a month,217,187
+509,2022/1/15,Cyrotherapy,Once a month,179,191
+510,2022/3/6,Phototherapy,Once a month,218,134
+511,2022/1/8,Immunotherapy,Once in 3 months,18,70
+512,2022/10/26,Aromatherapy,Twice a month,82,293
+513,2022/3/14,Phototherapy,Once a month,243,146
+514,2022/8/10,Oxygen therapy,Once a month,291,214
+515,2022/8/9,Physiotherapy,Once a month,299,77
+516,2022/2/19,Pharmacotherapy,Once a month,199,172
+517,2022/10/2,Phototherapy,Once a week,272,275
+518,2022/2/22,Pharmacotherapy,Once a month,59,120
+519,2022/6/17,Phototherapy,Twice a week,265,45
+520,2022/6/25,Oxygen therapy,Once a month,108,126
+521,2022/9/21,Pharmacotherapy,Once a month,13,260
+522,2022/1/13,Pharmacotherapy,Once a week,150,21
+523,2022/3/6,Gene therapy,Twice a week,159,17
+524,2022/1/14,Phototherapy,Once a week,269,68
+525,2022/10/8,Radiotherapy,Once in 3 months,246,95
+526,2022/8/17,Immunotherapy,Twice a month,33,79
+527,2022/1/22,Pharmacotherapy,Once a month,268,182
+528,2022/9/9,Aromatherapy,Once in 3 months,147,104
+529,2022/6/27,Radiotherapy,Once a month,111,196
+530,2022/5/13,Gene therapy,Once in 3 months,46,204
+531,2022/3/2,Aromatherapy,Once a month,230,26
+532,2022/4/20,Immunotherapy,Once a month,21,211
+533,2022/7/10,Cyrotherapy,Once a month,46,204
+534,2022/5/6,Phototherapy,Once a week,256,157
+535,2022/2/19,Cyrotherapy,Once a month,47,112
+536,2022/6/11,Immunotherapy,Once a month,265,45
+537,2022/7/26,Physiotherapy,Once a week,143,154
+538,2022/8/6,Oxygen therapy,Once a week,134,244
+539,2022/1/1,Immunotherapy,Twice a month,266,73
+540,2022/11/21,Radiotherapy,Once a month,17,203
+541,2022/4/1,Oxygen therapy,Twice a week,123,20
+542,2022/11/15,Cyrotherapy,Once a month,61,173
+543,2022/6/27,Radiotherapy,Once a week,181,221
+544,2022/7/19,Monotherapy,Twice a week,125,250
+545,2022/8/8,Pharmacotherapy,Once in 3 months,14,58
+546,2022/10/2,Monotherapy,Twice a month,224,282
+547,2022/9/1,Monotherapy,Once in 3 months,58,268
+548,2022/1/15,Gene therapy,Once a month,119,272
+549,2022/9/22,Oxygen therapy,Once in 3 months,195,102
+550,2022/6/23,Immunotherapy,Once a month,97,194
+551,2022/1/1,Phototherapy,Once in 3 months,119,272
+552,2022/2/25,Aromatherapy,Once a month,101,205
+553,2022/1/4,Radiotherapy,Once a month,87,249
+554,2022/6/11,Cyrotherapy,Once a month,285,50
+555,2022/2/5,Radiotherapy,Once a month,58,268
+556,2022/4/2,Gene therapy,Once a month,154,39
+557,2022/2/23,Aromatherapy,Once a week,173,125
+558,2022/2/12,Cyrotherapy,Twice a month,89,92
+559,2022/5/3,Pharmacotherapy,Once a month,272,275
+560,2022/10/1,Oxygen therapy,Once a month,54,284
+561,2022/8/21,Immunotherapy,Once a month,17,203
+562,2022/8/10,Pharmacotherapy,Once a month,160,53
+563,2022/1/18,Aromatherapy,Once a month,278,164
+564,2022/5/16,Physiotherapy,Once a month,243,146
+565,2022/4/5,Oxygen therapy,Once a month,146,46
+566,2022/2/26,Cyrotherapy,Once a week,40,165
+567,2022/5/1,Pharmacotherapy,Twice a month,294,217
+568,2022/2/18,Cyrotherapy,Once a month,117,136
+569,2022/10/11,Physiotherapy,Once a month,84,114
+570,2022/10/10,Pharmacotherapy,Once a month,281,192
+571,2022/5/8,Radiotherapy,Once a month,114,138
+572,2022/4/5,Cyrotherapy,Once a month,103,148
+573,2022/8/7,Cyrotherapy,Once in 3 months,156,41
+574,2022/2/13,Physiotherapy,Twice a week,169,186
+575,2022/10/25,Immunotherapy,Once a month,275,159
+576,2022/5/12,Immunotherapy,Once a month,60,48
+577,2022/3/10,Phototherapy,Once a month,228,90
+578,2022/10/18,Gene therapy,Once a month,132,240
+579,2022/4/10,Phototherapy,Once in 3 months,47,112
+580,2022/7/20,Phototherapy,Once a week,224,282
+581,2022/10/16,Physiotherapy,Once a month,250,132
+582,2022/4/17,Gene therapy,Once a month,293,234
+583,2022/5/22,Radiotherapy,Once in 3 months,196,155
+584,2022/11/16,Oxygen therapy,Once a month,223,131
+585,2022/9/27,Aromatherapy,Once a month,208,40
+586,2022/8/19,Phototherapy,Twice a month,165,119
+587,2022/8/17,Gene therapy,Twice a week,287,103
+588,2022/11/23,Monotherapy,Once a month,27,270
+589,2022/6/21,Radiotherapy,Twice a week,84,114
+590,2022/5/22,Radiotherapy,Once a month,272,275
+591,2022/4/5,Immunotherapy,Once in 3 months,146,46
+592,2022/8/12,Immunotherapy,Once a week,207,193
+593,2022/4/6,Radiotherapy,Once a month,284,98
+594,2022/8/1,Immunotherapy,Once a month,74,184
+595,2022/8/27,Monotherapy,Once a month,226,290
+596,2022/5/15,Oxygen therapy,Once a month,30,76
+597,2022/7/16,Gene therapy,Once a month,170,31
+598,2022/3/15,Pharmacotherapy,Once a month,280,19
+599,2022/5/20,Phototherapy,Once a month,130,197
+600,2022/7/17,Aromatherapy,Once in 3 months,212,15
+601,2022/1/21,Radiotherapy,Once a month,259,85
+602,2022/1/25,Oxygen therapy,Once a month,143,154
+603,2022/2/8,Radiotherapy,Once a month,169,186
+604,2022/4/16,Immunotherapy,Twice a week,45,294
+605,2022/6/7,Phototherapy,Twice a week,217,187
+606,2022/3/22,Aromatherapy,Once in 3 months,267,135
+607,2022/6/16,Phototherapy,Twice a week,267,135
+608,2022/7/25,Monotherapy,Once a month,222,113
+609,2022/2/16,Immunotherapy,Twice a week,212,15
+610,2022/9/9,Aromatherapy,Twice a month,29,179
+611,2022/4/23,Physiotherapy,Once a month,287,103
+612,2022/4/8,Radiotherapy,Once a month,209,108
+613,2022/4/2,Oxygen therapy,Twice a week,180,105
+614,2022/11/8,Aromatherapy,Once a month,210,54
+615,2022/8/23,Pharmacotherapy,Once a week,279,156
+616,2022/7/13,Pharmacotherapy,Once a month,137,243
+617,2022/9/18,Gene therapy,Twice a week,30,76
+618,2022/4/20,Gene therapy,Once a month,37,51
+619,2022/9/25,Physiotherapy,Once a month,123,20
+620,2022/2/13,Pharmacotherapy,Once in 3 months,59,120
+621,2022/10/11,Monotherapy,Once a week,148,242
+622,2022/6/25,Monotherapy,Once a month,72,24
+623,2022/4/26,Oxygen therapy,Once a month,191,67
+624,2022/11/19,Gene therapy,Once a week,232,80
+625,2022/4/7,Oxygen therapy,Once a month,107,271
+626,2022/2/22,Pharmacotherapy,Once a month,145,276
+627,2022/11/8,Monotherapy,Once a month,41,296
+628,2022/9/21,Monotherapy,Once a week,52,255
+629,2022/9/19,Aromatherapy,Once a month,69,199
+630,2022/11/21,Pharmacotherapy,Once a month,30,76
+631,2022/11/17,Phototherapy,Once a week,211,254
+632,2022/5/10,Oxygen therapy,Once a week,274,262
+633,2022/7/23,Immunotherapy,Once a month,264,229
+634,2022/10/17,Immunotherapy,Once a month,254,56
+635,2022/10/17,Phototherapy,Once a month,90,63
+636,2022/10/19,Pharmacotherapy,Twice a month,11,42
+637,2022/3/17,Radiotherapy,Once in 3 months,286,158
+638,2022/3/14,Immunotherapy,Twice a month,271,168
+639,2022/9/26,Cyrotherapy,Once a week,28,195
+640,2022/10/16,Physiotherapy,Once a month,167,64
+641,2022/6/16,Radiotherapy,Twice a month,66,18
+642,2022/3/16,Oxygen therapy,Once a week,31,75
+643,2022/2/17,Phototherapy,Once a month,183,245
+644,2022/1/18,Aromatherapy,Once a month,96,246
+645,2022/7/24,Radiotherapy,Once a week,205,237
+646,2022/3/23,Pharmacotherapy,Twice a week,129,88
+647,2022/10/16,Aromatherapy,Once a month,283,27
+648,2022/5/21,Gene therapy,Once a month,22,23
+649,2022/6/17,Pharmacotherapy,Once a month,254,56
+650,2022/7/7,Immunotherapy,Once a month,114,138
+651,2022/8/4,Cyrotherapy,Once a month,249,124
+652,2022/6/3,Cyrotherapy,Once in 3 months,14,58
+653,2022/3/18,Physiotherapy,Once a month,131,267
+654,2022/3/20,Phototherapy,Twice a month,180,105
+655,2022/7/26,Monotherapy,Once a month,92,180
+656,2022/6/15,Immunotherapy,Twice a week,48,200
+657,2022/4/21,Monotherapy,Once in 3 months,81,212
+658,2022/5/10,Physiotherapy,Once a month,43,32
+659,2022/9/15,Gene therapy,Twice a week,168,111
+660,2022/2/20,Cyrotherapy,Once a month,146,46
+661,2022/8/12,Radiotherapy,Once in 3 months,208,40
+662,2022/2/26,Radiotherapy,Once a month,57,127
+663,2022/6/14,Monotherapy,Once a month,125,250
+664,2022/10/4,Monotherapy,Once a month,274,262
+665,2022/9/11,Pharmacotherapy,Twice a month,108,126
+666,2022/3/11,Gene therapy,Once a month,222,113
+667,2022/1/18,Gene therapy,Once a month,232,80
+668,2022/2/10,Cyrotherapy,Once a month,257,160
+669,2022/10/19,Phototherapy,Twice a month,106,57
+670,2022/5/27,Phototherapy,Once a month,76,121
+671,2022/6/20,Physiotherapy,Once a month,253,278
+672,2022/4/6,Pharmacotherapy,Once a month,18,70
+673,2022/4/23,Cyrotherapy,Once in 3 months,21,211
+674,2022/7/27,Aromatherapy,Once a month,84,114
+675,2022/1/9,Pharmacotherapy,Once a month,29,179
+676,2022/3/16,Gene therapy,Once a week,45,294
+677,2022/7/24,Aromatherapy,Once a month,101,205
+678,2022/3/25,Oxygen therapy,Once a month,226,290
+679,2022/5/6,Cyrotherapy,Once a week,158,81
+680,2022/9/5,Cyrotherapy,Once a month,233,279
+681,2022/3/27,Physiotherapy,Once a month,57,127
+682,2022/10/5,Radiotherapy,Once a month,142,38
+683,2022/5/16,Physiotherapy,Once a week,156,41
+684,2022/2/4,Aromatherapy,Once a week,93,253
+685,2022/10/23,Physiotherapy,Once a month,278,164
+686,2022/2/26,Gene therapy,Once in 3 months,230,26
+687,2022/11/4,Physiotherapy,Twice a week,37,51
+688,2022/6/26,Phototherapy,Once a month,252,83
+689,2022/9/12,Monotherapy,Twice a month,182,256
+690,2022/9/27,Monotherapy,Once a month,298,190
+691,2022/10/26,Immunotherapy,Once a month,175,115
+692,2022/9/10,Radiotherapy,Twice a month,128,227
+693,2022/3/11,Pharmacotherapy,Twice a week,217,187
+694,2022/11/27,Immunotherapy,Once a month,295,218
+695,2022/4/26,Cyrotherapy,Once a month,210,54
+696,2022/2/2,Immunotherapy,Once a month,184,222
+697,2022/9/18,Immunotherapy,Once a month,253,278
+698,2022/3/7,Phototherapy,Once a month,98,280
+699,2022/11/19,Immunotherapy,Once a month,290,13
+700,2022/8/26,Gene therapy,Twice a month,202,52
+701,2022/3/8,Pharmacotherapy,Once a month,248,297
+702,2022/9/15,Physiotherapy,Once in 3 months,277,232
+703,2022/11/5,Radiotherapy,Once a month,207,193
+704,2022/6/17,Monotherapy,Once a month,82,293
+705,2022/10/27,Physiotherapy,Once in 3 months,164,259
+706,2022/4/18,Cyrotherapy,Twice a month,42,287
+707,2022/11/12,Immunotherapy,Once a month,197,167
+708,2022/5/4,Aromatherapy,Once a month,111,196
+709,2022/11/17,Phototherapy,Twice a month,150,21
+710,2022/3/24,Radiotherapy,Once a month,140,74
+711,2022/1/5,Cyrotherapy,Once a month,81,212
+712,2022/11/17,Pharmacotherapy,Once a month,63,226
+713,2022/4/16,Monotherapy,Once a month,233,279
+714,2022/1/24,Gene therapy,Once a month,104,87
+715,2022/10/9,Immunotherapy,Once a month,122,107
+716,2022/8/16,Gene therapy,Once a month,255,285
+717,2022/7/12,Radiotherapy,Once a month,228,90
+718,2022/7/25,Oxygen therapy,Once a month,198,116
+719,2022/3/17,Immunotherapy,Once a month,227,123
+720,2022/1/11,Monotherapy,Twice a week,60,48
+721,2022/4/12,Gene therapy,Once a week,225,117
+722,2022/10/11,Radiotherapy,Once a month,236,236
+723,2022/11/27,Phototherapy,Once a month,77,176
+724,2022/1/12,Phototherapy,Once a month,181,221
+725,2022/6/24,Radiotherapy,Once in 3 months,261,274
+726,2022/11/23,Monotherapy,Once a month,268,182
+727,2022/9/25,Physiotherapy,Once a month,280,19
+728,2022/2/3,Gene therapy,Once a month,288,99
+729,2022/10/27,Radiotherapy,Once a week,120,137
+730,2022/2/8,Pharmacotherapy,Once a month,242,97
+731,2022/6/12,Phototherapy,Once a month,135,86
+732,2022/11/5,Gene therapy,Once a month,31,75
+733,2022/5/4,Radiotherapy,Once a month,161,188
+734,2022/11/3,Gene therapy,Once in 3 months,73,33
+735,2022/6/6,Oxygen therapy,Twice a month,101,205
+736,2022/3/20,Cyrotherapy,Once a month,29,179
+737,2022/7/17,Cyrotherapy,Once a week,177,220
+738,2022/6/1,Cyrotherapy,Once a week,231,150
+739,2022/11/23,Immunotherapy,Once a month,216,16
+740,2022/1/5,Radiotherapy,Once a month,190,149
+741,2022/8/15,Pharmacotherapy,Twice a month,210,54
+742,2022/3/22,Aromatherapy,Once a month,277,232
+743,2022/11/20,Aromatherapy,Once in 3 months,246,95
+744,2022/11/14,Cyrotherapy,Twice a week,61,173
+745,2022/8/4,Aromatherapy,Once a month,90,63
+746,2022/3/13,Monotherapy,Once a month,183,245
+747,2022/7/4,Phototherapy,Once a week,206,44
+748,2022/8/24,Cyrotherapy,Once a month,148,242
+749,2022/5/11,Oxygen therapy,Once a month,167,64
+750,2022/10/12,Oxygen therapy,Once a month,86,162
+751,2022/11/3,Monotherapy,Twice a week,46,204
+752,2022/5/2,Gene therapy,Once a month,124,295
+753,2022/4/16,Gene therapy,Once a month,247,151
+754,2022/3/12,Cyrotherapy,Once a week,95,128
+755,2022/9/1,Oxygen therapy,Twice a week,285,50
+756,2022/7/26,Gene therapy,Once a month,12,71
+757,2022/8/5,Radiotherapy,Once a month,189,210
+758,2022/10/19,Phototherapy,Once a month,54,284
+759,2022/5/6,Pharmacotherapy,Once a month,198,116
+760,2022/9/8,Radiotherapy,Once a month,295,218
+761,2022/9/23,Cyrotherapy,Once a month,116,96
+762,2022/8/22,Immunotherapy,Once a month,76,121
+763,2022/9/16,Radiotherapy,Once in 3 months,69,199
+764,2022/11/9,Radiotherapy,Once a month,47,112
+765,2022/2/10,Cyrotherapy,Twice a month,133,281
+766,2022/6/2,Radiotherapy,Twice a week,243,146
+767,2022/10/18,Phototherapy,Once in 3 months,63,226
+768,2022/4/4,Cyrotherapy,Twice a month,150,21
+769,2022/8/21,Gene therapy,Once in 3 months,271,168
+770,2022/9/7,Pharmacotherapy,Once a month,78,175
+771,2022/11/22,Phototherapy,Once in 3 months,198,116
+772,2022/1/25,Immunotherapy,Once a month,284,98
+773,2022/10/15,Pharmacotherapy,Once a week,206,44
+774,2022/3/1,Oxygen therapy,Once a month,185,49
+775,2022/4/11,Physiotherapy,Once a month,272,275
+776,2022/2/10,Immunotherapy,Once a month,108,126
+777,2022/10/19,Cyrotherapy,Once in 3 months,179,191
+778,2022/7/1,Gene therapy,Once in 3 months,60,48
+779,2022/2/5,Gene therapy,Once a month,61,173
+780,2022/8/15,Immunotherapy,Twice a month,242,97
+781,2022/2/17,Radiotherapy,Once a month,190,149
+782,2022/6/24,Radiotherapy,Once a month,274,262
+783,2022/6/2,Physiotherapy,Once a month,128,227
+784,2022/2/23,Aromatherapy,Once a week,21,211
+785,2022/4/23,Cyrotherapy,Once a month,42,287
+786,2022/7/22,Cyrotherapy,Once in 3 months,46,204
+787,2022/4/12,Radiotherapy,Once a month,138,241
+788,2022/6/2,Pharmacotherapy,Once a month,112,289
+789,2022/3/11,Gene therapy,Twice a week,251,133
+790,2022/7/3,Pharmacotherapy,Once a month,56,219
+791,2022/7/11,Radiotherapy,Twice a week,146,46
+792,2022/9/13,Physiotherapy,Once a month,88,183
+793,2022/10/12,Monotherapy,Once in 3 months,28,195
+794,2022/3/6,Oxygen therapy,Once a month,95,128
+795,2022/10/5,Immunotherapy,Once a week,131,267
+796,2022/4/8,Cyrotherapy,Once a month,55,35
+797,2022/1/22,Aromatherapy,Once a month,38,171
+798,2022/3/13,Immunotherapy,Twice a month,163,299
+799,2022/9/22,Aromatherapy,Once in 3 months,241,209
+800,2022/4/2,Cyrotherapy,Once a week,281,192
+801,2022/5/10,Physiotherapy,Once a month,214,22
+802,2022/5/17,Monotherapy,Once a week,30,76
+803,2022/11/14,Physiotherapy,Once a month,99,147
+804,2022/4/19,Radiotherapy,Once a month,146,46
+805,2022/6/8,Physiotherapy,Twice a week,214,22
+806,2022/4/6,Monotherapy,Once a month,234,140
+807,2022/11/19,Physiotherapy,Once a month,55,35
+808,2022/9/14,Physiotherapy,Twice a month,44,143
+809,2022/7/20,Cyrotherapy,Once a month,261,274
+810,2022/2/12,Aromatherapy,Once in 3 months,129,88
+811,2022/5/8,Phototherapy,Twice a month,98,280
+812,2022/4/13,Physiotherapy,Once a month,47,112
+813,2022/3/21,Immunotherapy,Twice a month,231,150
+814,2022/7/9,Phototherapy,Twice a month,188,101
+815,2022/10/27,Pharmacotherapy,Once a month,51,163
+816,2022/8/26,Monotherapy,Once in 3 months,291,214
+817,2022/7/10,Pharmacotherapy,Once a month,13,260
+818,2022/10/21,Phototherapy,Once a week,215,231
+819,2022/6/22,Monotherapy,Once in 3 months,175,115
+820,2022/4/22,Phototherapy,Twice a week,280,19
+821,2022/11/10,Monotherapy,Once a month,172,208
+822,2022/6/12,Gene therapy,Once a month,171,298
+823,2022/3/3,Radiotherapy,Once a month,223,131
+824,2022/5/2,Immunotherapy,Once a month,247,151
+825,2022/7/5,Pharmacotherapy,Once a month,273,288
+826,2022/10/24,Radiotherapy,Once in 3 months,74,184
+827,2022/4/25,Cyrotherapy,Once a month,260,93
+828,2022/5/24,Physiotherapy,Once a week,42,287
+829,2022/8/3,Cyrotherapy,Once a month,180,105
+830,2022/8/25,Immunotherapy,Once a week,292,273
+831,2022/5/1,Monotherapy,Twice a month,117,136
+832,2022/1/9,Radiotherapy,Once a month,120,137
+833,2022/1/21,Cyrotherapy,Twice a week,57,127
+834,2022/4/10,Cyrotherapy,Once a month,36,66
+835,2022/11/7,Radiotherapy,Once a month,250,132
+836,2022/1/11,Oxygen therapy,Once a month,22,23
+837,2022/9/24,Monotherapy,Once a month,235,12
+838,2022/6/4,Immunotherapy,Once a month,100,223
+839,2022/10/4,Oxygen therapy,Once a month,289,264
+840,2022/8/16,Immunotherapy,Once a month,190,149
+841,2022/1/8,Aromatherapy,Once a month,180,105
+842,2022/3/25,Oxygen therapy,Once a month,253,278
+843,2022/10/17,Radiotherapy,Once a month,253,278
+844,2022/5/13,Radiotherapy,Twice a month,263,261
+845,2022/6/16,Pharmacotherapy,Once a month,242,97
+846,2022/1/1,Radiotherapy,Twice a month,82,293
+847,2022/6/17,Physiotherapy,Once a month,189,210
+848,2022/7/24,Aromatherapy,Once a month,163,299
+849,2022/5/17,Pharmacotherapy,Once a month,32,130
+850,2022/3/19,Oxygen therapy,Once a month,102,213
+851,2022/7/24,Immunotherapy,Once a month,287,103
+852,2022/8/20,Immunotherapy,Once a month,216,16
+853,2022/5/19,Pharmacotherapy,Once a week,31,75
+854,2022/9/15,Immunotherapy,Once a month,192,258
+855,2022/8/3,Cyrotherapy,Twice a week,70,152
+856,2022/3/9,Monotherapy,Once a week,126,106
+857,2022/6/15,Cyrotherapy,Once a month,28,195
+858,2022/1/1,Gene therapy,Twice a week,55,35
+859,2022/2/5,Aromatherapy,Once a month,229,291
+860,2022/6/12,Oxygen therapy,Once a week,70,152
+861,2022/2/2,Immunotherapy,Once a month,46,204
+862,2022/9/12,Phototherapy,Once a month,209,108
+863,2022/9/13,Gene therapy,Once a month,99,147
+864,2022/8/17,Monotherapy,Once a month,296,122
+865,2022/4/4,Aromatherapy,Once a month,145,276
+866,2022/4/21,Monotherapy,Twice a week,82,293
+867,2022/4/18,Oxygen therapy,Once a month,150,21
+868,2022/11/11,Gene therapy,Once a month,191,67
+869,2022/4/21,Monotherapy,Once a week,204,141
+870,2022/3/6,Physiotherapy,Once a month,258,247
+871,2022/9/26,Pharmacotherapy,Once a month,296,122
+872,2022/1/27,Phototherapy,Once a month,299,77
+873,2022/1/23,Cyrotherapy,Once a month,252,83
+874,2022/8/10,Oxygen therapy,Once a month,119,272
+875,2022/2/5,Oxygen therapy,Once a week,31,75
+876,2022/5/21,Radiotherapy,Once a month,193,174
+877,2022/3/27,Cyrotherapy,Twice a week,179,191
+878,2022/6/14,Monotherapy,Once a week,71,30
+879,2022/6/12,Physiotherapy,Once a month,255,285
+880,2022/7/25,Gene therapy,Once a month,180,105
+881,2022/10/3,Aromatherapy,Once a month,208,40
+882,2022/11/24,Cyrotherapy,Once a month,201,166
+883,2022/6/8,Monotherapy,Once a month,182,256
+884,2022/3/27,Phototherapy,Twice a week,205,237
+885,2022/4/12,Cyrotherapy,Once in 3 months,44,143
+886,2022/4/9,Oxygen therapy,Once a month,135,86
+887,2022/7/9,Aromatherapy,Once a month,38,171
+888,2022/7/27,Aromatherapy,Once a month,169,186
+889,2022/2/21,Oxygen therapy,Twice a week,226,290
+890,2022/10/13,Oxygen therapy,Once a month,157,251
+891,2022/3/19,Radiotherapy,Once a month,44,143
+892,2022/3/26,Physiotherapy,Twice a week,237,283
+893,2022/11/17,Aromatherapy,Twice a month,170,31
+894,2022/5/23,Pharmacotherapy,Once a week,98,280
+895,2022/11/27,Cyrotherapy,Once in 3 months,149,29
+896,2022/3/5,Aromatherapy,Once a month,250,132
+897,2022/3/13,Physiotherapy,Once a week,156,41
+898,2022/2/12,Immunotherapy,Once a month,294,217
+899,2022/5/27,Oxygen therapy,Once a month,131,267
+900,2022/8/24,Oxygen therapy,Once in 3 months,287,103
+901,2022/4/18,Phototherapy,Once a month,112,289
+902,2022/7/7,Pharmacotherapy,Twice a week,74,184
+903,2022/1/18,Physiotherapy,Once a month,294,217
+904,2022/10/15,Oxygen therapy,Once in 3 months,80,60
+905,2022/10/8,Radiotherapy,Twice a week,55,35
+906,2022/1/13,Physiotherapy,Once a month,55,35
+907,2022/2/7,Immunotherapy,Twice a month,266,73
+908,2022/6/3,Physiotherapy,Once a month,112,289
+909,2022/11/17,Monotherapy,Twice a month,125,250
+910,2022/8/22,Radiotherapy,Once a month,88,183
+911,2022/2/16,Radiotherapy,Twice a week,64,216
+912,2022/8/13,Radiotherapy,Once a week,31,75
+913,2022/9/21,Gene therapy,Once a month,63,226
+914,2022/3/27,Monotherapy,Once a month,101,205
+915,2022/10/11,Phototherapy,Once a month,84,114
+916,2022/7/25,Aromatherapy,Once a month,94,233
+917,2022/9/25,Physiotherapy,Once a month,138,241
+918,2022/10/13,Oxygen therapy,Once a month,56,219
+919,2022/6/26,Gene therapy,Once a month,200,201
+920,2022/4/23,Radiotherapy,Once a month,207,193
+921,2022/8/16,Monotherapy,Once a month,53,224
+922,2022/8/27,Monotherapy,Once a month,280,19
+923,2022/3/15,Immunotherapy,Twice a week,118,153
+924,2022/8/26,Immunotherapy,Once a month,32,130
+925,2022/6/22,Oxygen therapy,Twice a week,60,48
+926,2022/11/4,Aromatherapy,Once a month,74,184
+927,2022/5/11,Monotherapy,Once a month,295,218
+928,2022/5/20,Physiotherapy,Once a month,144,177
+929,2022/2/8,Immunotherapy,Once a month,134,244
+930,2022/3/6,Aromatherapy,Once a month,65,82
+931,2022/5/11,Phototherapy,Once a month,151,72
+932,2022/11/9,Oxygen therapy,Once a month,67,238
+933,2022/8/21,Physiotherapy,Once in 3 months,83,43
+934,2022/1/1,Immunotherapy,Once a month,189,210
+935,2022/2/6,Aromatherapy,Once a week,232,80
+936,2022/9/25,Monotherapy,Once a week,278,164
+937,2022/8/1,Radiotherapy,Once a month,269,68
+938,2022/1/1,Aromatherapy,Once a month,89,92
+939,2022/6/25,Monotherapy,Once a month,193,174
+940,2022/8/9,Radiotherapy,Once a month,228,90
+941,2022/5/15,Gene therapy,Twice a month,45,294
+942,2022/3/21,Radiotherapy,Once a month,170,31
+943,2022/6/7,Immunotherapy,Twice a week,285,50
+944,2022/9/16,Monotherapy,Once a month,112,289
+945,2022/5/17,Radiotherapy,Once a month,77,176
+946,2022/2/3,Phototherapy,Once a month,162,84
+947,2022/8/9,Oxygen therapy,Once a month,125,250
+948,2022/9/17,Aromatherapy,Once in 3 months,188,101
+949,2022/1/20,Immunotherapy,Once a month,170,31
+950,2022/5/7,Aromatherapy,Once a month,61,173
+951,2022/11/12,Phototherapy,Once a month,141,207
+952,2022/9/17,Immunotherapy,Once a week,268,182
+953,2022/7/24,Phototherapy,Twice a month,54,284
+954,2022/7/18,Gene therapy,Once a month,255,285
+955,2022/1/21,Pharmacotherapy,Once a week,117,136
+956,2022/9/23,Radiotherapy,Once in 3 months,178,47
+957,2022/11/21,Radiotherapy,Once a month,184,222
+958,2022/2/7,Physiotherapy,Once a month,223,131
+959,2022/1/18,Radiotherapy,Twice a month,157,251
+960,2022/6/25,Aromatherapy,Twice a month,48,200
+961,2022/8/10,Gene therapy,Once a week,35,198
+962,2022/3/13,Immunotherapy,Once a week,182,256
+963,2022/4/3,Gene therapy,Once a month,176,202
+964,2022/4/12,Cyrotherapy,Once a month,283,27
+965,2022/4/17,Immunotherapy,Once a month,212,15
+966,2022/11/20,Oxygen therapy,Once a month,230,26
+967,2022/10/25,Immunotherapy,Once a month,226,290
+968,2022/2/15,Radiotherapy,Twice a month,220,142
+969,2022/1/17,Aromatherapy,Once a month,66,18
+970,2022/10/15,Phototherapy,Once in 3 months,218,134
+971,2022/5/27,Phototherapy,Twice a week,141,207
+972,2022/1/22,Aromatherapy,Once a month,69,199
+973,2022/3/18,Cyrotherapy,Once in 3 months,30,76
+974,2022/6/9,Oxygen therapy,Once a month,227,123
+975,2022/2/24,Radiotherapy,Once a month,50,257
+976,2022/4/20,Immunotherapy,Once a month,130,197
+977,2022/10/1,Monotherapy,Once in 3 months,124,295
+978,2022/8/22,Monotherapy,Once a month,101,205
+979,2022/11/20,Monotherapy,Once a month,119,272
+980,2022/1/1,Phototherapy,Once a month,135,86
+981,2022/8/3,Oxygen therapy,Once a month,96,246
+982,2022/10/3,Gene therapy,Twice a week,186,34
+983,2022/7/3,Phototherapy,Once in 3 months,11,42
+984,2022/11/21,Aromatherapy,Twice a month,176,202
+985,2022/9/13,Radiotherapy,Twice a month,106,57
+986,2022/1/4,Physiotherapy,Once a month,115,178
+987,2022/9/9,Immunotherapy,Once a month,105,61
+988,2022/5/13,Immunotherapy,Twice a month,28,195
+989,2022/11/8,Oxygen therapy,Once in 3 months,76,121
+990,2022/9/4,Cyrotherapy,Once a week,70,152
+991,2022/9/25,Immunotherapy,Once a month,14,58
+992,2022/10/18,Radiotherapy,Once a week,56,219
+993,2022/7/25,Pharmacotherapy,Twice a week,133,281
+994,2022/7/17,Oxygen therapy,Once a month,185,49
+995,2022/7/2,Cyrotherapy,Once in 3 months,226,290
+996,2022/11/26,Physiotherapy,Once a month,87,249
+997,2022/5/25,Gene therapy,Once a month,159,17
+998,2022/3/7,Radiotherapy,Once a month,120,137
+999,2022/8/26,Phototherapy,Once a month,173,125
+1000,2022/6/3,Phototherapy,Once a month,111,196
+1001,2022/6/21,Phototherapy,Once a month,28,195
+1002,2022/11/26,Gene therapy,Once a month,218,134
+1003,2022/5/7,Monotherapy,Once a month,52,255
+1004,2022/5/3,Radiotherapy,Once a month,118,153
+1005,2022/9/20,Monotherapy,Once a month,135,86
+1006,2022/11/13,Immunotherapy,Once a month,48,200
+1007,2022/2/14,Immunotherapy,Twice a week,231,150
+1008,2022/1/4,Aromatherapy,Once a month,228,90
+1009,2022/8/26,Gene therapy,Once a month,100,223
+1010,2022/7/6,Immunotherapy,Once a month,150,21
+1011,2022/7/8,Oxygen therapy,Once a month,51,163
+1012,2022/5/3,Radiotherapy,Twice a month,171,298
+1013,2022/4/2,Radiotherapy,Twice a week,153,25
+1014,2022/4/17,Aromatherapy,Once a month,292,273
+1015,2022/2/21,Physiotherapy,Once a week,116,96
+1016,2022/5/2,Radiotherapy,Once in 3 months,162,84
+1017,2022/1/27,Immunotherapy,Once a week,132,240
+1018,2022/8/27,Physiotherapy,Twice a month,155,239
+1019,2022/5/9,Immunotherapy,Once a month,65,82
+1020,2022/4/3,Radiotherapy,Once a month,162,84
+1021,2022/1/24,Phototherapy,Twice a week,157,251
+1022,2022/4/22,Phototherapy,Once a month,21,211
+1023,2022/11/15,Monotherapy,Twice a month,101,205
+1024,2022/1/12,Gene therapy,Twice a month,147,104
+1025,2022/10/7,Oxygen therapy,Once a month,88,183
+1026,2022/3/9,Physiotherapy,Once a month,152,189
+1027,2022/3/23,Aromatherapy,Once in 3 months,278,164
+1028,2022/2/3,Phototherapy,Twice a month,105,61
+1029,2022/2/3,Pharmacotherapy,Once in 3 months,109,145
+1030,2022/8/24,Immunotherapy,Twice a month,270,55
+1031,2022/9/23,Physiotherapy,Twice a week,232,80
+1032,2022/10/12,Phototherapy,Once a month,60,48
+1033,2022/7/25,Phototherapy,Once a month,63,226
+1034,2022/11/12,Aromatherapy,Twice a month,193,174
+1035,2022/3/14,Physiotherapy,Once a month,66,18
+1036,2022/8/22,Monotherapy,Twice a week,112,289
+1037,2022/9/15,Physiotherapy,Once a month,265,45
+1038,2022/6/14,Physiotherapy,Once a month,232,80
+1039,2022/8/26,Pharmacotherapy,Once a month,232,80
+1040,2022/10/2,Gene therapy,Once a month,34,59
+1041,2022/3/3,Gene therapy,Once a week,209,108
+1042,2022/5/27,Radiotherapy,Once a month,299,77
+1043,2022/3/3,Aromatherapy,Once a month,137,243
+1044,2022/4/24,Cyrotherapy,Once a month,184,222
+1045,2022/6/11,Gene therapy,Once a month,97,194
+1046,2022/6/20,Radiotherapy,Once a week,242,97
+1047,2022/7/8,Physiotherapy,Once a week,283,27
+1048,2022/4/9,Aromatherapy,Once a month,284,98
+1049,2022/8/25,Oxygen therapy,Twice a week,223,131
+1050,2022/8/7,Phototherapy,Once a month,153,25
+1051,2022/2/23,Physiotherapy,Twice a month,78,175
+1052,2022/10/15,Phototherapy,Once a month,232,80
+1053,2022/8/26,Radiotherapy,Twice a week,151,72
+1054,2022/9/4,Monotherapy,Once a month,11,42
+1055,2022/6/23,Immunotherapy,Once a week,70,152
+1056,2022/7/1,Pharmacotherapy,Once a month,235,12
+1057,2022/5/18,Cyrotherapy,Twice a month,197,167
+1058,2022/3/15,Gene therapy,Once a month,63,226
+1059,2022/6/11,Pharmacotherapy,Once a month,116,96
+1060,2022/2/19,Radiotherapy,Once a month,63,226
+1061,2022/8/27,Phototherapy,Once in 3 months,136,37
+1062,2022/11/1,Phototherapy,Once in 3 months,202,52
+1063,2022/4/18,Gene therapy,Twice a week,12,71
+1064,2022/10/13,Cyrotherapy,Once a month,292,273
+1065,2022/3/27,Cyrotherapy,Once a month,290,13
+1066,2022/8/21,Phototherapy,Once a month,245,62
+1067,2022/3/3,Immunotherapy,Twice a month,98,280
+1068,2022/8/9,Physiotherapy,Twice a month,56,219
+1069,2022/1/5,Radiotherapy,Once in 3 months,69,199
+1070,2022/8/8,Oxygen therapy,Once a month,35,198
+1071,2022/7/22,Immunotherapy,Once a month,115,178
+1072,2022/10/21,Phototherapy,Once a month,68,89
+1073,2022/11/25,Immunotherapy,Once a month,142,38
+1074,2022/5/27,Monotherapy,Once in 3 months,251,133
+1075,2022/7/1,Monotherapy,Once a month,235,12
+1076,2022/1/16,Oxygen therapy,Once a month,296,122
+1077,2022/2/7,Oxygen therapy,Once a month,131,267
+1078,2022/9/10,Monotherapy,Once in 3 months,274,262
+1079,2022/5/1,Cyrotherapy,Once a month,54,284
+1080,2022/5/5,Monotherapy,Once a month,289,264
+1081,2022/1/17,Gene therapy,Once a week,237,283
+1082,2022/2/18,Pharmacotherapy,Twice a month,283,27
+1083,2022/10/1,Monotherapy,Once a week,34,59
+1084,2022/5/19,Gene therapy,Once a month,214,22
+1085,2022/6/12,Oxygen therapy,Once a month,164,259
+1086,2022/2/16,Oxygen therapy,Twice a month,63,226
+1087,2022/4/16,Oxygen therapy,Once a month,178,47
+1088,2022/9/14,Gene therapy,Once a month,71,30
+1089,2022/11/2,Gene therapy,Once a month,273,288
+1090,2022/4/5,Gene therapy,Twice a week,211,254
+1091,2022/1/25,Phototherapy,Once a month,75,169
+1092,2022/8/1,Radiotherapy,Once a week,65,82
+1093,2022/4/8,Physiotherapy,Once a month,12,71
+1094,2022/7/25,Monotherapy,Once a month,89,92
+1095,2022/6/4,Pharmacotherapy,Once a month,218,134
+1096,2022/7/16,Monotherapy,Once a month,245,62
+1097,2022/10/13,Oxygen therapy,Once a week,290,13
+1098,2022/2/4,Physiotherapy,Once a month,14,58
+1099,2022/9/8,Phototherapy,Once a week,227,123
+1100,2022/9/1,Oxygen therapy,Twice a week,98,280
+1101,2022/5/11,Cyrotherapy,Once a month,294,217
+1102,2022/1/18,Radiotherapy,Once a month,154,39
+1103,2022/3/19,Aromatherapy,Once a month,245,62
+1104,2022/10/27,Oxygen therapy,Once a month,165,119
+1105,2022/6/18,Pharmacotherapy,Once a month,211,254
+1106,2022/9/3,Monotherapy,Once a week,290,13
+1107,2022/8/16,Pharmacotherapy,Once in 3 months,137,243
+1108,2022/1/22,Phototherapy,Once a month,123,20
+1109,2022/8/19,Oxygen therapy,Once a month,65,82
+1110,2022/6/13,Oxygen therapy,Once a week,34,59
+1111,2022/3/10,Cyrotherapy,Twice a month,57,127
+1112,2022/4/4,Oxygen therapy,Once a month,102,213
+1113,2022/6/26,Physiotherapy,Twice a week,246,95
+1114,2022/10/16,Pharmacotherapy,Once a week,32,130
+1115,2022/2/8,Cyrotherapy,Once a month,49,110
+1116,2022/11/15,Phototherapy,Twice a week,180,105
+1117,2022/1/3,Pharmacotherapy,Once a month,89,92
+1118,2022/5/2,Physiotherapy,Once a month,123,20
+1119,2022/1/6,Physiotherapy,Twice a week,204,141
+1120,2022/1/9,Oxygen therapy,Once a month,168,111
+1121,2022/3/25,Oxygen therapy,Once a month,135,86
+1122,2022/2/14,Radiotherapy,Once a week,90,63
+1123,2022/1/2,Phototherapy,Once in 3 months,203,266
+1124,2022/11/11,Phototherapy,Once in 3 months,124,295
+1125,2022/10/27,Oxygen therapy,Once a month,228,90
+1126,2022/10/10,Aromatherapy,Twice a month,235,12
+1127,2022/9/22,Immunotherapy,Once a month,274,262
+1128,2022/11/24,Cyrotherapy,Once a month,220,142
+1129,2022/10/10,Immunotherapy,Once a month,279,156
+1130,2022/9/4,Cyrotherapy,Once a month,201,166
+1131,2022/5/20,Phototherapy,Once in 3 months,194,292
+1132,2022/1/8,Pharmacotherapy,Once a month,267,135
+1133,2022/10/11,Phototherapy,Once in 3 months,121,215
+1134,2022/8/1,Monotherapy,Twice a week,262,170
+1135,2022/2/23,Phototherapy,Once in 3 months,262,170
+1136,2022/4/4,Monotherapy,Once a week,99,147
+1137,2022/10/4,Pharmacotherapy,Once a week,88,183
+1138,2022/2/18,Radiotherapy,Once a month,51,163
+1139,2022/4/25,Aromatherapy,Twice a week,69,199
+1140,2022/4/20,Aromatherapy,Once a month,103,148
+1141,2022/9/18,Physiotherapy,Once a month,255,285
+1142,2022/7/10,Physiotherapy,Once in 3 months,185,49
+1143,2022/1/10,Pharmacotherapy,Once a month,115,178
+1144,2022/2/23,Gene therapy,Once in 3 months,31,75
+1145,2022/11/5,Pharmacotherapy,Once a month,214,22
+1146,2022/9/27,Cyrotherapy,Once a month,234,140
+1147,2022/9/8,Monotherapy,Once a month,240,69
+1148,2022/8/16,Physiotherapy,Once a week,280,19
+1149,2022/11/3,Monotherapy,Once a month,257,160
+1150,2022/2/19,Oxygen therapy,Twice a month,27,270
+1151,2022/11/23,Immunotherapy,Twice a month,14,58
+1152,2022/8/14,Phototherapy,Once a month,196,155
+1153,2022/3/16,Monotherapy,Once in 3 months,93,253
+1154,2022/5/23,Cyrotherapy,Once a month,56,219
+1155,2022/11/11,Monotherapy,Once a month,236,236
+1156,2022/8/20,Radiotherapy,Once a month,68,89
+1157,2022/1/19,Phototherapy,Once a month,184,222
+1158,2022/5/21,Pharmacotherapy,Twice a month,23,139
+1159,2022/2/8,Immunotherapy,Twice a month,197,167
+1160,2022/5/8,Pharmacotherapy,Once a month,181,221
+1161,2022/10/21,Cyrotherapy,Once a month,113,265
+1162,2022/6/18,Radiotherapy,Once a month,26,228
+1163,2022/6/15,Oxygen therapy,Twice a week,230,26
+1164,2022/11/14,Phototherapy,Twice a week,236,236
+1165,2022/11/18,Monotherapy,Once a month,141,207
+1166,2022/2/14,Physiotherapy,Once a month,255,285
+1167,2022/4/1,Gene therapy,Twice a week,19,181
+1168,2022/1/12,Immunotherapy,Twice a week,163,299
+1169,2022/10/15,Cyrotherapy,Twice a week,68,89
+1170,2022/6/25,Radiotherapy,Twice a month,216,16
+1171,2022/7/6,Oxygen therapy,Once a month,83,43
+1172,2022/10/15,Cyrotherapy,Once a month,189,210
+1173,2022/2/2,Pharmacotherapy,Once a month,107,271
+1174,2022/7/26,Gene therapy,Once a month,235,12
+1175,2022/7/8,Radiotherapy,Once a month,101,205
+1176,2022/4/9,Cyrotherapy,Once in 3 months,67,238
+1177,2022/4/24,Radiotherapy,Once a month,59,120
+1178,2022/4/17,Pharmacotherapy,Once a month,240,69
+1179,2022/5/26,Physiotherapy,Once a month,259,85
+1180,2022/4/23,Cyrotherapy,Once a week,144,177
+1181,2022/11/4,Oxygen therapy,Once a month,225,117
+1182,2022/7/1,Monotherapy,Once a month,113,265
+1183,2022/5/21,Pharmacotherapy,Twice a month,210,54
+1184,2022/4/7,Physiotherapy,Once a month,208,40
+1185,2022/2/17,Oxygen therapy,Once a month,134,244
+1186,2022/11/22,Gene therapy,Once a month,170,31
+1187,2022/5/4,Monotherapy,Twice a week,210,54
+1188,2022/6/24,Monotherapy,Once a month,220,142
+1189,2022/10/9,Monotherapy,Once a month,261,274
+1190,2022/10/18,Aromatherapy,Once a month,184,222
+1191,2022/8/4,Immunotherapy,Once a month,266,73
+1192,2022/3/14,Radiotherapy,Once in 3 months,160,53
+1193,2022/2/22,Pharmacotherapy,Once a month,206,44
+1194,2022/10/8,Monotherapy,Once a week,75,169
+1195,2022/4/21,Physiotherapy,Once a month,271,168
+1196,2022/2/22,Oxygen therapy,Once a month,295,218
+1197,2022/9/12,Cyrotherapy,Twice a month,260,93
+1198,2022/8/26,Physiotherapy,Once a month,234,140
+1199,2022/4/9,Oxygen therapy,Once a month,103,148
+1200,2022/7/12,Oxygen therapy,Once a month,175,115
+1201,2022/10/16,Pharmacotherapy,Once a month,200,201
+1202,2022/1/10,Physiotherapy,Once a month,158,81
+1203,2022/4/18,Phototherapy,Once a month,176,202
+1204,2022/10/7,Physiotherapy,Once a week,227,123
+1205,2022/11/11,Cyrotherapy,Once a month,56,219
+1206,2022/6/1,Physiotherapy,Twice a month,120,137
+1207,2022/11/3,Gene therapy,Twice a month,85,235
+1208,2022/11/8,Phototherapy,Once a month,127,248
+1209,2022/9/27,Physiotherapy,Once a month,29,179
+1210,2022/3/21,Phototherapy,Once a month,112,289
+1211,2022/11/6,Cyrotherapy,Once a month,161,188
+1212,2022/10/22,Aromatherapy,Once a month,289,264
+1213,2022/6/22,Oxygen therapy,Once a week,220,142
+1214,2022/1/3,Monotherapy,Once a month,19,181
+1215,2022/2/2,Phototherapy,Once in 3 months,16,11
+1216,2022/2/12,Aromatherapy,Once a month,147,104
+1217,2022/5/15,Radiotherapy,Once a month,137,243
+1218,2022/2/15,Aromatherapy,Once a month,25,14
+1219,2022/2/27,Gene therapy,Once in 3 months,148,242
+1220,2022/6/13,Gene therapy,Once a month,143,154
+1221,2022/8/1,Phototherapy,Once a week,228,90
+1222,2022/2/27,Radiotherapy,Once a month,154,39
+1223,2022/10/23,Pharmacotherapy,Once a week,159,17
+1224,2022/2/25,Monotherapy,Once a month,143,154
+1225,2022/5/25,Pharmacotherapy,Twice a month,254,56
+1226,2022/10/12,Monotherapy,Once in 3 months,295,218
+1227,2022/4/4,Physiotherapy,Once a month,63,226
+1228,2022/11/24,Pharmacotherapy,Twice a month,185,49
+1229,2022/2/26,Monotherapy,Once a month,171,298
+1230,2022/10/17,Phototherapy,Twice a week,182,256
+1231,2022/7/16,Aromatherapy,Once a month,131,267
+1232,2022/4/23,Oxygen therapy,Once a month,154,39
+1233,2022/11/20,Gene therapy,Once a month,218,134
+1234,2022/7/17,Radiotherapy,Once in 3 months,292,273
+1235,2022/6/5,Physiotherapy,Once in 3 months,41,296
+1236,2022/5/14,Gene therapy,Once a month,89,92
+1237,2022/5/16,Monotherapy,Once a month,177,220
+1238,2022/9/21,Pharmacotherapy,Once a month,204,141
+1239,2022/3/12,Phototherapy,Once a month,174,78
+1240,2022/9/26,Phototherapy,Once a month,60,48
+1241,2022/1/2,Immunotherapy,Once a month,58,268
+1242,2022/7/2,Pharmacotherapy,Once a month,132,240
+1243,2022/9/13,Immunotherapy,Once a month,234,140
+1244,2022/1/7,Phototherapy,Once a month,125,250
+1245,2022/9/21,Gene therapy,Once in 3 months,224,282
+1246,2022/2/24,Aromatherapy,Once a month,298,190
+1247,2022/10/15,Monotherapy,Once in 3 months,66,18
+1248,2022/5/25,Aromatherapy,Once a month,240,69
+1249,2022/11/25,Cyrotherapy,Once a week,201,166
+1250,2022/9/22,Immunotherapy,Twice a week,170,31
+1251,2022/11/15,Phototherapy,Once in 3 months,168,111
+1252,2022/1/5,Monotherapy,Once a month,178,47
+1253,2022/2/12,Physiotherapy,Once a week,233,279
+1254,2022/4/16,Monotherapy,Once a month,51,163
+1255,2022/7/17,Pharmacotherapy,Twice a week,145,276
+1256,2022/6/1,Cyrotherapy,Once a month,107,271
+1257,2022/11/8,Radiotherapy,Once a month,60,48
+1258,2022/8/27,Oxygen therapy,Once a month,258,247
+1259,2022/9/2,Aromatherapy,Once a month,65,82
+1260,2022/6/17,Immunotherapy,Once a month,64,216
+1261,2022/8/27,Pharmacotherapy,Once a month,258,247
+1262,2022/8/18,Pharmacotherapy,Once in 3 months,171,298
+1263,2022/3/11,Pharmacotherapy,Once a month,168,111
+1264,2022/11/14,Cyrotherapy,Once a month,201,166
+1265,2022/4/25,Physiotherapy,Once a month,148,242
+1266,2022/7/22,Gene therapy,Once a month,89,92
+1267,2022/1/7,Cyrotherapy,Once a month,181,221
+1268,2022/5/24,Phototherapy,Once a month,221,144
+1269,2022/8/7,Physiotherapy,Once a month,289,264
+1270,2022/6/27,Monotherapy,Once a month,34,59
+1271,2022/3/25,Phototherapy,Once a month,93,253
+1272,2022/8/16,Monotherapy,Twice a month,154,39
+1273,2022/11/26,Gene therapy,Twice a week,23,139
+1274,2022/5/9,Aromatherapy,Once a week,147,104
+1275,2022/11/19,Oxygen therapy,Once a month,56,219
+1276,2022/3/6,Phototherapy,Once a month,21,211
+1277,2022/1/17,Immunotherapy,Once a month,35,198
+1278,2022/9/8,Radiotherapy,Once a month,90,63
+1279,2022/5/13,Aromatherapy,Once a month,168,111
+1280,2022/9/8,Physiotherapy,Once a week,94,233
+1281,2022/6/21,Cyrotherapy,Once in 3 months,247,151
+1282,2022/8/15,Gene therapy,Once a month,177,220
+1283,2022/5/8,Gene therapy,Twice a month,90,63
+1284,2022/5/27,Oxygen therapy,Once a month,295,218
+1285,2022/11/15,Gene therapy,Twice a week,170,31
+1286,2022/5/20,Aromatherapy,Once in 3 months,99,147
+1287,2022/10/15,Phototherapy,Once in 3 months,101,205
+1288,2022/2/8,Pharmacotherapy,Twice a week,81,212
+1289,2022/2/9,Radiotherapy,Once a month,41,296
+1290,2022/9/17,Gene therapy,Twice a week,200,201
+1291,2022/3/12,Immunotherapy,Once a month,154,39
+1292,2022/10/3,Aromatherapy,Twice a month,250,132
+1293,2022/5/21,Oxygen therapy,Once a month,104,87
+1294,2022/8/6,Gene therapy,Once a month,231,150
+1295,2022/11/2,Immunotherapy,Once a week,78,175
+1296,2022/5/3,Cyrotherapy,Once a month,155,239
+1297,2022/4/8,Physiotherapy,Once a month,18,70
+1298,2022/6/10,Phototherapy,Once a month,217,187
+1299,2022/1/3,Pharmacotherapy,Once in 3 months,62,94
+1300,2022/8/20,Physiotherapy,Twice a month,239,225
+1301,2022/6/7,Monotherapy,Once a month,219,269
+1302,2022/3/10,Physiotherapy,Twice a month,43,32
+1303,2022/4/27,Cyrotherapy,Once a week,29,179
+1304,2022/4/2,Physiotherapy,Once a month,167,64
+1305,2022/1/12,Pharmacotherapy,Twice a week,165,119
+1306,2022/9/6,Immunotherapy,Once a month,172,208
+1307,2022/2/23,Monotherapy,Once a month,127,248
+1308,2022/3/4,Monotherapy,Once a month,21,211
+1309,2022/11/6,Physiotherapy,Once a week,51,163
+1310,2022/4/16,Immunotherapy,Once a month,128,227
+1311,2022/8/15,Physiotherapy,Twice a week,290,13
+1312,2022/6/13,Immunotherapy,Once a month,129,88
+1313,2022/5/16,Cyrotherapy,Twice a month,134,244
+1314,2022/2/12,Cyrotherapy,Once a month,198,116
+1315,2022/10/21,Oxygen therapy,Once a month,225,117
+1316,2022/8/6,Cyrotherapy,Once a month,155,239
+1317,2022/11/17,Radiotherapy,Twice a month,123,20
+1318,2022/9/10,Gene therapy,Twice a month,79,263
+1319,2022/4/10,Gene therapy,Once a month,269,68
+1320,2022/6/14,Oxygen therapy,Once a week,104,87
+1321,2022/4/12,Gene therapy,Once a month,230,26
+1322,2022/7/24,Pharmacotherapy,Once a month,93,253
+1323,2022/9/26,Cyrotherapy,Once a month,89,92
+1324,2022/8/8,Aromatherapy,Once a week,109,145
+1325,2022/8/2,Phototherapy,Once a week,171,298
+1326,2022/8/6,Phototherapy,Once a month,88,183
+1327,2022/10/22,Cyrotherapy,Once in 3 months,124,295
+1328,2022/2/1,Physiotherapy,Once a month,44,143
+1329,2022/11/1,Monotherapy,Once a month,241,209
+1330,2022/3/23,Phototherapy,Once a month,224,282
+1331,2022/7/23,Radiotherapy,Twice a month,105,61
+1332,2022/9/16,Monotherapy,Once in 3 months,241,209
+1333,2022/10/14,Gene therapy,Once a month,161,188
+1334,2022/1/27,Radiotherapy,Once a month,164,259
+1335,2022/4/4,Oxygen therapy,Twice a month,221,144
+1336,2022/9/7,Pharmacotherapy,Once a week,253,278
+1337,2022/8/22,Pharmacotherapy,Once a month,157,251
+1338,2022/6/7,Phototherapy,Twice a week,219,269
+1339,2022/5/26,Aromatherapy,Once a month,89,92
+1340,2022/8/22,Pharmacotherapy,Once a month,169,186
+1341,2022/1/18,Phototherapy,Once a month,196,155
+1342,2022/1/27,Cyrotherapy,Once a month,199,172
+1343,2022/7/10,Monotherapy,Twice a month,14,58
+1344,2022/4/2,Aromatherapy,Once a month,240,69
+1345,2022/1/12,Gene therapy,Once a month,189,210
+1346,2022/2/21,Aromatherapy,Twice a week,60,48
+1347,2022/1/15,Aromatherapy,Twice a month,51,163
+1348,2022/2/2,Gene therapy,Once a week,83,43
+1349,2022/10/19,Phototherapy,Once a month,213,206
+1350,2022/6/9,Aromatherapy,Twice a month,12,71
+1351,2022/10/17,Immunotherapy,Once a month,66,18
+1352,2022/9/5,Immunotherapy,Once in 3 months,74,184
+1353,2022/3/6,Physiotherapy,Once a month,276,129
+1354,2022/1/19,Monotherapy,Once a month,86,162
+1355,2022/3/6,Immunotherapy,Twice a month,149,29
+1356,2022/1/24,Physiotherapy,Once a month,57,127
+1357,2022/2/5,Cyrotherapy,Once in 3 months,190,149
+1358,2022/5/10,Physiotherapy,Once a month,198,116
+1359,2022/11/10,Radiotherapy,Once a week,289,264
+1360,2022/4/21,Immunotherapy,Once a month,205,237
+1361,2022/1/15,Radiotherapy,Once a week,87,249
+1362,2022/8/3,Oxygen therapy,Once a month,239,225
+1363,2022/6/23,Cyrotherapy,Once a week,270,55
+1364,2022/1/24,Oxygen therapy,Once a month,243,146
+1365,2022/3/25,Oxygen therapy,Once a month,21,211
+1366,2022/8/3,Phototherapy,Once a month,72,24
+1367,2022/11/15,Oxygen therapy,Once a month,31,75
+1368,2022/1/17,Phototherapy,Once a month,43,32
+1369,2022/11/9,Immunotherapy,Once a week,84,114
+1370,2022/1/5,Pharmacotherapy,Once a week,206,44
+1371,2022/7/8,Cyrotherapy,Once in 3 months,65,82
+1372,2022/4/3,Aromatherapy,Once a month,76,121
+1373,2022/1/26,Cyrotherapy,Once a week,77,176
+1374,2022/3/3,Gene therapy,Once a month,24,286
+1375,2022/10/25,Gene therapy,Once a month,259,85
+1376,2022/7/19,Gene therapy,Once a month,253,278
+1377,2022/6/25,Immunotherapy,Once a month,294,217
+1378,2022/1/3,Monotherapy,Once a month,278,164
+1379,2022/7/4,Radiotherapy,Twice a month,85,235
+1380,2022/10/14,Pharmacotherapy,Twice a week,193,174
+1381,2022/3/19,Phototherapy,Once a month,94,233
+1382,2022/9/20,Gene therapy,Twice a week,160,53
+1383,2022/11/26,Pharmacotherapy,Once a month,103,148
+1384,2022/4/23,Monotherapy,Twice a month,288,99
+1385,2022/10/27,Pharmacotherapy,Once a month,63,226
+1386,2022/5/12,Oxygen therapy,Once a month,150,21
+1387,2022/11/9,Phototherapy,Twice a month,69,199
+1388,2022/3/23,Physiotherapy,Once a month,221,144
+1389,2022/4/14,Immunotherapy,Once a month,57,127
+1390,2022/7/27,Physiotherapy,Once a month,288,99
+1391,2022/8/16,Immunotherapy,Twice a week,252,83
+1392,2022/3/26,Oxygen therapy,Twice a month,135,86
+1393,2022/8/2,Aromatherapy,Once a week,86,162
+1394,2022/9/18,Physiotherapy,Once a month,153,25
+1395,2022/10/6,Physiotherapy,Once a month,130,197
+1396,2022/2/14,Phototherapy,Once a week,258,247
+1397,2022/2/3,Cyrotherapy,Twice a month,112,289
+1398,2022/10/18,Gene therapy,Once a month,223,131
+1399,2022/11/15,Radiotherapy,Once a month,273,288
+1400,2022/4/23,Gene therapy,Once in 3 months,16,11
+1401,2022/4/26,Cyrotherapy,Once a month,297,109
+1402,2022/6/7,Immunotherapy,Once a month,101,205
+1403,2022/2/23,Oxygen therapy,Once a month,294,217
+1404,2022/2/6,Cyrotherapy,Once a month,141,207
+1405,2022/4/5,Pharmacotherapy,Once a month,265,45
+1406,2022/5/17,Pharmacotherapy,Once a month,201,166
+1407,2022/9/10,Aromatherapy,Once a month,204,141
+1408,2022/5/24,Monotherapy,Twice a month,190,149
+1409,2022/5/7,Cyrotherapy,Once a month,111,196
+1410,2022/7/14,Radiotherapy,Once a month,233,279
+1411,2022/3/26,Oxygen therapy,Once in 3 months,261,274
+1412,2022/3/21,Monotherapy,Once a month,40,165
+1413,2022/4/10,Immunotherapy,Once a month,255,285
+1414,2022/9/11,Monotherapy,Once a month,38,171
+1415,2022/9/22,Radiotherapy,Twice a week,175,115
+1416,2022/4/6,Radiotherapy,Once in 3 months,110,100
+1417,2022/4/10,Gene therapy,Once a month,126,106
+1418,2022/7/15,Immunotherapy,Once a month,66,18
+1419,2022/7/15,Immunotherapy,Once a month,231,150
+1420,2022/11/12,Immunotherapy,Once a month,210,54
+1421,2022/3/7,Physiotherapy,Once in 3 months,118,153
+1422,2022/8/27,Physiotherapy,Once a month,164,259
+1423,2022/7/18,Radiotherapy,Once a month,14,58
+1424,2022/10/16,Aromatherapy,Once a month,205,237
+1425,2022/9/8,Gene therapy,Once a month,275,159
+1426,2022/8/5,Physiotherapy,Once a month,200,201
+1427,2022/10/19,Pharmacotherapy,Once a month,191,67
+1428,2022/9/6,Immunotherapy,Once a week,239,225
+1429,2022/8/15,Physiotherapy,Once a month,270,55
+1430,2022/10/6,Pharmacotherapy,Once in 3 months,171,298
+1431,2022/5/12,Phototherapy,Once a week,231,150
+1432,2022/10/27,Gene therapy,Once a month,206,44
+1433,2022/10/3,Physiotherapy,Once a week,281,192
+1434,2022/1/12,Radiotherapy,Once a month,128,227
+1435,2022/5/19,Cyrotherapy,Twice a week,134,244
+1436,2022/1/12,Physiotherapy,Once a month,25,14
+1437,2022/4/6,Cyrotherapy,Once a month,265,45
+1438,2022/2/24,Phototherapy,Once a month,153,25
+1439,2022/9/11,Pharmacotherapy,Twice a month,32,130
+1440,2022/2/21,Aromatherapy,Once a week,219,269
+1441,2022/5/12,Monotherapy,Twice a month,111,196
+1442,2022/3/22,Physiotherapy,Once a month,247,151
+1443,2022/10/2,Radiotherapy,Once a month,159,17
+1444,2022/1/2,Monotherapy,Once a month,55,35
+1445,2022/5/14,Gene therapy,Once a month,52,255
+1446,2022/4/6,Cyrotherapy,Once a week,279,156
+1447,2022/2/17,Pharmacotherapy,Twice a month,116,96
+1448,2022/1/23,Radiotherapy,Twice a week,242,97
+1449,2022/6/13,Monotherapy,Once a month,48,200
+1450,2022/3/25,Radiotherapy,Once a month,110,100
+1451,2022/9/27,Immunotherapy,Twice a month,264,229
+1452,2022/3/17,Gene therapy,Twice a month,91,252
+1453,2022/1/20,Monotherapy,Once a month,42,287
+1454,2022/5/3,Pharmacotherapy,Twice a week,250,132
+1455,2022/3/22,Radiotherapy,Once a month,114,138
+1456,2022/9/21,Phototherapy,Once a month,91,252
+1457,2022/9/25,Physiotherapy,Once a month,120,137
+1458,2022/8/25,Radiotherapy,Twice a week,191,67
+1459,2022/4/3,Physiotherapy,Once a month,41,296
+1460,2022/9/4,Physiotherapy,Once a month,274,262
+1461,2022/9/24,Monotherapy,Once a month,21,211
+1462,2022/1/4,Cyrotherapy,Once a month,108,126
+1463,2022/4/24,Immunotherapy,Once a month,297,109
+1464,2022/11/24,Monotherapy,Once a month,196,155
+1465,2022/11/23,Oxygen therapy,Once a month,109,145
+1466,2022/5/1,Gene therapy,Once a month,162,84
+1467,2022/7/23,Immunotherapy,Once a month,291,214
+1468,2022/7/23,Monotherapy,Twice a month,39,230
+1469,2022/8/1,Cyrotherapy,Once in 3 months,134,244
+1470,2022/3/24,Oxygen therapy,Once in 3 months,91,252
+1471,2022/10/6,Aromatherapy,Twice a month,96,246
+1472,2022/3/3,Oxygen therapy,Once in 3 months,267,135
+1473,2022/10/25,Physiotherapy,Once a month,291,214
+1474,2022/11/2,Pharmacotherapy,Twice a week,21,211
+1475,2022/5/16,Phototherapy,Once a week,26,228
+1476,2022/7/27,Pharmacotherapy,Once in 3 months,237,283
+1477,2022/2/17,Gene therapy,Once a month,207,193
+1478,2022/1/18,Pharmacotherapy,Twice a week,41,296
+1479,2022/9/14,Physiotherapy,Once a month,55,35
+1480,2022/5/25,Phototherapy,Once a month,291,214
+1481,2022/6/20,Immunotherapy,Once a month,92,180
+1482,2022/2/13,Monotherapy,Once in 3 months,110,100
+1483,2022/10/12,Pharmacotherapy,Once a month,154,39
+1484,2022/3/20,Radiotherapy,Once a month,55,35
+1485,2022/8/2,Aromatherapy,Once a month,81,212
+1486,2022/10/11,Immunotherapy,Once a month,14,58
+1487,2022/2/9,Physiotherapy,Once in 3 months,193,174
+1488,2022/7/8,Aromatherapy,Once a month,267,135
+1489,2022/1/16,Gene therapy,Twice a month,142,38
+1490,2022/10/14,Phototherapy,Once a week,298,190
+1491,2022/2/2,Pharmacotherapy,Once a week,210,54
+1492,2022/7/4,Oxygen therapy,Once a week,125,250
+1493,2022/11/22,Physiotherapy,Once a week,167,64
+1494,2022/2/14,Oxygen therapy,Once in 3 months,64,216
+1495,2022/8/8,Pharmacotherapy,Once a month,55,35
+1496,2022/1/9,Monotherapy,Once a month,112,289
+1497,2022/5/14,Oxygen therapy,Twice a month,151,72
+1498,2022/8/23,Radiotherapy,Once a month,241,209
+1499,2022/10/8,Physiotherapy,Once in 3 months,94,233
+1500,2022/9/26,Gene therapy,Once a month,88,183
+1501,2022/2/17,Oxygen therapy,Twice a month,81,212
+1502,2022/2/6,Monotherapy,Twice a week,13,260
+1503,2022/1/16,Pharmacotherapy,Once a month,219,269
+1504,2022/5/25,Aromatherapy,Twice a week,142,38
+1505,2022/2/24,Cyrotherapy,Once a month,73,33
+1506,2022/2/3,Gene therapy,Once a week,28,195
+1507,2022/3/9,Immunotherapy,Once in 3 months,42,287
+1508,2022/3/15,Radiotherapy,Twice a week,181,221
+1509,2022/5/25,Gene therapy,Once a month,171,298
+1510,2022/10/24,Cyrotherapy,Once a month,276,129
+1511,2022/10/20,Cyrotherapy,Once a month,163,299
+1512,2022/7/12,Pharmacotherapy,Once a month,83,43
+1513,2022/7/2,Oxygen therapy,Once a month,153,25
+1514,2022/10/2,Phototherapy,Once a week,93,253
+1515,2022/2/20,Physiotherapy,Once a month,93,253
+1516,2022/2/7,Oxygen therapy,Once a month,187,277
+1517,2022/4/8,Gene therapy,Once a month,158,81
+1518,2022/1/8,Immunotherapy,Once a month,130,197
+1519,2022/10/22,Gene therapy,Twice a month,194,292
+1520,2022/10/17,Aromatherapy,Twice a week,221,144
+1521,2022/9/21,Monotherapy,Once a month,246,95
+1522,2022/6/18,Monotherapy,Once a month,289,264
+1523,2022/11/1,Oxygen therapy,Twice a month,149,29
+1524,2022/6/14,Immunotherapy,Once a month,41,296
+1525,2022/4/16,Aromatherapy,Once a month,37,51
+1526,2022/5/14,Pharmacotherapy,Once a month,57,127
+1527,2022/5/27,Monotherapy,Once a month,174,78
+1528,2022/1/17,Oxygen therapy,Once a month,160,53
+1529,2022/5/27,Gene therapy,Once a month,35,198
+1530,2022/11/2,Physiotherapy,Once a month,214,22
+1531,2022/2/5,Radiotherapy,Once a month,67,238
+1532,2022/8/18,Cyrotherapy,Once a month,25,14
+1533,2022/9/6,Pharmacotherapy,Once a month,206,44
+1534,2022/7/20,Aromatherapy,Once in 3 months,86,162
+1535,2022/11/23,Oxygen therapy,Twice a month,108,126
+1536,2022/11/16,Physiotherapy,Once a month,239,225
+1537,2022/10/3,Pharmacotherapy,Twice a week,197,167
+1538,2022/4/26,Pharmacotherapy,Once a month,169,186
+1539,2022/10/20,Radiotherapy,Once a month,44,143
+1540,2022/7/26,Pharmacotherapy,Once in 3 months,28,195
+1541,2022/5/5,Physiotherapy,Once a month,69,199
+1542,2022/2/13,Physiotherapy,Once a month,87,249
+1543,2022/6/15,Cyrotherapy,Once a month,196,155
+1544,2022/8/14,Immunotherapy,Once a week,228,90
+1545,2022/8/24,Immunotherapy,Once in 3 months,265,45
+1546,2022/6/25,Phototherapy,Once a week,41,296
+1547,2022/5/9,Cyrotherapy,Once a week,14,58
+1548,2022/5/16,Gene therapy,Once a month,192,258
+1549,2022/11/14,Cyrotherapy,Once a week,49,110
+1550,2022/11/2,Phototherapy,Twice a month,280,19
+1551,2022/5/13,Oxygen therapy,Once a month,29,179
+1552,2022/8/5,Physiotherapy,Twice a month,285,50
+1553,2022/7/2,Radiotherapy,Twice a month,115,178
+1554,2022/3/23,Gene therapy,Once a month,237,283
+1555,2022/7/19,Cyrotherapy,Once a month,114,138
+1556,2022/10/24,Phototherapy,Twice a week,192,258
+1557,2022/3/19,Immunotherapy,Once a month,76,121
+1558,2022/1/21,Monotherapy,Once in 3 months,271,168
+1559,2022/7/23,Physiotherapy,Once a month,225,117
+1560,2022/2/18,Aromatherapy,Once a month,82,293
+1561,2022/8/17,Cyrotherapy,Once a week,165,119
+1562,2022/5/3,Cyrotherapy,Once a month,294,217
+1563,2022/8/12,Gene therapy,Once a month,164,259
+1564,2022/2/7,Cyrotherapy,Once a week,259,85
+1565,2022/7/18,Pharmacotherapy,Once in 3 months,297,109
+1566,2022/7/9,Phototherapy,Once in 3 months,114,138
+1567,2022/4/22,Immunotherapy,Once a month,267,135
+1568,2022/11/21,Cyrotherapy,Once a month,249,124
+1569,2022/1/12,Immunotherapy,Once a month,113,265
+1570,2022/4/5,Monotherapy,Once a month,64,216
+1571,2022/5/8,Physiotherapy,Once in 3 months,69,199
+1572,2022/7/10,Physiotherapy,Once a month,34,59
+1573,2022/8/20,Gene therapy,Twice a week,262,170
+1574,2022/2/24,Aromatherapy,Once a month,127,248
+1575,2022/4/16,Aromatherapy,Once a month,78,175
+1576,2022/7/8,Pharmacotherapy,Once a month,57,127
+1577,2022/11/14,Pharmacotherapy,Once a month,19,181
+1578,2022/7/14,Gene therapy,Once a month,284,98
+1579,2022/11/3,Monotherapy,Twice a month,211,254
+1580,2022/6/2,Cyrotherapy,Twice a week,34,59
+1581,2022/4/13,Radiotherapy,Twice a week,167,64
+1582,2022/4/10,Cyrotherapy,Once in 3 months,76,121
+1583,2022/10/20,Gene therapy,Once a week,272,275
+1584,2022/9/27,Phototherapy,Once a month,269,68
+1585,2022/5/21,Oxygen therapy,Once a week,97,194
+1586,2022/3/11,Gene therapy,Once a month,262,170
+1587,2022/1/4,Oxygen therapy,Once a month,38,171
+1588,2022/9/17,Oxygen therapy,Once a month,43,32
+1589,2022/4/3,Monotherapy,Twice a month,102,213
+1590,2022/9/22,Radiotherapy,Twice a month,132,240
+1591,2022/4/4,Physiotherapy,Once a month,153,25
+1592,2022/2/8,Cyrotherapy,Twice a month,292,273
+1593,2022/10/21,Gene therapy,Twice a month,93,253
+1594,2022/10/14,Immunotherapy,Once a month,290,13
+1595,2022/4/1,Monotherapy,Once a week,177,220
+1596,2022/7/9,Phototherapy,Once a month,278,164
+1597,2022/10/14,Radiotherapy,Twice a week,284,98
+1598,2022/7/27,Gene therapy,Once a week,78,175
+1599,2022/3/5,Monotherapy,Once a month,209,108
+1600,2022/3/7,Gene therapy,Once a month,128,227
+1601,2022/4/27,Physiotherapy,Once a week,143,154
+1602,2022/1/18,Cyrotherapy,Once a month,291,214
+1603,2022/2/18,Cyrotherapy,Once a month,106,57
+1604,2022/6/2,Physiotherapy,Once a month,15,65
+1605,2022/6/15,Gene therapy,Once a month,252,83
+1606,2022/4/15,Aromatherapy,Once a month,85,235
+1607,2022/5/27,Radiotherapy,Once a month,256,157
+1608,2022/3/2,Monotherapy,Once in 3 months,165,119
+1609,2022/3/18,Monotherapy,Once a month,213,206
+1610,2022/1/23,Phototherapy,Once a month,120,137
+1611,2022/7/3,Physiotherapy,Once a month,75,169
+1612,2022/7/7,Aromatherapy,Once a month,63,226
+1613,2022/1/10,Immunotherapy,Twice a month,205,237
+1614,2022/5/19,Cyrotherapy,Once a week,182,256
+1615,2022/5/1,Immunotherapy,Once a month,231,150
+1616,2022/2/20,Radiotherapy,Once a month,195,102
+1617,2022/5/1,Phototherapy,Twice a month,17,203
+1618,2022/10/1,Physiotherapy,Twice a week,267,135
+1619,2022/1/10,Cyrotherapy,Twice a month,182,256
+1620,2022/3/17,Oxygen therapy,Once in 3 months,171,298
+1621,2022/11/9,Phototherapy,Twice a month,241,209
+1622,2022/6/7,Pharmacotherapy,Once a month,216,16
+1623,2022/8/10,Aromatherapy,Once a month,69,199
+1624,2022/8/27,Oxygen therapy,Once a month,178,47
+1625,2022/11/11,Immunotherapy,Once a month,85,235
+1626,2022/11/2,Gene therapy,Twice a week,192,258
+1627,2022/11/5,Radiotherapy,Twice a week,100,223
+1628,2022/9/2,Monotherapy,Twice a month,68,89
+1629,2022/6/11,Monotherapy,Once a month,271,168
+1630,2022/1/2,Pharmacotherapy,Once a month,74,184
+1631,2022/5/10,Oxygen therapy,Once a month,30,76
+1632,2022/8/17,Phototherapy,Once a month,246,95
+1633,2022/1/7,Gene therapy,Twice a week,145,276
+1634,2022/10/17,Gene therapy,Once a month,59,120
+1635,2022/11/27,Gene therapy,Once a week,162,84
+1636,2022/7/22,Phototherapy,Once a month,56,219
+1637,2022/5/7,Oxygen therapy,Once a month,202,52
+1638,2022/2/2,Cyrotherapy,Once a month,110,100
+1639,2022/5/7,Immunotherapy,Once a month,34,59
+1640,2022/5/2,Cyrotherapy,Once a month,25,14
+1641,2022/3/1,Monotherapy,Twice a month,293,234
+1642,2022/1/22,Cyrotherapy,Once a week,121,215
+1643,2022/11/21,Phototherapy,Once a month,65,82
+1644,2022/5/11,Radiotherapy,Once in 3 months,45,294
+1645,2022/11/15,Radiotherapy,Twice a week,79,263
+1646,2022/8/7,Oxygen therapy,Once a month,292,273
+1647,2022/6/8,Cyrotherapy,Once a month,236,236
+1648,2022/7/4,Physiotherapy,Twice a month,187,277
+1649,2022/8/13,Phototherapy,Once a month,69,199
+1650,2022/9/10,Aromatherapy,Once in 3 months,176,202
+1651,2022/1/25,Radiotherapy,Once a month,241,209
+1652,2022/4/18,Monotherapy,Twice a week,249,124
+1653,2022/10/5,Physiotherapy,Once a month,151,72
+1654,2022/11/6,Monotherapy,Once a month,225,117
+1655,2022/7/7,Physiotherapy,Once a month,16,11
+1656,2022/3/15,Phototherapy,Once a month,24,286
+1657,2022/2/15,Phototherapy,Once a month,29,179
+1658,2022/1/17,Phototherapy,Once a month,265,45
+1659,2022/1/17,Oxygen therapy,Once in 3 months,132,240
+1660,2022/1/11,Physiotherapy,Twice a week,65,82
+1661,2022/9/24,Cyrotherapy,Once a month,40,165
+1662,2022/3/8,Aromatherapy,Once a month,258,247
+1663,2022/9/25,Oxygen therapy,Once a week,246,95
+1664,2022/5/2,Phototherapy,Once a week,111,196
+1665,2022/8/24,Physiotherapy,Once a month,149,29
+1666,2022/10/5,Monotherapy,Once a month,214,22
+1667,2022/8/17,Monotherapy,Once a month,178,47
+1668,2022/9/12,Pharmacotherapy,Once a month,275,159
+1669,2022/10/1,Physiotherapy,Once in 3 months,299,77
+1670,2022/3/26,Monotherapy,Once a month,92,180
+1671,2022/8/13,Oxygen therapy,Once a month,188,101
+1672,2022/1/1,Oxygen therapy,Once a month,11,42
+1673,2022/2/6,Aromatherapy,Once a month,23,139
+1674,2022/5/2,Pharmacotherapy,Twice a month,105,61
+1675,2022/3/17,Monotherapy,Once a month,141,207
+1676,2022/6/19,Cyrotherapy,Once a month,63,226
+1677,2022/3/3,Monotherapy,Once a month,266,73
+1678,2022/5/24,Monotherapy,Once a month,97,194
+1679,2022/11/1,Cyrotherapy,Once a month,261,274
+1680,2022/4/11,Monotherapy,Once a month,188,101
+1681,2022/1/20,Immunotherapy,Once in 3 months,177,220
+1682,2022/8/21,Oxygen therapy,Once a month,223,131
+1683,2022/10/15,Gene therapy,Twice a month,29,179
+1684,2022/1/15,Gene therapy,Once a month,147,104
+1685,2022/4/17,Pharmacotherapy,Once a month,134,244
+1686,2022/10/3,Gene therapy,Once a month,70,152
+1687,2022/8/16,Gene therapy,Once a month,96,246
+1688,2022/10/22,Phototherapy,Once a month,229,291
+1689,2022/11/8,Phototherapy,Twice a month,160,53
+1690,2022/7/11,Aromatherapy,Once in 3 months,92,180
+1691,2022/4/6,Radiotherapy,Once a month,270,55
+1692,2022/9/22,Aromatherapy,Twice a month,15,65
+1693,2022/4/7,Monotherapy,Once a month,34,59
+1694,2022/5/3,Aromatherapy,Once a month,147,104
+1695,2022/1/19,Aromatherapy,Once a month,166,28
+1696,2022/4/2,Immunotherapy,Twice a week,67,238
+1697,2022/3/14,Gene therapy,Twice a week,270,55
+1698,2022/6/4,Pharmacotherapy,Once a month,262,170
+1699,2022/10/23,Pharmacotherapy,Once a month,140,74
+1700,2022/5/25,Monotherapy,Twice a month,284,98
+1701,2022/9/27,Radiotherapy,Once a week,90,63
+1702,2022/6/5,Physiotherapy,Once a month,172,208
+1703,2022/4/27,Pharmacotherapy,Once a month,232,80
+1704,2022/4/13,Physiotherapy,Once a month,11,42
+1705,2022/1/9,Pharmacotherapy,Once a month,205,237
+1706,2022/5/21,Aromatherapy,Twice a week,56,219
+1707,2022/9/7,Physiotherapy,Once in 3 months,62,94
+1708,2022/5/17,Oxygen therapy,Once a week,184,222
+1709,2022/5/21,Immunotherapy,Once a week,256,157
+1710,2022/7/10,Radiotherapy,Once a month,86,162
+1711,2022/4/20,Aromatherapy,Twice a week,29,179
+1712,2022/6/18,Monotherapy,Twice a week,288,99
+1713,2022/6/25,Phototherapy,Twice a week,63,226
+1714,2022/9/18,Physiotherapy,Once a month,281,192
+1715,2022/5/19,Cyrotherapy,Once a month,17,203
+1716,2022/7/13,Physiotherapy,Once in 3 months,60,48
+1717,2022/8/1,Pharmacotherapy,Twice a week,55,35
+1718,2022/2/5,Immunotherapy,Once a month,210,54
+1719,2022/10/15,Physiotherapy,Once a month,253,278
+1720,2022/3/2,Pharmacotherapy,Once a week,250,132
+1721,2022/8/27,Oxygen therapy,Once a month,109,145
+1722,2022/5/9,Gene therapy,Once in 3 months,43,32
+1723,2022/2/12,Aromatherapy,Once in 3 months,105,61
+1724,2022/6/20,Pharmacotherapy,Twice a week,88,183
+1725,2022/10/11,Monotherapy,Once a month,21,211
+1726,2022/7/23,Oxygen therapy,Twice a month,134,244
+1727,2022/3/24,Radiotherapy,Once a month,168,111
+1728,2022/7/1,Oxygen therapy,Once a month,102,213
+1729,2022/2/18,Pharmacotherapy,Twice a week,274,262
+1730,2022/7/7,Radiotherapy,Once a month,103,148
+1731,2022/8/13,Phototherapy,Twice a week,245,62
+1732,2022/5/22,Physiotherapy,Once a week,252,83
+1733,2022/7/3,Phototherapy,Once a month,261,274
+1734,2022/3/19,Physiotherapy,Once a month,216,16
+1735,2022/3/13,Cyrotherapy,Once a month,180,105
+1736,2022/9/12,Physiotherapy,Once a month,118,153
+1737,2022/8/11,Cyrotherapy,Once a month,273,288
+1738,2022/11/1,Oxygen therapy,Twice a week,15,65
+1739,2022/4/17,Radiotherapy,Once a week,142,38
+1740,2022/1/8,Pharmacotherapy,Once a month,262,170
+1741,2022/3/25,Physiotherapy,Once a month,167,64
+1742,2022/9/23,Aromatherapy,Once a month,266,73
+1743,2022/3/11,Radiotherapy,Once a month,262,170
+1744,2022/3/8,Cyrotherapy,Twice a month,191,67
+1745,2022/4/26,Pharmacotherapy,Once a month,90,63
+1746,2022/4/18,Aromatherapy,Once in 3 months,102,213
+1747,2022/4/12,Phototherapy,Once a month,137,243
+1748,2022/11/6,Cyrotherapy,Once a month,130,197
+1749,2022/4/8,Phototherapy,Once in 3 months,91,252
+1750,2022/6/14,Gene therapy,Twice a week,147,104
+1751,2022/8/1,Aromatherapy,Once a month,101,205
+1752,2022/11/14,Immunotherapy,Once a week,52,255
+1753,2022/7/4,Pharmacotherapy,Once a month,123,20
+1754,2022/3/8,Physiotherapy,Twice a month,49,110
+1755,2022/10/15,Physiotherapy,Once a week,41,296
+1756,2022/8/26,Aromatherapy,Twice a week,256,157
+1757,2022/1/23,Gene therapy,Twice a week,149,29
+1758,2022/6/5,Phototherapy,Once a month,222,113
+1759,2022/8/24,Physiotherapy,Once in 3 months,131,267
+1760,2022/2/5,Pharmacotherapy,Once a month,216,16
+1761,2022/8/13,Oxygen therapy,Twice a week,196,155
+1762,2022/8/19,Pharmacotherapy,Once a month,172,208
+1763,2022/10/4,Monotherapy,Once a week,206,44
+1764,2022/2/3,Monotherapy,Once a month,33,79
+1765,2022/8/9,Physiotherapy,Once a month,86,162
+1766,2022/10/20,Physiotherapy,Twice a month,219,269
+1767,2022/6/11,Aromatherapy,Once a month,45,294
+1768,2022/3/6,Aromatherapy,Once a month,218,134
+1769,2022/6/26,Aromatherapy,Once in 3 months,102,213
+1770,2022/3/14,Pharmacotherapy,Once a month,148,242
+1771,2022/10/10,Pharmacotherapy,Twice a week,22,23
+1772,2022/5/6,Pharmacotherapy,Twice a month,277,232
+1773,2022/9/4,Immunotherapy,Once a week,253,278
+1774,2022/11/5,Phototherapy,Once a month,159,17
+1775,2022/3/24,Pharmacotherapy,Once a month,191,67
+1776,2022/7/26,Phototherapy,Once a month,253,278
+1777,2022/6/6,Radiotherapy,Once a month,284,98
+1778,2022/5/5,Aromatherapy,Once a month,118,153
+1779,2022/11/9,Oxygen therapy,Once a month,61,173
+1780,2022/7/19,Phototherapy,Once a month,116,96
+1781,2022/7/5,Monotherapy,Twice a month,191,67
+1782,2022/4/14,Immunotherapy,Once a month,283,27
+1783,2022/6/13,Phototherapy,Once in 3 months,97,194
+1784,2022/6/14,Oxygen therapy,Twice a week,87,249
+1785,2022/2/27,Immunotherapy,Twice a week,155,239
+1786,2022/4/14,Aromatherapy,Once a week,220,142
+1787,2022/9/24,Phototherapy,Once a month,255,285
+1788,2022/8/21,Physiotherapy,Once a month,232,80
+1789,2022/3/2,Monotherapy,Once a month,219,269
+1790,2022/8/11,Immunotherapy,Once a month,172,208
+1791,2022/9/10,Gene therapy,Twice a month,214,22
+1792,2022/4/20,Gene therapy,Once a week,275,159
+1793,2022/2/9,Monotherapy,Once a month,233,279
+1794,2022/3/13,Immunotherapy,Once in 3 months,176,202
+1795,2022/6/25,Phototherapy,Once a week,211,254
+1796,2022/7/22,Monotherapy,Once a month,139,185
+1797,2022/9/18,Gene therapy,Twice a week,111,196
+1798,2022/1/2,Cyrotherapy,Twice a month,234,140
+1799,2022/1/11,Phototherapy,Once in 3 months,268,182
+1800,2022/2/5,Cyrotherapy,Twice a week,246,95
+1801,2022/1/10,Radiotherapy,Once a month,121,215
+1802,2022/9/25,Aromatherapy,Once a month,125,250
+1803,2022/3/9,Pharmacotherapy,Once a month,188,101
+1804,2022/6/19,Immunotherapy,Once a month,285,50
+1805,2022/3/15,Oxygen therapy,Once a month,87,249
+1806,2022/9/16,Immunotherapy,Once a month,107,271
+1807,2022/6/12,Aromatherapy,Once a month,64,216
+1808,2022/1/6,Physiotherapy,Once a month,107,271
+1809,2022/8/14,Monotherapy,Once a month,70,152
+1810,2022/11/8,Immunotherapy,Once a month,113,265
+1811,2022/8/21,Aromatherapy,Once a month,40,165
+1812,2022/8/15,Oxygen therapy,Once a month,227,123
+1813,2022/2/20,Pharmacotherapy,Twice a month,60,48
+1814,2022/7/11,Radiotherapy,Once a month,197,167
+1815,2022/2/2,Gene therapy,Twice a month,285,50
+1816,2022/4/3,Pharmacotherapy,Once a month,241,209
+1817,2022/3/22,Gene therapy,Twice a month,223,131
+1818,2022/11/17,Gene therapy,Once a month,113,265
+1819,2022/6/17,Immunotherapy,Once a month,189,210
+1820,2022/10/1,Radiotherapy,Once a month,292,273
+1821,2022/1/11,Phototherapy,Once a month,49,110
+1822,2022/6/7,Aromatherapy,Once a month,262,170
+1823,2022/9/3,Oxygen therapy,Once a week,294,217
+1824,2022/3/21,Radiotherapy,Once a month,282,36
+1825,2022/9/8,Gene therapy,Once in 3 months,30,76
+1826,2022/4/24,Monotherapy,Twice a week,134,244
+1827,2022/4/17,Oxygen therapy,Once a week,56,219
+1828,2022/9/26,Cyrotherapy,Once a month,46,204
+1829,2022/6/18,Aromatherapy,Once a month,209,108
+1830,2022/3/24,Cyrotherapy,Once a month,32,130
+1831,2022/8/15,Immunotherapy,Once a month,280,19
+1832,2022/11/10,Immunotherapy,Twice a week,229,291
+1833,2022/10/11,Physiotherapy,Once a month,25,14
+1834,2022/10/5,Gene therapy,Once a week,139,185
+1835,2022/6/12,Pharmacotherapy,Once in 3 months,297,109
+1836,2022/4/12,Aromatherapy,Once a month,70,152
+1837,2022/7/23,Immunotherapy,Once a month,241,209
+1838,2022/2/21,Aromatherapy,Once a month,172,208
+1839,2022/8/8,Gene therapy,Once a month,114,138
+1840,2022/9/1,Immunotherapy,Once a month,46,204
+1841,2022/2/21,Immunotherapy,Once a month,175,115
+1842,2022/11/23,Cyrotherapy,Twice a week,94,233
+1843,2022/6/19,Phototherapy,Once a month,81,212
+1844,2022/5/12,Monotherapy,Once a month,275,159
+1845,2022/1/1,Pharmacotherapy,Twice a week,148,242
+1846,2022/7/5,Aromatherapy,Once a month,30,76
+1847,2022/1/5,Radiotherapy,Twice a month,190,149
+1848,2022/10/19,Aromatherapy,Once a month,181,221
+1849,2022/5/2,Monotherapy,Once a month,18,70
+1850,2022/11/2,Oxygen therapy,Once a month,58,268
+1851,2022/6/12,Radiotherapy,Twice a month,256,157
+1852,2022/2/11,Cyrotherapy,Once a month,192,258
+1853,2022/6/8,Monotherapy,Once a month,54,284
+1854,2022/7/6,Immunotherapy,Once a month,101,205
+1855,2022/4/15,Pharmacotherapy,Twice a month,133,281
+1856,2022/2/16,Aromatherapy,Once a month,215,231
+1857,2022/5/13,Cyrotherapy,Once a month,239,225
+1858,2022/1/15,Gene therapy,Once a month,222,113
+1859,2022/5/10,Immunotherapy,Once in 3 months,235,12
+1860,2022/4/12,Pharmacotherapy,Once a month,259,85
+1861,2022/11/18,Physiotherapy,Once a month,69,199
+1862,2022/2/25,Physiotherapy,Once a month,54,284
+1863,2022/4/15,Monotherapy,Once a month,276,129
+1864,2022/9/7,Cyrotherapy,Twice a month,150,21
+1865,2022/10/23,Pharmacotherapy,Once a month,110,100
+1866,2022/9/18,Physiotherapy,Once a month,131,267
+1867,2022/6/1,Physiotherapy,Once a month,103,148
+1868,2022/11/13,Phototherapy,Once a month,271,168
+1869,2022/9/22,Pharmacotherapy,Once in 3 months,258,247
+1870,2022/10/3,Cyrotherapy,Twice a week,199,172
+1871,2022/7/14,Radiotherapy,Once in 3 months,246,95
+1872,2022/10/24,Oxygen therapy,Twice a month,287,103
+1873,2022/9/26,Oxygen therapy,Once a month,68,89
+1874,2022/2/8,Gene therapy,Once a month,204,141
+1875,2022/1/15,Aromatherapy,Twice a week,185,49
+1876,2022/2/26,Cyrotherapy,Once a week,242,97
+1877,2022/4/16,Immunotherapy,Once a month,63,226
+1878,2022/10/1,Immunotherapy,Once a month,21,211
+1879,2022/4/20,Monotherapy,Once a month,13,260
+1880,2022/8/21,Aromatherapy,Once a month,41,296
+1881,2022/3/2,Physiotherapy,Once a month,134,244
+1882,2022/8/18,Phototherapy,Once in 3 months,284,98
+1883,2022/7/12,Pharmacotherapy,Twice a week,91,252
+1884,2022/3/16,Aromatherapy,Once a month,32,130
+1885,2022/11/2,Radiotherapy,Twice a week,263,261
+1886,2022/2/25,Physiotherapy,Once in 3 months,14,58
+1887,2022/7/10,Radiotherapy,Once a month,295,218
+1888,2022/3/20,Physiotherapy,Once a month,92,180
+1889,2022/8/17,Radiotherapy,Once in 3 months,12,71
+1890,2022/6/27,Gene therapy,Once in 3 months,61,173
+1891,2022/11/22,Cyrotherapy,Twice a month,206,44
+1892,2022/8/7,Oxygen therapy,Once a month,69,199
+1893,2022/2/5,Monotherapy,Once a month,197,167
+1894,2022/3/17,Pharmacotherapy,Once a month,91,252
+1895,2022/6/26,Immunotherapy,Twice a week,193,174
+1896,2022/3/24,Gene therapy,Once a month,169,186
+1897,2022/3/26,Pharmacotherapy,Once a week,105,61
+1898,2022/10/12,Radiotherapy,Once a month,248,297
+1899,2022/7/13,Oxygen therapy,Twice a week,13,260
+1900,2022/3/5,Immunotherapy,Once a month,139,185
+1901,2022/7/11,Aromatherapy,Once in 3 months,60,48
+1902,2022/10/4,Radiotherapy,Once a month,94,233
+1903,2022/11/10,Physiotherapy,Twice a week,297,109
+1904,2022/11/13,Monotherapy,Once a week,101,205
+1905,2022/4/22,Aromatherapy,Once a week,209,108
+1906,2022/1/15,Phototherapy,Once a month,176,202
+1907,2022/2/14,Oxygen therapy,Once a week,271,168
+1908,2022/9/13,Monotherapy,Once a month,203,266
+1909,2022/5/20,Radiotherapy,Once a month,271,168
+1910,2022/6/10,Radiotherapy,Once in 3 months,273,288
+1911,2022/7/23,Cyrotherapy,Once a week,160,53
+1912,2022/10/23,Cyrotherapy,Once a month,167,64
+1913,2022/11/17,Immunotherapy,Once a month,180,105
+1914,2022/7/22,Immunotherapy,Once a month,14,58
+1915,2022/7/3,Pharmacotherapy,Twice a month,95,128
+1916,2022/11/17,Pharmacotherapy,Once a month,46,204
+1917,2022/6/7,Pharmacotherapy,Once a month,97,194
+1918,2022/11/18,Aromatherapy,Once a month,291,214
+1919,2022/1/12,Physiotherapy,Once in 3 months,264,229
+1920,2022/2/5,Immunotherapy,Once a month,14,58
+1921,2022/4/5,Physiotherapy,Once a month,212,15
+1922,2022/11/20,Immunotherapy,Once a month,164,259
+1923,2022/10/17,Gene therapy,Once a month,153,25
+1924,2022/6/24,Pharmacotherapy,Once a month,110,100
+1925,2022/9/27,Monotherapy,Once in 3 months,171,298
+1926,2022/4/25,Monotherapy,Once a week,123,20
+1927,2022/3/14,Cyrotherapy,Once a month,77,176
+1928,2022/5/9,Aromatherapy,Once a month,60,48
+1929,2022/3/1,Oxygen therapy,Once a month,233,279
+1930,2022/7/8,Oxygen therapy,Once a month,107,271
+1931,2022/4/6,Radiotherapy,Once a month,66,18
+1932,2022/8/23,Radiotherapy,Once a week,19,181
+1933,2022/7/7,Phototherapy,Once in 3 months,41,296
+1934,2022/10/3,Pharmacotherapy,Once a month,77,176
+1935,2022/10/15,Cyrotherapy,Once in 3 months,47,112
+1936,2022/9/5,Phototherapy,Once a month,45,294
+1937,2022/9/23,Radiotherapy,Once a week,288,99
+1938,2022/3/19,Pharmacotherapy,Once a month,91,252
+1939,2022/4/12,Phototherapy,Twice a month,151,72
+1940,2022/10/4,Oxygen therapy,Once a month,255,285
+1941,2022/6/10,Gene therapy,Once a month,204,141
+1942,2022/10/1,Cyrotherapy,Once a month,130,197
+1943,2022/4/10,Gene therapy,Twice a week,64,216
+1944,2022/7/11,Monotherapy,Once in 3 months,239,225
+1945,2022/9/21,Aromatherapy,Once a month,228,90
+1946,2022/9/16,Monotherapy,Once a month,290,13
+1947,2022/4/24,Pharmacotherapy,Once a week,157,251
+1948,2022/10/19,Cyrotherapy,Twice a month,112,289
+1949,2022/11/21,Immunotherapy,Twice a month,175,115
+1950,2022/1/1,Pharmacotherapy,Once a month,273,288
+1951,2022/3/22,Pharmacotherapy,Once a month,140,74
+1952,2022/11/15,Physiotherapy,Once a month,200,201
+1953,2022/6/8,Radiotherapy,Once a month,214,22
+1954,2022/9/19,Oxygen therapy,Once a week,297,109
+1955,2022/8/12,Pharmacotherapy,Twice a month,71,30
+1956,2022/11/22,Aromatherapy,Once a month,214,22
+1957,2022/2/26,Immunotherapy,Once a month,196,155
+1958,2022/5/12,Monotherapy,Once a month,210,54
+1959,2022/7/25,Monotherapy,Once a week,118,153
+1960,2022/3/3,Oxygen therapy,Twice a week,292,273
+1961,2022/1/1,Pharmacotherapy,Twice a week,215,231
+1962,2022/6/16,Oxygen therapy,Once a month,292,273
+1963,2022/1/6,Radiotherapy,Once a month,40,165
+1964,2022/11/24,Monotherapy,Once a month,38,171
+1965,2022/7/12,Monotherapy,Once a month,262,170
+1966,2022/3/3,Monotherapy,Once a month,134,244
+1967,2022/3/2,Gene therapy,Once a month,89,92
+1968,2022/3/10,Pharmacotherapy,Once a month,257,160
+1969,2022/4/4,Oxygen therapy,Once a month,17,203
+1970,2022/7/8,Oxygen therapy,Once a month,266,73
+1971,2022/5/19,Cyrotherapy,Once in 3 months,257,160
+1972,2022/5/6,Pharmacotherapy,Once in 3 months,231,150
+1973,2022/10/1,Radiotherapy,Once a month,60,48
+1974,2022/7/11,Radiotherapy,Twice a week,299,77
+1975,2022/1/27,Oxygen therapy,Once a month,185,49
+1976,2022/4/18,Gene therapy,Once a month,187,277
+1977,2022/4/2,Cyrotherapy,Twice a week,265,45
+1978,2022/6/18,Phototherapy,Twice a week,286,158
+1979,2022/5/23,Gene therapy,Once a month,227,123
+1980,2022/6/13,Radiotherapy,Once a month,106,57
+1981,2022/5/24,Monotherapy,Once a month,256,157
+1982,2022/9/13,Cyrotherapy,Twice a week,154,39
+1983,2022/8/24,Phototherapy,Once in 3 months,294,217
+1984,2022/10/19,Physiotherapy,Twice a month,243,146
+1985,2022/2/2,Phototherapy,Once a month,239,225
+1986,2022/4/23,Radiotherapy,Once a month,217,187
+1987,2022/8/6,Monotherapy,Twice a month,214,22
+1988,2022/7/24,Gene therapy,Once a month,225,117
+1989,2022/10/27,Aromatherapy,Once a month,127,248
+1990,2022/8/3,Cyrotherapy,Once a month,250,132
+1991,2022/3/23,Cyrotherapy,Once a month,92,180
+1992,2022/2/3,Aromatherapy,Twice a month,136,37
+1993,2022/5/1,Physiotherapy,Once a month,193,174
+1994,2022/5/18,Physiotherapy,Twice a month,53,224
+1995,2022/10/26,Pharmacotherapy,Once a month,122,107
+1996,2022/2/17,Oxygen therapy,Once a month,224,282
+1997,2022/3/7,Oxygen therapy,Once a week,185,49
+1998,2022/1/25,Oxygen therapy,Twice a month,146,46
+1999,2022/8/25,Aromatherapy,Once a week,12,71
+2000,2022/10/7,Oxygen therapy,Once in 3 months,263,261
+2001,2022/11/3,Cyrotherapy,Once a month,86,162
+2002,2022/3/17,Cyrotherapy,Twice a week,161,188
+2003,2022/5/20,Physiotherapy,Twice a month,35,198
+2004,2022/5/15,Immunotherapy,Once in 3 months,269,68
+2005,2022/5/2,Physiotherapy,Once in 3 months,191,67
+2006,2022/3/25,Phototherapy,Once a month,43,32
+2007,2022/11/16,Immunotherapy,Once a month,278,164
+2008,2022/11/12,Gene therapy,Once a month,182,256
+2009,2022/2/25,Radiotherapy,Twice a week,205,237
+2010,2022/4/3,Immunotherapy,Once a month,163,299
+2011,2022/6/6,Gene therapy,Once a month,273,288
+2012,2022/4/24,Oxygen therapy,Once a month,282,36
+2013,2022/9/10,Aromatherapy,Once in 3 months,293,234
+2014,2022/5/21,Immunotherapy,Once a month,190,149
+2015,2022/8/1,Cyrotherapy,Once a month,267,135
+2016,2022/6/19,Immunotherapy,Twice a month,211,254
+2017,2022/10/7,Physiotherapy,Once a month,164,259
+2018,2022/4/17,Cyrotherapy,Twice a week,56,219
+2019,2022/6/9,Physiotherapy,Twice a month,152,189
+2020,2022/5/6,Pharmacotherapy,Once a month,156,41
+2021,2022/7/3,Cyrotherapy,Once a month,172,208
+2022,2022/7/2,Cyrotherapy,Once a month,69,199
+2023,2022/9/19,Monotherapy,Once a month,29,179
+2024,2022/6/11,Pharmacotherapy,Once a month,120,137
+2025,2022/2/13,Oxygen therapy,Once a month,15,65
+2026,2022/8/25,Immunotherapy,Twice a week,219,269
+2027,2022/11/20,Oxygen therapy,Once a month,210,54
+2028,2022/9/27,Cyrotherapy,Once a month,184,222
+2029,2022/6/25,Phototherapy,Once a week,263,261
+2030,2022/6/22,Physiotherapy,Once a week,256,157
+2031,2022/3/7,Oxygen therapy,Twice a month,56,219
+2032,2022/6/4,Radiotherapy,Once a month,291,214
+2033,2022/8/22,Oxygen therapy,Once a month,214,22
+2034,2022/9/2,Physiotherapy,Once a month,155,239
+2035,2022/2/7,Immunotherapy,Once a month,230,26
+2036,2022/4/9,Radiotherapy,Once a month,144,177
+2037,2022/4/25,Physiotherapy,Once a month,104,87
+2038,2022/8/7,Physiotherapy,Twice a week,226,290
+2039,2022/1/25,Aromatherapy,Once a month,245,62
+2040,2022/10/8,Cyrotherapy,Once a month,92,180
+2041,2022/5/14,Aromatherapy,Once a month,67,238
+2042,2022/8/4,Physiotherapy,Once a month,54,284
+2043,2022/6/23,Phototherapy,Once a month,283,27
+2044,2022/9/2,Radiotherapy,Once a month,224,282
+2045,2022/10/4,Radiotherapy,Once a month,85,235
+2046,2022/10/15,Phototherapy,Once a month,265,45
+2047,2022/11/26,Pharmacotherapy,Once a month,112,289
+2048,2022/4/6,Monotherapy,Once a month,31,75
+2049,2022/1/4,Gene therapy,Once a month,106,57
+2050,2022/6/2,Oxygen therapy,Once a week,86,162
+2051,2022/9/26,Immunotherapy,Once in 3 months,43,32
+2052,2022/7/3,Monotherapy,Once a month,202,52
+2053,2022/5/16,Physiotherapy,Once in 3 months,198,116
+2054,2022/11/9,Oxygen therapy,Once a month,294,217
+2055,2022/7/27,Physiotherapy,Twice a month,175,115
+2056,2022/10/20,Monotherapy,Once a month,147,104
+2057,2022/7/7,Phototherapy,Twice a month,208,40
+2058,2022/4/9,Aromatherapy,Once a week,99,147
+2059,2022/8/22,Aromatherapy,Twice a week,257,160
+2060,2022/7/22,Aromatherapy,Once in 3 months,231,150
+2061,2022/10/15,Physiotherapy,Once in 3 months,71,30
+2062,2022/10/9,Physiotherapy,Once a month,66,18
+2063,2022/3/13,Immunotherapy,Twice a month,24,286
+2064,2022/4/7,Physiotherapy,Once a month,181,221
+2065,2022/4/15,Cyrotherapy,Once a week,171,298
+2066,2022/7/26,Aromatherapy,Once a month,239,225
+2067,2022/7/26,Aromatherapy,Once a month,144,177
+2068,2022/9/2,Oxygen therapy,Twice a month,206,44
+2069,2022/10/9,Phototherapy,Once in 3 months,32,130
+2070,2022/4/25,Immunotherapy,Once in 3 months,253,278
+2071,2022/10/6,Radiotherapy,Twice a week,111,196
+2072,2022/2/15,Cyrotherapy,Twice a month,114,138
+2073,2022/9/17,Phototherapy,Once a month,31,75
+2074,2022/10/14,Cyrotherapy,Once a month,115,178
+2075,2022/4/20,Cyrotherapy,Once a month,272,275
+2076,2022/7/25,Oxygen therapy,Once in 3 months,266,73
+2077,2022/4/4,Oxygen therapy,Once a week,158,81
+2078,2022/4/16,Cyrotherapy,Once a month,11,42
+2079,2022/3/11,Gene therapy,Twice a week,268,182
+2080,2022/7/18,Immunotherapy,Once a week,198,116
+2081,2022/4/4,Immunotherapy,Once a month,237,283
+2082,2022/9/21,Physiotherapy,Twice a week,199,172
+2083,2022/6/1,Phototherapy,Once a month,239,225
+2084,2022/6/8,Immunotherapy,Once a month,165,119
+2085,2022/9/25,Gene therapy,Twice a month,268,182
+2086,2022/2/25,Phototherapy,Once a week,131,267
+2087,2022/11/13,Cyrotherapy,Once in 3 months,186,34
+2088,2022/9/13,Phototherapy,Twice a month,177,220
+2089,2022/2/2,Immunotherapy,Once a month,244,161
+2090,2022/7/25,Immunotherapy,Once a month,137,243
+2091,2022/3/10,Aromatherapy,Twice a week,299,77
+2092,2022/3/7,Phototherapy,Once in 3 months,297,109
+2093,2022/1/24,Radiotherapy,Once a month,132,240
+2094,2022/3/16,Immunotherapy,Once a month,134,244
+2095,2022/1/7,Phototherapy,Once in 3 months,287,103
+2096,2022/10/27,Gene therapy,Once a month,238,118
+2097,2022/5/18,Pharmacotherapy,Twice a month,151,72
+2098,2022/11/19,Gene therapy,Once a month,19,181
+2099,2022/11/20,Immunotherapy,Twice a month,26,228
+2100,2022/6/25,Phototherapy,Once a month,109,145
+2101,2022/10/12,Phototherapy,Once a month,249,124
+2102,2022/10/26,Oxygen therapy,Twice a month,136,37
+2103,2022/4/27,Radiotherapy,Once a week,168,111
+2104,2022/11/15,Phototherapy,Once a month,122,107
+2105,2022/2/12,Physiotherapy,Once in 3 months,179,191
+2106,2022/8/26,Cyrotherapy,Once a month,152,189
+2107,2022/7/9,Radiotherapy,Twice a week,252,83
+2108,2022/9/26,Cyrotherapy,Once a month,233,279
+2109,2022/10/8,Oxygen therapy,Once in 3 months,40,165
+2110,2022/6/13,Phototherapy,Once a month,163,299
+2111,2022/7/13,Oxygen therapy,Once a month,140,74
+2112,2022/5/15,Immunotherapy,Once a month,63,226
+2113,2022/4/4,Cyrotherapy,Once a month,133,281
+2114,2022/6/3,Monotherapy,Twice a week,205,237
+2115,2022/3/24,Aromatherapy,Once a month,210,54
+2116,2022/8/19,Monotherapy,Once a month,136,37
+2117,2022/7/2,Immunotherapy,Once a month,254,56
+2118,2022/5/16,Cyrotherapy,Twice a week,241,209
+2119,2022/1/24,Cyrotherapy,Once a month,292,273
+2120,2022/7/2,Cyrotherapy,Once a month,269,68
+2121,2022/9/5,Physiotherapy,Once in 3 months,61,173
+2122,2022/8/22,Immunotherapy,Twice a week,20,91
+2123,2022/11/17,Oxygen therapy,Once a month,147,104
+2124,2022/2/5,Physiotherapy,Once a month,280,19
+2125,2022/4/11,Pharmacotherapy,Twice a week,12,71
+2126,2022/6/8,Monotherapy,Once in 3 months,292,273
+2127,2022/5/22,Aromatherapy,Once a month,257,160
+2128,2022/1/23,Radiotherapy,Once a week,294,217
+2129,2022/2/27,Aromatherapy,Once a month,66,18
+2130,2022/7/12,Phototherapy,Twice a week,37,51
+2131,2022/2/8,Phototherapy,Once a month,133,281
+2132,2022/1/23,Radiotherapy,Once a month,40,165
+2133,2022/6/23,Gene therapy,Twice a month,159,17
+2134,2022/2/16,Gene therapy,Once a month,265,45
+2135,2022/6/25,Physiotherapy,Twice a month,203,266
+2136,2022/11/21,Radiotherapy,Once in 3 months,248,297
+2137,2022/9/25,Radiotherapy,Once a month,45,294
+2138,2022/6/2,Cyrotherapy,Once a month,46,204
+2139,2022/4/4,Radiotherapy,Once a month,195,102
+2140,2022/10/2,Monotherapy,Twice a week,17,203
+2141,2022/1/19,Phototherapy,Once a month,120,137
+2142,2022/1/18,Cyrotherapy,Once a month,292,273
+2143,2022/3/5,Monotherapy,Once in 3 months,71,30
+2144,2022/6/22,Oxygen therapy,Once a month,264,229
+2145,2022/4/5,Aromatherapy,Once a month,115,178
+2146,2022/5/10,Gene therapy,Once a month,54,284
+2147,2022/5/15,Physiotherapy,Once a month,163,299
+2148,2022/8/6,Oxygen therapy,Twice a month,258,247
+2149,2022/9/14,Pharmacotherapy,Twice a month,176,202
+2150,2022/3/7,Physiotherapy,Twice a month,277,232
+2151,2022/2/9,Phototherapy,Once a month,192,258
+2152,2022/11/13,Oxygen therapy,Once a week,141,207
+2153,2022/1/1,Radiotherapy,Once a month,54,284
+2154,2022/5/9,Monotherapy,Once a month,266,73
+2155,2022/7/15,Physiotherapy,Once a month,39,230
+2156,2022/3/9,Radiotherapy,Once a month,127,248
+2157,2022/11/24,Cyrotherapy,Once a month,70,152
+2158,2022/6/26,Phototherapy,Once a month,240,69
+2159,2022/10/13,Cyrotherapy,Once a month,125,250
+2160,2022/1/27,Radiotherapy,Once in 3 months,151,72
+2161,2022/7/5,Physiotherapy,Once a month,245,62
+2162,2022/10/17,Radiotherapy,Once a month,136,37
+2163,2022/6/17,Aromatherapy,Once a month,140,74
+2164,2022/1/13,Radiotherapy,Once a week,209,108
+2165,2022/2/26,Radiotherapy,Twice a week,59,120
+2166,2022/10/21,Cyrotherapy,Once a month,243,146
+2167,2022/5/15,Gene therapy,Twice a week,145,276
+2168,2022/10/22,Immunotherapy,Once in 3 months,147,104
+2169,2022/4/1,Cyrotherapy,Once a month,261,274
+2170,2022/2/10,Pharmacotherapy,Once a week,63,226
+2171,2022/1/6,Radiotherapy,Once in 3 months,98,280
+2172,2022/10/27,Cyrotherapy,Once a month,262,170
+2173,2022/9/8,Aromatherapy,Once a month,285,50
+2174,2022/2/5,Cyrotherapy,Once a month,242,97
+2175,2022/6/4,Cyrotherapy,Once a month,237,283
+2176,2022/1/25,Immunotherapy,Once a week,157,251
+2177,2022/3/25,Gene therapy,Once a month,191,67
+2178,2022/7/17,Physiotherapy,Once a month,267,135
+2179,2022/10/26,Aromatherapy,Once a month,39,230
+2180,2022/4/15,Radiotherapy,Once a month,23,139
+2181,2022/8/20,Physiotherapy,Twice a week,168,111
+2182,2022/5/1,Phototherapy,Once a month,124,295
+2183,2022/5/9,Immunotherapy,Twice a month,78,175
+2184,2022/6/17,Phototherapy,Once a month,48,200
+2185,2022/4/10,Aromatherapy,Once a month,293,234
+2186,2022/5/16,Gene therapy,Once in 3 months,202,52
+2187,2022/1/12,Gene therapy,Once a month,112,289
+2188,2022/5/9,Phototherapy,Once a month,17,203
+2189,2022/4/25,Immunotherapy,Once a month,33,79
+2190,2022/10/3,Radiotherapy,Once a month,192,258
+2191,2022/8/24,Oxygen therapy,Twice a month,193,174
+2192,2022/1/27,Immunotherapy,Once in 3 months,232,80
+2193,2022/1/22,Oxygen therapy,Once a month,162,84
+2194,2022/8/13,Oxygen therapy,Once a month,37,51
+2195,2022/11/6,Aromatherapy,Once a month,44,143
+2196,2022/8/19,Radiotherapy,Once a month,55,35
+2197,2022/7/23,Oxygen therapy,Twice a week,93,253
+2198,2022/5/22,Pharmacotherapy,Once a month,127,248
+2199,2022/1/7,Phototherapy,Once a month,246,95
+2200,2022/6/8,Phototherapy,Twice a month,111,196
+2201,2022/1/25,Aromatherapy,Twice a week,247,151
+2202,2022/9/23,Oxygen therapy,Once a month,18,70
+2203,2022/4/7,Physiotherapy,Once a month,93,253
+2204,2022/11/2,Pharmacotherapy,Once in 3 months,202,52
+2205,2022/4/24,Cyrotherapy,Once a month,172,208
+2206,2022/1/9,Oxygen therapy,Once a month,85,235
+2207,2022/11/19,Aromatherapy,Twice a week,172,208
+2208,2022/9/15,Phototherapy,Once a month,204,141
+2209,2022/4/22,Cyrotherapy,Once a month,227,123
+2210,2022/9/22,Gene therapy,Once a month,72,24
+2211,2022/9/3,Phototherapy,Once a month,269,68
+2212,2022/1/21,Cyrotherapy,Once a week,92,180
+2213,2022/1/24,Pharmacotherapy,Once a month,172,208
+2214,2022/2/23,Pharmacotherapy,Once a month,144,177
+2215,2022/5/7,Phototherapy,Once a month,13,260
+2216,2022/9/17,Physiotherapy,Once a month,88,183
+2217,2022/1/24,Immunotherapy,Once a month,106,57
+2218,2022/8/22,Pharmacotherapy,Twice a week,238,118
+2219,2022/10/22,Pharmacotherapy,Once a month,253,278
+2220,2022/2/4,Immunotherapy,Once a month,22,23
+2221,2022/8/13,Gene therapy,Twice a month,80,60
+2222,2022/8/9,Pharmacotherapy,Once a month,257,160
+2223,2022/11/13,Immunotherapy,Once a month,262,170
+2224,2022/10/14,Gene therapy,Twice a week,104,87
+2225,2022/9/8,Pharmacotherapy,Twice a month,234,140
+2226,2022/10/14,Immunotherapy,Twice a week,219,269
+2227,2022/6/17,Monotherapy,Once a month,192,258
+2228,2022/9/4,Pharmacotherapy,Once a month,234,140
+2229,2022/4/4,Aromatherapy,Once a month,80,60
+2230,2022/2/14,Gene therapy,Twice a month,112,289
+2231,2022/10/21,Cyrotherapy,Once a month,40,165
+2232,2022/1/26,Immunotherapy,Once a month,36,66
+2233,2022/10/19,Physiotherapy,Once a month,108,126
+2234,2022/2/8,Monotherapy,Twice a week,127,248
+2235,2022/3/23,Radiotherapy,Once a month,85,235
+2236,2022/2/22,Monotherapy,Once a month,101,205
+2237,2022/7/1,Phototherapy,Once a month,204,141
+2238,2022/2/11,Pharmacotherapy,Once a month,41,296
+2239,2022/10/22,Aromatherapy,Once a month,192,258
+2240,2022/7/16,Physiotherapy,Once a week,121,215
+2241,2022/8/23,Cyrotherapy,Once a month,27,270
+2242,2022/9/3,Phototherapy,Once a week,29,179
+2243,2022/9/22,Immunotherapy,Once a month,184,222
+2244,2022/8/17,Gene therapy,Twice a month,201,166
+2245,2022/6/7,Phototherapy,Once a week,197,167
+2246,2022/3/2,Physiotherapy,Once in 3 months,205,237
+2247,2022/1/24,Cyrotherapy,Twice a week,83,43
+2248,2022/1/17,Aromatherapy,Once a month,255,285
+2249,2022/9/27,Aromatherapy,Once a month,248,297
+2250,2022/7/25,Immunotherapy,Once a month,155,239
+2251,2022/4/3,Cyrotherapy,Once a month,274,262
+2252,2022/9/22,Physiotherapy,Twice a week,279,156
+2253,2022/3/12,Monotherapy,Once a month,57,127
+2254,2022/6/23,Monotherapy,Twice a week,163,299
+2255,2022/9/19,Physiotherapy,Once a month,277,232
+2256,2022/9/20,Immunotherapy,Once a month,269,68
+2257,2022/1/25,Oxygen therapy,Twice a month,260,93
+2258,2022/8/22,Monotherapy,Twice a month,203,266
+2259,2022/10/12,Oxygen therapy,Once a month,20,91
+2260,2022/8/20,Immunotherapy,Once a week,41,296
+2261,2022/4/15,Immunotherapy,Once a week,214,22
+2262,2022/1/7,Oxygen therapy,Twice a month,231,150
+2263,2022/3/5,Physiotherapy,Once a week,15,65
+2264,2022/1/19,Immunotherapy,Once a week,168,111
+2265,2022/10/21,Immunotherapy,Once a month,144,177
+2266,2022/3/13,Cyrotherapy,Once in 3 months,73,33
+2267,2022/1/17,Gene therapy,Once a month,45,294
+2268,2022/1/1,Physiotherapy,Once a month,284,98
+2269,2022/1/22,Aromatherapy,Twice a month,181,221
+2270,2022/11/21,Monotherapy,Once a month,224,282
+2271,2022/7/18,Immunotherapy,Twice a week,42,287
+2272,2022/6/6,Immunotherapy,Once a month,192,258
+2273,2022/6/10,Aromatherapy,Twice a month,295,218
+2274,2022/2/7,Immunotherapy,Once a month,254,56
+2275,2022/3/25,Gene therapy,Once a month,268,182
+2276,2022/8/15,Immunotherapy,Twice a month,78,175
+2277,2022/3/14,Pharmacotherapy,Once a month,210,54
+2278,2022/10/14,Immunotherapy,Once a month,224,282
+2279,2022/4/26,Gene therapy,Once a week,38,171
+2280,2022/3/5,Immunotherapy,Once a month,74,184
+2281,2022/2/2,Physiotherapy,Twice a month,148,242
+2282,2022/2/15,Pharmacotherapy,Once a month,168,111
+2283,2022/5/13,Radiotherapy,Once a month,195,102
+2284,2022/11/18,Oxygen therapy,Once in 3 months,173,125
+2285,2022/11/14,Aromatherapy,Once a month,130,197
+2286,2022/11/20,Phototherapy,Once a month,201,166
+2287,2022/10/21,Phototherapy,Once a week,248,297
+2288,2022/2/17,Gene therapy,Once a month,174,78
+2289,2022/6/15,Phototherapy,Twice a week,299,77
+2290,2022/5/26,Aromatherapy,Once a month,94,233
+2291,2022/9/15,Radiotherapy,Twice a week,298,190
+2292,2022/11/19,Gene therapy,Once a week,15,65
+2293,2022/8/27,Cyrotherapy,Once a month,140,74
+2294,2022/7/12,Monotherapy,Once a month,132,240
+2295,2022/5/4,Radiotherapy,Once a month,141,207
+2296,2022/11/10,Physiotherapy,Once a month,147,104
+2297,2022/10/13,Monotherapy,Once a month,111,196
+2298,2022/5/16,Radiotherapy,Once a month,140,74
+2299,2022/1/10,Cyrotherapy,Once a month,126,106
+2300,2022/5/7,Immunotherapy,Once a month,245,62
+2301,2022/3/7,Radiotherapy,Once a month,222,113
+2302,2022/3/4,Oxygen therapy,Once a month,279,156
+2303,2022/10/18,Aromatherapy,Once a month,90,63
+2304,2022/4/18,Immunotherapy,Once a month,172,208
+2305,2022/8/22,Phototherapy,Once a month,230,26
+2306,2022/5/11,Radiotherapy,Once a month,125,250
+2307,2022/10/16,Pharmacotherapy,Once in 3 months,190,149
+2308,2022/9/4,Oxygen therapy,Once a month,34,59
+2309,2022/2/8,Pharmacotherapy,Twice a month,188,101
+2310,2022/2/21,Phototherapy,Once a month,69,199
+2311,2022/1/19,Immunotherapy,Once in 3 months,159,17
+2312,2022/4/16,Pharmacotherapy,Once a month,72,24
+2313,2022/5/19,Immunotherapy,Once in 3 months,294,217
+2314,2022/2/13,Pharmacotherapy,Once a month,231,150
+2315,2022/2/15,Monotherapy,Once a month,196,155
+2316,2022/2/13,Monotherapy,Once a month,11,42
+2317,2022/2/22,Pharmacotherapy,Once a month,232,80
+2318,2022/4/3,Phototherapy,Once a month,255,285
+2319,2022/3/27,Phototherapy,Twice a month,179,191
+2320,2022/9/13,Immunotherapy,Once a month,157,251
+2321,2022/4/18,Gene therapy,Once a week,172,208
+2322,2022/11/24,Monotherapy,Once a month,124,295
+2323,2022/10/15,Aromatherapy,Once a month,251,133
+2324,2022/5/11,Gene therapy,Once a month,31,75
+2325,2022/9/21,Radiotherapy,Once a month,172,208
+2326,2022/3/23,Oxygen therapy,Once a month,108,126
+2327,2022/9/2,Immunotherapy,Once a month,278,164
+2328,2022/5/9,Immunotherapy,Once a month,45,294
+2329,2022/8/21,Monotherapy,Once a month,66,18
+2330,2022/7/3,Physiotherapy,Once in 3 months,137,243
+2331,2022/6/26,Gene therapy,Once a month,219,269
+2332,2022/10/20,Oxygen therapy,Once a month,210,54
+2333,2022/4/24,Oxygen therapy,Twice a week,82,293
+2334,2022/10/3,Oxygen therapy,Once a month,223,131
+2335,2022/10/15,Monotherapy,Once a month,214,22
+2336,2022/2/2,Monotherapy,Once a month,177,220
+2337,2022/5/22,Monotherapy,Once in 3 months,188,101
+2338,2022/11/7,Oxygen therapy,Once a month,174,78
+2339,2022/3/16,Oxygen therapy,Once a month,233,279
+2340,2022/5/25,Physiotherapy,Once a month,16,11
+2341,2022/3/23,Aromatherapy,Once a month,273,288
+2342,2022/1/3,Phototherapy,Once a week,257,160
+2343,2022/2/15,Physiotherapy,Once a month,238,118
+2344,2022/7/15,Oxygen therapy,Once in 3 months,170,31
+2345,2022/5/19,Physiotherapy,Once in 3 months,118,153
+2346,2022/1/17,Pharmacotherapy,Once a month,243,146
+2347,2022/6/13,Oxygen therapy,Once a month,13,260
+2348,2022/9/9,Physiotherapy,Once in 3 months,295,218
+2349,2022/8/1,Monotherapy,Twice a week,261,274
+2350,2022/5/11,Aromatherapy,Once a month,277,232
+2351,2022/6/6,Radiotherapy,Twice a week,291,214
+2352,2022/2/17,Aromatherapy,Once a month,215,231
+2353,2022/9/15,Monotherapy,Twice a week,148,242
+2354,2022/6/5,Cyrotherapy,Once a month,230,26
+2355,2022/1/5,Aromatherapy,Once a month,208,40
+2356,2022/9/8,Physiotherapy,Once in 3 months,29,179
+2357,2022/1/13,Monotherapy,Twice a week,211,254
+2358,2022/3/23,Gene therapy,Once a month,104,87
+2359,2022/4/18,Oxygen therapy,Once a month,168,111
+2360,2022/3/24,Immunotherapy,Once a month,152,189
+2361,2022/8/3,Gene therapy,Once a month,64,216
+2362,2022/5/12,Monotherapy,Once a month,18,70
+2363,2022/4/14,Cyrotherapy,Twice a month,66,18
+2364,2022/3/9,Oxygen therapy,Once a month,254,56
+2365,2022/5/11,Physiotherapy,Twice a week,211,254
+2366,2022/1/18,Radiotherapy,Once a month,141,207
+2367,2022/9/15,Aromatherapy,Once a month,290,13
+2368,2022/1/1,Monotherapy,Once a month,175,115
+2369,2022/4/16,Physiotherapy,Twice a month,37,51
+2370,2022/2/27,Phototherapy,Once a month,48,200
+2371,2022/5/22,Phototherapy,Once a month,227,123
+2372,2022/11/11,Physiotherapy,Once a month,273,288
+2373,2022/9/14,Pharmacotherapy,Once a month,236,236
+2374,2022/10/23,Gene therapy,Once a month,14,58
+2375,2022/3/15,Monotherapy,Twice a month,121,215
+2376,2022/9/19,Physiotherapy,Twice a week,45,294
+2377,2022/9/26,Aromatherapy,Once a month,68,89
+2378,2022/9/9,Radiotherapy,Once a month,97,194
+2379,2022/4/5,Physiotherapy,Once a month,20,91
+2380,2022/8/10,Pharmacotherapy,Twice a week,118,153
+2381,2022/10/12,Immunotherapy,Once in 3 months,26,228
+2382,2022/5/23,Cyrotherapy,Twice a month,93,253
+2383,2022/8/5,Cyrotherapy,Once a month,128,227
+2384,2022/1/9,Phototherapy,Once a month,243,146
+2385,2022/10/6,Monotherapy,Once a month,67,238
+2386,2022/9/2,Pharmacotherapy,Once a month,151,72
+2387,2022/3/12,Aromatherapy,Once in 3 months,62,94
+2388,2022/3/1,Aromatherapy,Once a month,166,28
+2389,2022/3/2,Oxygen therapy,Once in 3 months,52,255
+2390,2022/9/19,Cyrotherapy,Once in 3 months,168,111
+2391,2022/3/19,Pharmacotherapy,Twice a month,152,189
+2392,2022/7/3,Cyrotherapy,Twice a month,157,251
+2393,2022/5/5,Immunotherapy,Once in 3 months,243,146
+2394,2022/2/25,Aromatherapy,Once a month,201,166
+2395,2022/3/9,Radiotherapy,Once a week,267,135
+2396,2022/4/19,Physiotherapy,Once a month,218,134
+2397,2022/11/22,Gene therapy,Once in 3 months,111,196
+2398,2022/2/23,Pharmacotherapy,Once a month,93,253
+2399,2022/10/19,Aromatherapy,Once a month,86,162
+2400,2022/2/22,Monotherapy,Once a week,182,256
+2401,2022/1/22,Oxygen therapy,Once a month,83,43
+2402,2022/4/24,Cyrotherapy,Twice a week,50,257
+2403,2022/10/13,Gene therapy,Once a month,257,160
+2404,2022/5/2,Monotherapy,Once a month,54,284
+2405,2022/4/24,Pharmacotherapy,Twice a month,27,270
+2406,2022/11/19,Pharmacotherapy,Twice a month,156,41
+2407,2022/2/10,Aromatherapy,Once in 3 months,136,37
+2408,2022/7/15,Monotherapy,Once in 3 months,152,189
+2409,2022/6/7,Gene therapy,Twice a month,232,80
+2410,2022/5/9,Immunotherapy,Twice a month,120,137
+2411,2022/9/3,Radiotherapy,Once a week,283,27
+2412,2022/9/11,Gene therapy,Twice a month,107,271
+2413,2022/9/21,Cyrotherapy,Once in 3 months,184,222
+2414,2022/10/24,Radiotherapy,Once a month,163,299
+2415,2022/3/17,Monotherapy,Twice a week,202,52
+2416,2022/11/19,Gene therapy,Once a month,139,185
+2417,2022/2/10,Aromatherapy,Once a week,24,286
+2418,2022/1/4,Cyrotherapy,Twice a week,11,42
+2419,2022/11/2,Radiotherapy,Once a month,212,15
+2420,2022/9/27,Physiotherapy,Once a month,242,97
+2421,2022/10/6,Monotherapy,Once a month,129,88
+2422,2022/2/19,Aromatherapy,Once in 3 months,72,24
+2423,2022/8/22,Immunotherapy,Once a month,68,89
+2424,2022/10/7,Immunotherapy,Twice a week,237,283
+2425,2022/9/24,Cyrotherapy,Once a week,139,185
+2426,2022/3/11,Cyrotherapy,Twice a month,90,63
+2427,2022/8/27,Aromatherapy,Once in 3 months,120,137
+2428,2022/5/14,Radiotherapy,Twice a week,52,255
+2429,2022/8/16,Oxygen therapy,Once a month,216,16
+2430,2022/2/16,Cyrotherapy,Once a month,288,99
+2431,2022/8/15,Monotherapy,Once a month,23,139
+2432,2022/7/17,Aromatherapy,Once a week,272,275
+2433,2022/6/12,Aromatherapy,Twice a week,222,113
+2434,2022/9/24,Pharmacotherapy,Once a week,157,251
+2435,2022/3/2,Immunotherapy,Twice a month,141,207
+2436,2022/10/22,Immunotherapy,Once a month,200,201
+2437,2022/11/21,Cyrotherapy,Twice a month,191,67
+2438,2022/6/5,Monotherapy,Twice a week,202,52
+2439,2022/6/27,Cyrotherapy,Twice a month,204,141
+2440,2022/11/1,Oxygen therapy,Once a week,111,196
+2441,2022/1/8,Monotherapy,Once a month,81,212
+2442,2022/8/24,Phototherapy,Once a month,52,255
+2443,2022/10/7,Physiotherapy,Twice a week,104,87
+2444,2022/6/23,Oxygen therapy,Once in 3 months,213,206
+2445,2022/4/9,Pharmacotherapy,Twice a month,172,208
+2446,2022/1/12,Physiotherapy,Once in 3 months,64,216
+2447,2022/4/27,Oxygen therapy,Once a month,140,74
+2448,2022/3/15,Aromatherapy,Once a month,62,94
+2449,2022/2/2,Gene therapy,Once a month,182,256
+2450,2022/2/6,Radiotherapy,Once a month,219,269
+2451,2022/1/23,Pharmacotherapy,Once in 3 months,112,289
+2452,2022/11/7,Radiotherapy,Twice a month,34,59
+2453,2022/5/14,Gene therapy,Twice a week,201,166
+2454,2022/9/24,Immunotherapy,Once a week,54,284
+2455,2022/10/16,Physiotherapy,Once a month,223,131
+2456,2022/11/22,Physiotherapy,Once a month,84,114
+2457,2022/7/20,Oxygen therapy,Once in 3 months,138,241
+2458,2022/2/15,Immunotherapy,Twice a week,298,190
+2459,2022/2/21,Pharmacotherapy,Twice a week,211,254
+2460,2022/1/1,Aromatherapy,Once a month,200,201
+2461,2022/10/19,Oxygen therapy,Once a month,56,219
+2462,2022/9/11,Radiotherapy,Once a month,44,143
+2463,2022/7/24,Gene therapy,Once a month,43,32
+2464,2022/9/17,Gene therapy,Once a month,244,161
+2465,2022/3/5,Gene therapy,Once a week,150,21
+2466,2022/10/17,Phototherapy,Once a month,202,52
+2467,2022/7/18,Gene therapy,Once in 3 months,226,290
+2468,2022/7/5,Oxygen therapy,Once a week,20,91
+2469,2022/9/22,Gene therapy,Once a month,275,159
+2470,2022/8/10,Gene therapy,Once a month,248,297
+2471,2022/6/27,Oxygen therapy,Once in 3 months,258,247
+2472,2022/11/27,Immunotherapy,Twice a month,100,223
+2473,2022/1/16,Oxygen therapy,Once a month,105,61
+2474,2022/7/24,Pharmacotherapy,Once a month,97,194
+2475,2022/9/22,Oxygen therapy,Once a week,165,119
+2476,2022/6/20,Radiotherapy,Once a month,61,173
+2477,2022/11/7,Physiotherapy,Once a week,197,167
+2478,2022/5/26,Physiotherapy,Once a month,102,213
+2479,2022/2/18,Aromatherapy,Once a month,223,131
+2480,2022/5/24,Gene therapy,Once a month,186,34
+2481,2022/11/23,Pharmacotherapy,Once a week,240,69
+2482,2022/4/5,Radiotherapy,Once a week,81,212
+2483,2022/1/11,Phototherapy,Once a month,244,161
+2484,2022/4/6,Pharmacotherapy,Once a week,234,140
+2485,2022/4/25,Physiotherapy,Once a month,41,296
+2486,2022/7/23,Physiotherapy,Once a month,133,281
+2487,2022/6/6,Cyrotherapy,Once a month,95,128
+2488,2022/6/9,Pharmacotherapy,Once a month,29,179
+2489,2022/7/5,Aromatherapy,Once a month,160,53
+2490,2022/4/18,Phototherapy,Once a month,134,244
+2491,2022/3/15,Physiotherapy,Twice a week,261,274
+2492,2022/6/19,Immunotherapy,Once a month,38,171
+2493,2022/3/7,Oxygen therapy,Once in 3 months,79,263
+2494,2022/8/16,Immunotherapy,Twice a month,268,182
+2495,2022/4/9,Aromatherapy,Once a month,247,151
+2496,2022/2/16,Pharmacotherapy,Once a month,22,23
+2497,2022/6/2,Phototherapy,Twice a week,105,61
+2498,2022/5/21,Physiotherapy,Once a month,107,271
+2499,2022/5/22,Monotherapy,Once a month,243,146
+2500,2022/4/25,Radiotherapy,Once a month,101,205
+2501,2022/7/8,Cyrotherapy,Once a week,85,235
+2502,2022/5/20,Immunotherapy,Once a month,169,186
+2503,2022/9/19,Immunotherapy,Once a month,189,210
+2504,2022/5/3,Radiotherapy,Once a month,143,154
+2505,2022/11/21,Cyrotherapy,Twice a week,71,30
+2506,2022/2/9,Oxygen therapy,Once a week,261,274
+2507,2022/1/14,Aromatherapy,Once a month,110,100
+2508,2022/11/12,Immunotherapy,Once a month,114,138
+2509,2022/7/9,Gene therapy,Twice a week,81,212
+2510,2022/7/12,Gene therapy,Once a week,251,133
+2511,2022/11/12,Pharmacotherapy,Twice a week,95,128
+2512,2022/7/6,Phototherapy,Once a month,248,297
+2513,2022/3/22,Radiotherapy,Once a month,253,278
+2514,2022/5/22,Oxygen therapy,Once a week,167,64
+2515,2022/1/4,Physiotherapy,Once a month,52,255
+2516,2022/3/10,Monotherapy,Twice a week,115,178
+2517,2022/4/9,Gene therapy,Once a month,45,294
+2518,2022/10/5,Gene therapy,Twice a month,55,35
+2519,2022/2/25,Gene therapy,Once a month,130,197
+2520,2022/8/21,Aromatherapy,Once a month,235,12
+2521,2022/1/24,Gene therapy,Twice a week,230,26
+2522,2022/7/17,Monotherapy,Once a week,199,172
+2523,2022/1/24,Monotherapy,Once in 3 months,246,95
+2524,2022/9/8,Cyrotherapy,Once a month,181,221
+2525,2022/7/13,Cyrotherapy,Once a month,206,44
+2526,2022/11/26,Phototherapy,Once a month,275,159
+2527,2022/6/14,Gene therapy,Once a month,154,39
+2528,2022/9/19,Oxygen therapy,Once a month,145,276
+2529,2022/11/4,Cyrotherapy,Twice a week,181,221
+2530,2022/11/22,Aromatherapy,Once a month,270,55
+2531,2022/5/9,Radiotherapy,Once in 3 months,137,243
+2532,2022/10/19,Cyrotherapy,Twice a week,143,154
+2533,2022/10/24,Physiotherapy,Once in 3 months,134,244
+2534,2022/7/10,Radiotherapy,Once a week,157,251
+2535,2022/2/8,Aromatherapy,Once a month,19,181
+2536,2022/5/5,Gene therapy,Once a week,39,230
+2537,2022/9/18,Monotherapy,Once in 3 months,227,123
+2538,2022/5/27,Phototherapy,Once a month,188,101
+2539,2022/11/8,Gene therapy,Once in 3 months,246,95
+2540,2022/6/21,Immunotherapy,Once a month,227,123
+2541,2022/5/27,Oxygen therapy,Once a month,175,115
+2542,2022/5/9,Pharmacotherapy,Once a month,78,175
+2543,2022/9/26,Immunotherapy,Once a month,262,170
+2544,2022/3/23,Oxygen therapy,Once a month,255,285
+2545,2022/6/9,Immunotherapy,Once a month,30,76
+2546,2022/1/19,Physiotherapy,Twice a month,95,128
+2547,2022/11/21,Radiotherapy,Once a month,160,53
+2548,2022/2/2,Gene therapy,Once a month,77,176
+2549,2022/10/7,Phototherapy,Once a month,262,170
+2550,2022/2/17,Oxygen therapy,Once in 3 months,225,117
+2551,2022/4/16,Immunotherapy,Once a month,14,58
+2552,2022/11/2,Immunotherapy,Twice a month,52,255
+2553,2022/4/22,Aromatherapy,Once a month,117,136
+2554,2022/7/5,Immunotherapy,Once a month,117,136
+2555,2022/7/9,Aromatherapy,Once in 3 months,297,109
+2556,2022/4/17,Immunotherapy,Once a month,76,121
+2557,2022/9/11,Cyrotherapy,Once a month,58,268
+2558,2022/1/17,Aromatherapy,Twice a month,83,43
+2559,2022/6/17,Monotherapy,Once a month,191,67
+2560,2022/7/3,Pharmacotherapy,Once a week,157,251
+2561,2022/9/25,Radiotherapy,Once a week,169,186
+2562,2022/4/8,Physiotherapy,Twice a month,283,27
+2563,2022/1/13,Cyrotherapy,Once a month,54,284
+2564,2022/10/26,Immunotherapy,Twice a week,26,228
+2565,2022/5/14,Cyrotherapy,Once a week,174,78
+2566,2022/2/25,Oxygen therapy,Twice a week,27,270
+2567,2022/2/13,Monotherapy,Twice a week,188,101
+2568,2022/9/1,Phototherapy,Once a month,150,21
+2569,2022/5/7,Aromatherapy,Once a month,56,219
+2570,2022/4/12,Radiotherapy,Twice a week,40,165
+2571,2022/9/2,Gene therapy,Twice a month,48,200
+2572,2022/8/11,Oxygen therapy,Once a month,157,251
+2573,2022/3/25,Phototherapy,Once a month,117,136
+2574,2022/5/10,Immunotherapy,Once a week,206,44
+2575,2022/3/20,Immunotherapy,Once a month,184,222
+2576,2022/9/11,Physiotherapy,Once a week,74,184
+2577,2022/11/5,Radiotherapy,Twice a month,12,71
+2578,2022/10/21,Immunotherapy,Once a month,87,249
+2579,2022/11/17,Pharmacotherapy,Once a month,131,267
+2580,2022/10/26,Cyrotherapy,Once a month,288,99
+2581,2022/4/4,Phototherapy,Once a month,128,227
+2582,2022/11/1,Pharmacotherapy,Once a month,109,145
+2583,2022/10/2,Cyrotherapy,Once a month,85,235
+2584,2022/6/7,Physiotherapy,Once a month,160,53
+2585,2022/6/6,Physiotherapy,Twice a month,149,29
+2586,2022/1/4,Phototherapy,Once a month,169,186
+2587,2022/7/12,Oxygen therapy,Once a month,121,215
+2588,2022/7/1,Radiotherapy,Twice a month,215,231
+2589,2022/11/19,Monotherapy,Once a month,73,33
+2590,2022/10/25,Pharmacotherapy,Once in 3 months,24,286
+2591,2022/11/8,Phototherapy,Once in 3 months,41,296
+2592,2022/1/11,Cyrotherapy,Once a month,187,277
+2593,2022/4/17,Cyrotherapy,Once in 3 months,109,145
+2594,2022/3/13,Phototherapy,Once in 3 months,219,269
+2595,2022/11/17,Radiotherapy,Once a month,74,184
+2596,2022/7/11,Immunotherapy,Once a month,295,218
+2597,2022/5/15,Oxygen therapy,Once a month,204,141
+2598,2022/11/10,Oxygen therapy,Once a month,138,241
+2599,2022/9/3,Radiotherapy,Twice a week,200,201
+2600,2022/11/14,Phototherapy,Once a month,75,169
+2601,2022/4/18,Phototherapy,Twice a month,84,114
+2602,2022/3/20,Gene therapy,Once a month,208,40
+2603,2022/3/27,Radiotherapy,Once in 3 months,110,100
+2604,2022/3/10,Immunotherapy,Twice a week,157,251
+2605,2022/6/8,Aromatherapy,Once a month,60,48
+2606,2022/7/3,Aromatherapy,Once a week,98,280
+2607,2022/3/27,Monotherapy,Once a week,31,75
+2608,2022/3/1,Pharmacotherapy,Once a month,115,178
+2609,2022/8/5,Monotherapy,Once a month,133,281
+2610,2022/10/18,Cyrotherapy,Twice a week,192,258
+2611,2022/2/26,Physiotherapy,Once a month,11,42
+2612,2022/8/9,Physiotherapy,Twice a week,78,175
+2613,2022/10/10,Monotherapy,Once a month,20,91
+2614,2022/3/25,Pharmacotherapy,Once a week,241,209
+2615,2022/11/2,Pharmacotherapy,Once a month,259,85
+2616,2022/7/20,Radiotherapy,Once a month,119,272
+2617,2022/10/2,Phototherapy,Twice a month,187,277
+2618,2022/8/15,Immunotherapy,Once a month,16,11
+2619,2022/8/13,Monotherapy,Once a month,52,255
+2620,2022/11/6,Gene therapy,Once a month,29,179
+2621,2022/2/25,Radiotherapy,Once a month,278,164
+2622,2022/8/17,Phototherapy,Once a month,198,116
+2623,2022/9/10,Cyrotherapy,Twice a week,72,24
+2624,2022/7/11,Pharmacotherapy,Twice a month,206,44
+2625,2022/10/26,Phototherapy,Once a month,124,295
+2626,2022/8/6,Immunotherapy,Twice a month,77,176
+2627,2022/10/14,Aromatherapy,Once a month,11,42
+2628,2022/3/19,Phototherapy,Twice a month,211,254
+2629,2022/3/26,Monotherapy,Once a month,35,198
+2630,2022/2/21,Gene therapy,Once a month,291,214
+2631,2022/8/15,Cyrotherapy,Twice a week,184,222
+2632,2022/9/14,Phototherapy,Once a month,184,222
+2633,2022/10/23,Gene therapy,Twice a month,21,211
+2634,2022/11/8,Gene therapy,Once a month,29,179
+2635,2022/5/18,Pharmacotherapy,Once a month,274,262
+2636,2022/4/10,Physiotherapy,Once a month,162,84
+2637,2022/3/7,Physiotherapy,Once a month,110,100
+2638,2022/3/27,Immunotherapy,Twice a month,97,194
+2639,2022/2/9,Phototherapy,Once a month,247,151
+2640,2022/2/24,Phototherapy,Once a month,207,193
+2641,2022/4/10,Aromatherapy,Once in 3 months,14,58
+2642,2022/9/27,Monotherapy,Once a month,156,41
+2643,2022/9/17,Phototherapy,Twice a month,264,229
+2644,2022/8/12,Cyrotherapy,Once a month,290,13
+2645,2022/7/16,Oxygen therapy,Once a month,236,236
+2646,2022/10/12,Oxygen therapy,Twice a month,162,84
+2647,2022/10/6,Phototherapy,Once a month,250,132
+2648,2022/6/9,Aromatherapy,Once a month,17,203
+2649,2022/7/20,Radiotherapy,Once a month,147,104
+2650,2022/10/27,Physiotherapy,Once a month,73,33
+2651,2022/5/17,Gene therapy,Once a month,260,93
+2652,2022/3/4,Oxygen therapy,Once a month,278,164
+2653,2022/7/11,Physiotherapy,Once a week,165,119
+2654,2022/10/6,Monotherapy,Once a month,134,244
+2655,2022/10/16,Immunotherapy,Once a month,208,40
+2656,2022/7/14,Pharmacotherapy,Once in 3 months,102,213
+2657,2022/9/17,Oxygen therapy,Once a month,211,254
+2658,2022/3/17,Aromatherapy,Twice a week,267,135
+2659,2022/4/6,Pharmacotherapy,Once in 3 months,81,212
+2660,2022/5/20,Cyrotherapy,Once a month,270,55
+2661,2022/7/27,Radiotherapy,Once a month,143,154
+2662,2022/8/19,Phototherapy,Once a month,73,33
+2663,2022/3/6,Gene therapy,Once a month,167,64
+2664,2022/5/27,Phototherapy,Once a month,75,169
+2665,2022/2/27,Pharmacotherapy,Twice a month,247,151
+2666,2022/9/19,Physiotherapy,Once a month,183,245
+2667,2022/1/20,Phototherapy,Once a month,180,105
+2668,2022/2/13,Monotherapy,Once a month,238,118
+2669,2022/8/25,Physiotherapy,Once a month,286,158
+2670,2022/6/8,Immunotherapy,Once a month,164,259
+2671,2022/3/25,Physiotherapy,Once in 3 months,169,186
+2672,2022/8/14,Aromatherapy,Once in 3 months,50,257
+2673,2022/2/2,Radiotherapy,Once a month,131,267
+2674,2022/11/26,Physiotherapy,Twice a week,116,96
+2675,2022/7/14,Oxygen therapy,Once in 3 months,128,227
+2676,2022/2/11,Physiotherapy,Once a month,251,133
+2677,2022/10/19,Immunotherapy,Once a month,23,139
+2678,2022/7/22,Phototherapy,Once a month,49,110
+2679,2022/11/13,Oxygen therapy,Once in 3 months,293,234
+2680,2022/11/8,Aromatherapy,Once a month,253,278
+2681,2022/5/10,Gene therapy,Twice a month,235,12
+2682,2022/2/25,Aromatherapy,Twice a month,53,224
+2683,2022/7/6,Monotherapy,Once a month,26,228
+2684,2022/8/27,Phototherapy,Once a month,54,284
+2685,2022/9/25,Pharmacotherapy,Once a month,250,132
+2686,2022/11/12,Immunotherapy,Once a week,54,284
+2687,2022/8/23,Phototherapy,Once a month,83,43
+2688,2022/9/1,Oxygen therapy,Once a month,235,12
+2689,2022/11/16,Radiotherapy,Twice a week,151,72
+2690,2022/7/27,Pharmacotherapy,Twice a month,288,99
+2691,2022/3/21,Pharmacotherapy,Once a month,136,37
+2692,2022/4/1,Oxygen therapy,Once a month,217,187
+2693,2022/1/13,Phototherapy,Once a month,197,167
+2694,2022/2/6,Physiotherapy,Once a month,134,244
+2695,2022/4/8,Oxygen therapy,Once a month,126,106
+2696,2022/4/10,Radiotherapy,Once a month,136,37
+2697,2022/3/11,Phototherapy,Once a month,167,64
+2698,2022/6/27,Immunotherapy,Once a month,144,177
+2699,2022/9/5,Cyrotherapy,Once a week,229,291
+2700,2022/2/5,Gene therapy,Once a month,252,83
+2701,2022/2/20,Immunotherapy,Once in 3 months,113,265
+2702,2022/2/27,Radiotherapy,Once a month,168,111
+2703,2022/6/26,Oxygen therapy,Once a month,182,256
+2704,2022/3/16,Cyrotherapy,Once in 3 months,188,101
+2705,2022/2/1,Aromatherapy,Once a month,269,68
+2706,2022/5/11,Phototherapy,Twice a month,113,265
+2707,2022/1/3,Aromatherapy,Once a month,129,88
+2708,2022/10/21,Monotherapy,Once a month,237,283
+2709,2022/7/18,Phototherapy,Once a month,270,55
+2710,2022/11/25,Oxygen therapy,Once a month,49,110
+2711,2022/4/26,Radiotherapy,Once a month,243,146
+2712,2022/4/4,Pharmacotherapy,Once a month,139,185
+2713,2022/7/23,Aromatherapy,Once a week,99,147
+2714,2022/1/22,Aromatherapy,Once a month,145,276
+2715,2022/2/23,Monotherapy,Once a month,112,289
+2716,2022/7/17,Oxygen therapy,Once a week,41,296
+2717,2022/7/25,Phototherapy,Once in 3 months,175,115
+2718,2022/10/21,Phototherapy,Twice a week,96,246
+2719,2022/7/14,Gene therapy,Once a month,281,192
+2720,2022/1/7,Radiotherapy,Twice a week,256,157
+2721,2022/2/7,Monotherapy,Once a month,211,254
+2722,2022/6/2,Gene therapy,Once a week,167,64
+2723,2022/5/16,Physiotherapy,Twice a month,79,263
+2724,2022/3/6,Aromatherapy,Once in 3 months,249,124
+2725,2022/9/21,Physiotherapy,Twice a week,130,197
+2726,2022/5/12,Monotherapy,Once a week,130,197
+2727,2022/4/1,Monotherapy,Once a month,294,217
+2728,2022/11/7,Monotherapy,Once a month,123,20
+2729,2022/7/15,Radiotherapy,Once in 3 months,64,216
+2730,2022/5/5,Immunotherapy,Twice a week,241,209
+2731,2022/5/23,Phototherapy,Once a month,116,96
+2732,2022/10/22,Aromatherapy,Once a week,165,119
+2733,2022/6/27,Immunotherapy,Once in 3 months,177,220
+2734,2022/10/9,Oxygen therapy,Twice a week,105,61
+2735,2022/4/25,Aromatherapy,Once a month,179,191
+2736,2022/4/2,Phototherapy,Once a month,18,70
+2737,2022/1/25,Monotherapy,Once a month,279,156
+2738,2022/4/2,Monotherapy,Twice a week,142,38
+2739,2022/3/3,Oxygen therapy,Once a week,192,258
+2740,2022/2/25,Gene therapy,Once a month,150,21
+2741,2022/5/20,Immunotherapy,Twice a month,28,195
+2742,2022/2/15,Phototherapy,Twice a month,111,196
+2743,2022/7/7,Phototherapy,Once a week,220,142
+2744,2022/2/1,Cyrotherapy,Once a month,91,252
+2745,2022/6/23,Pharmacotherapy,Once a month,297,109
+2746,2022/10/12,Cyrotherapy,Once a week,155,239
+2747,2022/5/2,Monotherapy,Once a month,150,21
+2748,2022/9/3,Radiotherapy,Once a month,156,41
+2749,2022/11/10,Oxygen therapy,Once a month,237,283
+2750,2022/9/6,Cyrotherapy,Once a month,173,125
+2751,2022/8/7,Immunotherapy,Twice a month,200,201
+2752,2022/2/18,Cyrotherapy,Once a week,193,174
+2753,2022/6/24,Oxygen therapy,Once a month,247,151
+2754,2022/5/21,Phototherapy,Twice a week,250,132
+2755,2022/10/17,Oxygen therapy,Once a month,252,83
+2756,2022/5/2,Cyrotherapy,Once a month,77,176
+2757,2022/8/2,Aromatherapy,Once a month,169,186
+2758,2022/3/22,Cyrotherapy,Twice a week,51,163
+2759,2022/8/19,Monotherapy,Once a month,49,110
+2760,2022/9/14,Oxygen therapy,Once a month,167,64
+2761,2022/6/16,Physiotherapy,Once in 3 months,55,35
+2762,2022/7/19,Physiotherapy,Once a month,199,172
+2763,2022/2/9,Immunotherapy,Once a month,297,109
+2764,2022/5/23,Aromatherapy,Once a month,226,290
+2765,2022/9/21,Cyrotherapy,Once a month,124,295
+2766,2022/1/27,Gene therapy,Once a month,283,27
+2767,2022/9/4,Radiotherapy,Twice a month,65,82
+2768,2022/5/13,Oxygen therapy,Once a month,151,72
+2769,2022/2/4,Phototherapy,Once a month,130,197
+2770,2022/7/9,Oxygen therapy,Once a month,253,278
+2771,2022/9/1,Aromatherapy,Twice a month,25,14
+2772,2022/7/13,Cyrotherapy,Twice a month,213,206
+2773,2022/11/5,Aromatherapy,Once a month,146,46
+2774,2022/3/18,Cyrotherapy,Once a month,225,117
+2775,2022/5/24,Gene therapy,Once a month,142,38
+2776,2022/11/4,Oxygen therapy,Once a month,65,82
+2777,2022/3/27,Monotherapy,Once a month,218,134
+2778,2022/5/2,Phototherapy,Once in 3 months,53,224
+2779,2022/1/15,Immunotherapy,Once a month,37,51
+2780,2022/9/9,Cyrotherapy,Once a month,250,132
+2781,2022/7/5,Cyrotherapy,Once a month,110,100
+2782,2022/11/17,Gene therapy,Twice a week,232,80
+2783,2022/3/10,Immunotherapy,Once in 3 months,153,25
+2784,2022/10/26,Cyrotherapy,Once a month,136,37
+2785,2022/3/23,Radiotherapy,Once a month,212,15
+2786,2022/8/17,Physiotherapy,Once a month,237,283
+2787,2022/3/27,Aromatherapy,Once in 3 months,219,269
+2788,2022/3/24,Aromatherapy,Twice a week,34,59
+2789,2022/11/20,Immunotherapy,Once a month,106,57
+2790,2022/2/23,Gene therapy,Once a month,168,111
+2791,2022/3/22,Radiotherapy,Once a month,163,299
+2792,2022/3/25,Radiotherapy,Once a month,148,242
+2793,2022/9/8,Cyrotherapy,Once a month,197,167
+2794,2022/7/13,Pharmacotherapy,Twice a month,281,192
+2795,2022/5/26,Oxygen therapy,Twice a week,118,153
+2796,2022/2/1,Aromatherapy,Twice a month,64,216
+2797,2022/6/10,Radiotherapy,Once a month,25,14
+2798,2022/4/8,Physiotherapy,Twice a week,260,93
+2799,2022/3/13,Physiotherapy,Once a month,160,53
+2800,2022/6/14,Radiotherapy,Once a month,59,120
+2801,2022/11/10,Aromatherapy,Once a month,286,158
+2802,2022/10/24,Gene therapy,Once a month,141,207
+2803,2022/11/17,Phototherapy,Twice a month,125,250
+2804,2022/11/14,Immunotherapy,Once in 3 months,295,218
+2805,2022/9/1,Pharmacotherapy,Once a month,284,98
+2806,2022/4/6,Monotherapy,Once a month,223,131
+2807,2022/1/23,Phototherapy,Once a month,104,87
+2808,2022/3/8,Phototherapy,Once a month,79,263
+2809,2022/4/9,Phototherapy,Once a week,279,156
+2810,2022/2/7,Oxygen therapy,Once a month,193,174
+2811,2022/2/20,Immunotherapy,Twice a month,93,253
+2812,2022/11/17,Physiotherapy,Twice a month,178,47
+2813,2022/7/9,Aromatherapy,Once a month,243,146
+2814,2022/7/4,Cyrotherapy,Twice a week,220,142
+2815,2022/5/15,Aromatherapy,Once a month,137,243
+2816,2022/3/24,Radiotherapy,Once a week,41,296
+2817,2022/6/10,Pharmacotherapy,Twice a week,270,55
+2818,2022/2/19,Pharmacotherapy,Once a month,192,258
+2819,2022/1/21,Cyrotherapy,Once in 3 months,134,244
+2820,2022/11/7,Oxygen therapy,Twice a month,142,38
+2821,2022/8/23,Gene therapy,Once a month,21,211
+2822,2022/11/14,Gene therapy,Once a month,121,215
+2823,2022/1/25,Oxygen therapy,Once a month,275,159
+2824,2022/8/18,Aromatherapy,Twice a week,290,13
+2825,2022/1/5,Radiotherapy,Once a month,203,266
+2826,2022/6/1,Monotherapy,Once a month,78,175
+2827,2022/4/8,Phototherapy,Once a month,79,263
+2828,2022/3/16,Aromatherapy,Twice a month,178,47
+2829,2022/4/5,Immunotherapy,Once a month,109,145
+2830,2022/2/24,Pharmacotherapy,Once a month,172,208
+2831,2022/3/22,Radiotherapy,Once in 3 months,186,34
+2832,2022/10/14,Pharmacotherapy,Once a month,73,33
+2833,2022/4/2,Oxygen therapy,Twice a month,290,13
+2834,2022/3/10,Cyrotherapy,Once a month,291,214
+2835,2022/11/12,Pharmacotherapy,Once a month,137,243
+2836,2022/6/5,Physiotherapy,Once a week,96,246
+2837,2022/8/16,Radiotherapy,Twice a week,254,56
+2838,2022/3/21,Aromatherapy,Twice a month,56,219
+2839,2022/8/22,Phototherapy,Once a week,174,78
+2840,2022/6/20,Immunotherapy,Once a month,230,26
+2841,2022/3/19,Radiotherapy,Twice a week,217,187
+2842,2022/1/21,Phototherapy,Once a month,297,109
+2843,2022/9/21,Oxygen therapy,Once a month,226,290
+2844,2022/7/26,Oxygen therapy,Once a month,189,210
+2845,2022/1/23,Monotherapy,Twice a week,69,199
+2846,2022/6/13,Pharmacotherapy,Twice a month,213,206
+2847,2022/8/2,Immunotherapy,Once a month,272,275
+2848,2022/3/22,Immunotherapy,Twice a month,275,159
+2849,2022/2/3,Immunotherapy,Once a month,53,224
+2850,2022/3/12,Oxygen therapy,Once a week,53,224
+2851,2022/8/16,Pharmacotherapy,Twice a month,199,172
+2852,2022/1/20,Cyrotherapy,Once a month,108,126
+2853,2022/9/22,Immunotherapy,Once a week,217,187
+2854,2022/7/25,Physiotherapy,Once in 3 months,51,163
+2855,2022/10/13,Immunotherapy,Once in 3 months,76,121
+2856,2022/5/18,Cyrotherapy,Once a month,226,290
+2857,2022/9/9,Cyrotherapy,Once a week,122,107
+2858,2022/4/18,Cyrotherapy,Once a month,189,210
+2859,2022/5/18,Phototherapy,Once a month,64,216
+2860,2022/11/17,Physiotherapy,Once a month,163,299
+2861,2022/1/27,Physiotherapy,Once a month,267,135
+2862,2022/4/7,Radiotherapy,Once a month,229,291
+2863,2022/4/27,Gene therapy,Once in 3 months,162,84
+2864,2022/9/18,Aromatherapy,Twice a week,188,101
+2865,2022/8/14,Oxygen therapy,Once a month,228,90
+2866,2022/8/15,Pharmacotherapy,Once a week,201,166
+2867,2022/8/26,Gene therapy,Twice a week,41,296
+2868,2022/4/27,Monotherapy,Once a month,99,147
+2869,2022/10/27,Cyrotherapy,Once a week,295,218
+2870,2022/2/19,Aromatherapy,Twice a week,21,211
+2871,2022/1/15,Monotherapy,Once a month,56,219
+2872,2022/1/7,Phototherapy,Once a month,134,244
+2873,2022/8/16,Gene therapy,Once a month,84,114
+2874,2022/4/7,Cyrotherapy,Once a month,69,199
+2875,2022/1/25,Cyrotherapy,Once a week,293,234
+2876,2022/10/15,Pharmacotherapy,Once a month,120,137
+2877,2022/7/13,Aromatherapy,Once a month,91,252
+2878,2022/6/6,Immunotherapy,Once a month,71,30
+2879,2022/8/10,Monotherapy,Twice a week,18,70
+2880,2022/6/7,Aromatherapy,Once in 3 months,175,115
+2881,2022/11/6,Radiotherapy,Once a month,271,168
+2882,2022/11/8,Pharmacotherapy,Twice a week,218,134
+2883,2022/8/9,Pharmacotherapy,Once a month,156,41
+2884,2022/11/18,Oxygen therapy,Once a month,183,245
+2885,2022/1/25,Radiotherapy,Twice a month,92,180
+2886,2022/1/18,Oxygen therapy,Once a month,161,188
+2887,2022/2/12,Oxygen therapy,Once a month,49,110
+2888,2022/7/3,Phototherapy,Once a month,281,192
+2889,2022/2/21,Gene therapy,Once a month,60,48
+2890,2022/1/15,Immunotherapy,Once a month,196,155
+2891,2022/6/26,Aromatherapy,Once a month,249,124
+2892,2022/10/12,Radiotherapy,Once a week,216,16
+2893,2022/1/24,Immunotherapy,Once in 3 months,125,250
+2894,2022/10/24,Monotherapy,Twice a week,15,65
+2895,2022/1/8,Aromatherapy,Once a month,127,248
+2896,2022/9/7,Oxygen therapy,Once a month,103,148
+2897,2022/4/4,Aromatherapy,Once a month,139,185
+2898,2022/8/2,Oxygen therapy,Twice a month,266,73
+2899,2022/3/24,Oxygen therapy,Once a month,91,252
+2900,2022/8/15,Gene therapy,Once a month,251,133
+2901,2022/3/12,Aromatherapy,Once a week,296,122
+2902,2022/2/14,Oxygen therapy,Once a month,221,144
+2903,2022/10/13,Physiotherapy,Once a month,202,52
+2904,2022/4/10,Phototherapy,Once a month,19,181
+2905,2022/7/1,Gene therapy,Once a month,62,94
+2906,2022/3/23,Phototherapy,Once a month,173,125
+2907,2022/7/2,Oxygen therapy,Twice a week,120,137
+2908,2022/4/24,Oxygen therapy,Once a month,279,156
+2909,2022/2/27,Radiotherapy,Once a month,228,90
+2910,2022/2/8,Pharmacotherapy,Once in 3 months,101,205
+2911,2022/9/3,Phototherapy,Once a month,265,45
+2912,2022/4/3,Aromatherapy,Twice a week,264,229
+2913,2022/11/17,Pharmacotherapy,Twice a week,85,235
+2914,2022/10/27,Aromatherapy,Once a month,66,18
+2915,2022/7/1,Phototherapy,Once a month,257,160
+2916,2022/1/4,Physiotherapy,Twice a week,47,112
+2917,2022/4/15,Gene therapy,Twice a month,73,33
+2918,2022/1/11,Gene therapy,Twice a month,235,12
+2919,2022/5/20,Phototherapy,Once a month,132,240
+2920,2022/3/21,Gene therapy,Twice a week,295,218
+2921,2022/2/12,Radiotherapy,Once a month,266,73
+2922,2022/2/10,Pharmacotherapy,Once a week,256,157
+2923,2022/3/7,Physiotherapy,Once a month,88,183
+2924,2022/3/19,Immunotherapy,Once in 3 months,219,269
+2925,2022/3/22,Radiotherapy,Once a month,212,15
+2926,2022/7/23,Immunotherapy,Once a month,50,257
+2927,2022/1/26,Radiotherapy,Once a month,160,53
+2928,2022/3/15,Immunotherapy,Twice a week,45,294
+2929,2022/11/1,Phototherapy,Once a month,271,168
+2930,2022/11/10,Pharmacotherapy,Once a week,104,87
+2931,2022/7/6,Cyrotherapy,Once a week,64,216
+2932,2022/10/25,Physiotherapy,Once a month,176,202
+2933,2022/9/7,Gene therapy,Once in 3 months,244,161
+2934,2022/10/1,Phototherapy,Once a month,60,48
+2935,2022/11/17,Aromatherapy,Twice a week,232,80
+2936,2022/4/1,Gene therapy,Once a week,66,18
+2937,2022/1/14,Phototherapy,Once a month,49,110
+2938,2022/2/6,Pharmacotherapy,Once a week,133,281
+2939,2022/4/13,Phototherapy,Once a month,148,242
+2940,2022/11/23,Oxygen therapy,Once a month,138,241
+2941,2022/3/3,Oxygen therapy,Once a month,83,43
+2942,2022/11/19,Gene therapy,Once a month,223,131
+2943,2022/5/6,Immunotherapy,Once a month,161,188
+2944,2022/1/18,Aromatherapy,Once a month,257,160
+2945,2022/9/23,Physiotherapy,Once a month,31,75
+2946,2022/4/19,Immunotherapy,Twice a month,211,254
+2947,2022/7/27,Radiotherapy,Once in 3 months,82,293
+2948,2022/2/16,Physiotherapy,Once a month,247,151
+2949,2022/11/9,Pharmacotherapy,Once a month,56,219
+2950,2022/6/19,Cyrotherapy,Once a month,25,14
+2951,2022/11/8,Gene therapy,Once a month,245,62
+2952,2022/4/17,Gene therapy,Once a month,207,193
+2953,2022/7/12,Cyrotherapy,Once in 3 months,295,218
+2954,2022/8/26,Pharmacotherapy,Once in 3 months,184,222
+2955,2022/1/9,Physiotherapy,Twice a week,239,225
+2956,2022/8/13,Aromatherapy,Twice a week,110,100
+2957,2022/2/3,Radiotherapy,Twice a month,279,156
+2958,2022/8/21,Cyrotherapy,Once a month,120,137
+2959,2022/7/7,Physiotherapy,Twice a week,107,271
+2960,2022/1/22,Aromatherapy,Once a month,277,232
+2961,2022/10/17,Monotherapy,Once a month,118,153
+2962,2022/3/23,Gene therapy,Once a month,279,156
+2963,2022/7/25,Gene therapy,Once a month,257,160
+2964,2022/8/9,Oxygen therapy,Once a month,283,27
+2965,2022/4/3,Gene therapy,Twice a week,140,74
+2966,2022/4/12,Immunotherapy,Once a month,206,44
+2967,2022/9/11,Radiotherapy,Once a month,128,227
+2968,2022/5/27,Radiotherapy,Once a week,232,80
+2969,2022/11/26,Pharmacotherapy,Once a month,156,41
+2970,2022/8/16,Pharmacotherapy,Twice a week,175,115
+2971,2022/4/26,Monotherapy,Twice a week,125,250
+2972,2022/9/23,Physiotherapy,Once a month,244,161
+2973,2022/9/22,Radiotherapy,Once a month,92,180
+2974,2022/3/8,Radiotherapy,Once a week,257,160
+2975,2022/2/15,Immunotherapy,Twice a week,15,65
+2976,2022/8/6,Pharmacotherapy,Once a month,199,172
+2977,2022/3/18,Radiotherapy,Once a month,101,205
+2978,2022/4/6,Monotherapy,Once a month,257,160
+2979,2022/4/10,Physiotherapy,Once a week,45,294
+2980,2022/11/20,Radiotherapy,Once a month,123,20
+2981,2022/9/24,Gene therapy,Once a month,184,222
+2982,2022/4/3,Radiotherapy,Once a month,238,118
+2983,2022/9/19,Aromatherapy,Once in 3 months,166,28
+2984,2022/7/21,Oxygen therapy,Once in 3 months,200,201
+2985,2022/2/14,Cyrotherapy,Once a month,214,22
+2986,2022/5/14,Aromatherapy,Once a week,273,288
+2987,2022/9/23,Radiotherapy,Once a month,178,47
+2988,2022/9/18,Pharmacotherapy,Once a month,206,44
+2989,2022/8/16,Phototherapy,Once a month,73,33
+2990,2022/6/19,Phototherapy,Once a month,156,41
+2991,2022/10/16,Oxygen therapy,Once a week,96,246
+2992,2022/5/19,Cyrotherapy,Once in 3 months,246,95
+2993,2022/4/25,Oxygen therapy,Once a month,262,170
+2994,2022/5/1,Aromatherapy,Once a week,108,126
+2995,2022/7/26,Physiotherapy,Once in 3 months,42,287
+2996,2022/1/3,Physiotherapy,Once a month,212,15
+2997,2022/1/11,Gene therapy,Twice a week,49,110
+2998,2022/11/25,Gene therapy,Once in 3 months,71,30
+2999,2022/7/18,Oxygen therapy,Once a month,58,268
+3000,2022/5/22,Phototherapy,Once a month,98,280
+3001,2022/4/4,Radiotherapy,Once a week,252,83
+3002,2022/9/8,Pharmacotherapy,Once a month,144,177
+3003,2022/1/7,Immunotherapy,Once a month,206,44
+3004,2022/5/11,Pharmacotherapy,Twice a month,15,65
+3005,2022/10/11,Gene therapy,Once a week,17,203
+3006,2022/5/6,Phototherapy,Twice a month,181,221
+3007,2022/10/12,Radiotherapy,Once a month,189,210
+3008,2022/10/13,Pharmacotherapy,Twice a week,122,107
+3009,2022/7/12,Pharmacotherapy,Once a month,145,276
+3010,2022/7/8,Cyrotherapy,Once a month,201,166
+3011,2022/11/13,Aromatherapy,Once a month,67,238
+3012,2022/5/3,Pharmacotherapy,Once a month,139,185
+3013,2022/3/1,Pharmacotherapy,Once a month,110,100
+3014,2022/5/7,Gene therapy,Twice a month,73,33
+3015,2022/4/8,Radiotherapy,Once a month,146,46
+3016,2022/9/24,Cyrotherapy,Once a month,72,24
+3017,2022/3/3,Monotherapy,Once a month,164,259
+3018,2022/10/10,Gene therapy,Once a month,231,150
+3019,2022/8/20,Aromatherapy,Once a month,289,264
+3020,2022/10/1,Phototherapy,Once a month,214,22
+3021,2022/10/14,Phototherapy,Once a month,166,28
+3022,2022/5/27,Monotherapy,Once a month,120,137
+3023,2022/10/15,Immunotherapy,Once a month,170,31
+3024,2022/10/17,Gene therapy,Once a month,239,225
+3025,2022/8/21,Radiotherapy,Once a month,60,48
+3026,2022/11/17,Oxygen therapy,Once in 3 months,76,121
+3027,2022/1/2,Aromatherapy,Twice a week,152,189
+3028,2022/8/2,Gene therapy,Once a month,95,128
+3029,2022/5/17,Oxygen therapy,Once a month,268,182
